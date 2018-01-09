@@ -8,7 +8,8 @@ title: Michael Hedges's CV
 High-Energy Physicist.
 
 <div id="webaddress">
-<a href="https://github.com/mhedges">Github</a>
+<a href="mailto:mhedges@hawaii.edu">mhedges@hawaii.edu</a>
+| <a href="https://github.com/mhedges">My Github Page</a>
 </div>
 =======
 
@@ -52,16 +53,18 @@ Cosmic Rays"
 
 ### Journals
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+`2018`
+P. M. Lewis, I. Jaegle, H. Nakayama, et al., "First Measurements of Beam
+Backgrounds at SuperKEKB" [in preparation].
 
-`1669`
-Lectiones opticæ.
+S.E. Vahsen, M.T. Hedges, I. Jaegle, S.J. Ross, I.S. Seong, T.N. Thorpe, J.
+Yamaoka, J.A. Kadyk, M. Garcia-Sciveres, "3-D Tracking of Nuclear Recoils in a
+Miniature Time Projection Chamber" [<a href="https://arxiv.org/abs/1407.7013">arXiv:1407.7013</a>]
 
-etc. etc. etc.
-
+I. Jaegle, S. E. Vahsen, et al., "High resolution 3D Tracking in a TPC with Pixel
+Readout" [in preparation].
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: January 2018 -->
