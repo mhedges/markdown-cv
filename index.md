@@ -10,6 +10,7 @@ High-Energy Physicist.
 <div id="webaddress">
 <a href="mailto:mhedges@hawaii.edu">mhedges@hawaii.edu</a>
 | <a href="https://github.com/mhedges">My Github Page</a>
+| Phone: (808) 956-2962
 </div>
 =======
 
