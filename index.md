@@ -6,6 +6,10 @@ title: Isaac Newtons's CV
 ---
 -->
 
+---
+layout:default
+---
+
 # Michael Hedges
 High-Energy Physicist.
 
