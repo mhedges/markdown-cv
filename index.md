@@ -8,7 +8,7 @@ title: Michael Hedges's CV
 High-Energy Physicist.
 
 <div id="webaddress">
-<a href="github.com/mhedges">Github</a>
+<a href="https://github.com/mhedges">Github</a>
 </div>
 =======
 
@@ -27,15 +27,15 @@ analyses, quarkonium spectroscopy & NRQCD, semi-leptonic B decays
 
 
 ## Education
-`2007-2011`
-__Boston University__
-
-- BA Physics
-
 `2012-2018 (Expected)`
 __University of Hawaii at Manoa__
 
 - PhD Physics
+
+`2007-2011`
+__Boston University__
+
+- BA Physics
 
 
 ## Awards
