@@ -22,7 +22,6 @@ High-Energy Physicist.
 Physics PhD Candidate at University of Hawaii at Manoa.
 
 ### Specialized in
-<<<<<<< HEAD
 Data analysis & techniques, high-energy lepton collider commissioning,
 beam-induced backgrounds, neutral particle detection.
 
