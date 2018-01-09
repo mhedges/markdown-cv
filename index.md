@@ -5,14 +5,13 @@ title: Michael Hedges's CV
 
 
 # Michael Hedges
-High-Energy Physicist.
+High-Energy Physicist
 
 <div id="webaddress">
 <a href="mailto:mhedges@hawaii.edu">mhedges@hawaii.edu</a>
 | <a href="https://github.com/mhedges">My Github Page</a>
 | Phone: (808) 956-2962
 </div>
-=======
 
 ## Currently
 Physics PhD Candidate at University of Hawaii at Manoa.
@@ -39,6 +38,20 @@ __Boston University__
 
 - BA Physics
 
+
+## Technical Skills
+
+Python/Scipy
+| C/[ROOT](https://root.cern.ch)
+| Machine Learning
+| OS X
+| Git
+| Linux
+
+## Workshops
+`2017`
+"Computational and Data Science School for High Energy Physics (CoDaS-HEP)" [ [codas-hep.org] ](http://codas-hep.org)
+- [CoDaS-HEP Agenda](https://indico.cern.ch/event/625333/timetable/)
 
 ## Awards
 
