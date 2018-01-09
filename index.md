@@ -1,6 +1,5 @@
 <!--
 ---
-<<<<<<< HEAD
 layout: cv
 title: Isaac Newtons's CV
 ---
