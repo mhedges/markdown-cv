@@ -1,13 +1,8 @@
-<!--
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Michael Hedges's CV
 ---
--->
 
----
-layout:default
----
 
 # Michael Hedges
 High-Energy Physicist.
