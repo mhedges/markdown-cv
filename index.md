@@ -42,7 +42,7 @@ __Boston University__
 Python/Scipy
 | C/[ROOT](https://root.cern.ch)
 | Machine Learning
-| OS X
+| Mac OS X
 | Git
 | Linux
 
