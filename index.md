@@ -8,7 +8,7 @@ title: Michael Hedges's CV
 High-Energy Physicist
 
 <div id="webaddress">
-<a href="mailto:hedges7@purdue.edu">hedges7@purdue.edu</a>
+<a href="mailto:hedges7@purdue.edu">hedges7ATpurdue.edu</a>
 | <a href="https://github.com/mhedges">My Github Page</a>
 </div>
 
@@ -16,14 +16,14 @@ High-Energy Physicist
 Postdoctoral associate at Purdue University
 
 ### Specialize in
-Data analysis & techniques, high-energy lepton collider commissioning,
+Data analysis & techniques, high-energy lepton beam commissioning,
 beam-induced backgrounds, neutral particle detection
 
 
 ### Research interests
 
 Developing machine learning/artifical intelligence algorithms for scientific
-analyses, intensity frontier physics, quarkonium spectroscopy & NRQCD, semi-leptonic B decays
+analyses, intensity frontier physics, lepton flavor violation searches, quarkonium spectroscopy & NRQCD
 
 
 ## Education
