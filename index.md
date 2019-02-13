@@ -13,7 +13,7 @@ High-Energy Physicist
 </div>
 
 ## Currently
-Postdoctoral associate at Purdue University <a href="https://mu2e.fnal.gov/">(Mu2e)</a>
+Postdoctoral associate at Purdue University in <a href="https://mu2e.fnal.gov/">Mu2e</a> group
 
 ### Specialties
 Data analysis & techniques, high-energy lepton beam commissioning, beam
