@@ -51,14 +51,6 @@ Python/Scipy
 "Computational and Data Science School for High Energy Physics (CoDaS-HEP)" [ [codas-hep.org] ](http://codas-hep.org)
 - [CoDaS-HEP Agenda](https://indico.cern.ch/event/625333/timetable/)
 
-## Awards
-
-`2013`
-ARI Grantees' Conference: Best Student Presentation
-- Title: "Performance Studies of A Prototype Directional Neutron Detector Using
-Cosmic Rays"
-
-
 ## Publications
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
@@ -96,5 +88,4 @@ Awarded “Best Student Presentation”
 
 
 <!-- ### Footer
-
 Last updated: February 2019-->
