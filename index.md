@@ -15,15 +15,14 @@ High-Energy Physicist
 ## Currently
 Postdoctoral associate at Purdue University
 
-### Specialize in
-Data analysis & techniques, high-energy lepton beam commissioning,
-beam-induced backgrounds, neutral particle detection
-
+### Specializes in
+Data analysis & techniques, high-energy lepton beam commissioning, beam
+background analysis, neutral particle detection
 
 ### Research interests
 
-Developing machine learning/artifical intelligence algorithms for scientific
-analyses, intensity frontier physics, lepton flavor violation searches, quarkonium spectroscopy & NRQCD
+Physics at the Intensity Frontier, developing machine learning/artificial
+intelligence algorithms for scientific analysis
 
 
 ## Education
@@ -65,17 +64,35 @@ Cosmic Rays"
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
 ### Journals
+`2019`
+__High resolution 3D Tracking in a TPC with Pixel Readout__ 
+I. Jaegle, P. M. Lewis, et al.,
+[in preparation]
 
 `2018`
-P. M. Lewis, I. Jaegle, H. Nakayama, et al., "First Measurements of Beam
-Backgrounds at SuperKEKB" [in preparation].
+__First Measurements of Beam Backgrounds at SuperKEKB__
+P. M. Lewis, I. Jaegle, H. Nakayama, et al.
+[<a href="https://doi.org/10.1016/j.nima.2018.05.071">DOI:10.1016/j.nima.2018.05.071</a>]
 
+__3-D Tracking of Nuclear Recoils in a Miniature Time Projection Chamber__
 S.E. Vahsen, M.T. Hedges, I. Jaegle, S.J. Ross, I.S. Seong, T.N. Thorpe, J.
-Yamaoka, J.A. Kadyk, M. Garcia-Sciveres, "3-D Tracking of Nuclear Recoils in a
-Miniature Time Projection Chamber" [<a href="https://arxiv.org/abs/1407.7013">arXiv:1407.7013</a>]
+Yamaoka, J.A. Kadyk, M. Garcia-Sciveres,
+[<a href="https://doi.org/10.1016/j.nima.2015.03.024">DOI:10.1016/j.nima.2015.03.024</a>]
 
-I. Jaegle, S. E. Vahsen, et al., "High resolution 3D Tracking in a TPC with Pixel
-Readout" [in preparation].
+### Presentations
+`2018`
+__APS April Meeting__
+Title: “First application of a novel directional neutron detector to background measurements at SuperKEKB”
+
+`2017`
+__APS Division of Particles and Fields__
+Title: “Directional measurements of fast neutron backgrounds at SuperKEKB”
+
+`2013`
+__DHS Domestic Nuclear Detection Office (DNDO) Academic Research Initiative
+(ARI) Grantees’ Conference__
+Title: “Performance Studies of a Prototype Directional Neutron Detector Using Cosmic Rays”
+Awarded “Best Student Presentation”
 
 
 <!-- ### Footer
