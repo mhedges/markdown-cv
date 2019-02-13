@@ -8,13 +8,12 @@ title: Michael Hedges's CV
 High-Energy Physicist
 
 <div id="webaddress">
-<a href="mailto:mhedges@hawaii.edu">mhedges@hawaii.edu</a>
+<a href="mailto:hedges7@purdue.edu">hedges7@purdue.edu</a>
 | <a href="https://github.com/mhedges">My Github Page</a>
-| Phone: (808) 956-2962
 </div>
 
 ## Currently
-Physics PhD Candidate at University of Hawaii at Manoa.
+Postdoctoral associate at Purdue University.
 
 ### Specialized in
 Data analysis & techniques, high-energy lepton collider commissioning,
@@ -24,11 +23,11 @@ beam-induced backgrounds, neutral particle detection.
 ### Research interests
 
 Developing machine learning/artifical intelligence algorithms for scientific
-analyses, quarkonium spectroscopy & NRQCD, semi-leptonic B decays
+analyses, intensity frontier physics, quarkonium spectroscopy & NRQCD, semi-leptonic B decays
 
 
 ## Education
-`2012-2018 (Expected)`
+`2012-2018`
 __University of Hawaii at Manoa__
 
 - PhD Physics
@@ -81,4 +80,4 @@ Readout" [in preparation].
 
 <!-- ### Footer
 
-Last updated: January 2018 -->
+Last updated: February 2019-->
