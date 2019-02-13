@@ -58,33 +58,33 @@ Python/Scipy
 ### Journals
 `2019`
 __High resolution 3D Tracking in a TPC with Pixel Readout__ 
-I. Jaegle, P. M. Lewis, et al.,
-[in preparation]
+- I. Jaegle, P. M. Lewis, et al.,
+- [in preparation]
 
 `2018`
 __First Measurements of Beam Backgrounds at SuperKEKB__
-P. M. Lewis, I. Jaegle, H. Nakayama, et al.
-[<a href="https://doi.org/10.1016/j.nima.2018.05.071">DOI:10.1016/j.nima.2018.05.071</a>]
+- P. M. Lewis, I. Jaegle, H. Nakayama, et al.
+- [<a href="https://doi.org/10.1016/j.nima.2018.05.071">DOI:10.1016/j.nima.2018.05.071</a>]
 
 __3-D Tracking of Nuclear Recoils in a Miniature Time Projection Chamber__
-S.E. Vahsen, M.T. Hedges, I. Jaegle, S.J. Ross, I.S. Seong, T.N. Thorpe, J.
+- S.E. Vahsen, M.T. Hedges, I. Jaegle, S.J. Ross, I.S. Seong, T.N. Thorpe, J.
 Yamaoka, J.A. Kadyk, M. Garcia-Sciveres,
-[<a href="https://doi.org/10.1016/j.nima.2015.03.024">DOI:10.1016/j.nima.2015.03.024</a>]
+- [<a href="https://doi.org/10.1016/j.nima.2015.03.024">DOI:10.1016/j.nima.2015.03.024</a>]
 
 ### Presentations
 `2018`
 __APS April Meeting__
-Title: “First application of a novel directional neutron detector to background measurements at SuperKEKB”
+- Title: “First application of a novel directional neutron detector to background measurements at SuperKEKB”
 
 `2017`
 __APS Division of Particles and Fields__
-Title: “Directional measurements of fast neutron backgrounds at SuperKEKB”
+- Title: “Directional measurements of fast neutron backgrounds at SuperKEKB”
 
 `2013`
 __DHS Domestic Nuclear Detection Office (DNDO) Academic Research Initiative
 (ARI) Grantees’ Conference__
-Title: “Performance Studies of a Prototype Directional Neutron Detector Using Cosmic Rays”
-Awarded “Best Student Presentation”
+- Title: “Performance Studies of a Prototype Directional Neutron Detector Using Cosmic Rays”
+- Awarded “Best Student Presentation”
 
 
 <!-- ### Footer
