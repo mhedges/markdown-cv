@@ -13,11 +13,11 @@ High-Energy Physicist
 </div>
 
 ## Currently
-Postdoctoral associate at Purdue University.
+Postdoctoral associate at Purdue University
 
-### Specialized in
+### Specialize in
 Data analysis & techniques, high-energy lepton collider commissioning,
-beam-induced backgrounds, neutral particle detection.
+beam-induced backgrounds, neutral particle detection
 
 
 ### Research interests
