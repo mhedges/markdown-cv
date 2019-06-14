@@ -13,16 +13,17 @@ High-Energy Physicist
 </div>
 
 ## Currently
-Postdoctoral associate at Purdue University in <a href="https://mu2e.fnal.gov/">Mu2e</a> group
+<a href="https://mu2e.fnal.gov/">Mu2e</a> Extinction Monitoring (Purdue
+University)
 
 ### Specialties
 Data analysis & techniques, high-energy lepton beam commissioning, beam
-background analysis, neutral particle detection
+background analysis, neutral particle detection and tracking
 
 ### Research interests
 
-Physics at the Intensity Frontier, developing machine learning/artificial
-intelligence algorithms for scientific analysis
+Physics at the Intensity Frontier, advanced computing techniques for
+high-energy physics analysis
 
 
 ## Education
@@ -40,13 +41,16 @@ __Boston University__
 ## Technical Skills
 
 Python/Scipy
-| C/[ROOT](https://root.cern.ch)
+| C++
+| [ROOT](https://root.cern.ch)
 | Machine Learning
 | Mac OS X
 | Git
 | Linux
 
 ## Workshops
+`2019
+Fermlab C++ Workshop [[OOPL:Fermilab]](https://www.oopl.com/fnal/index.html)
 `2017`
 "Computational and Data Science School for High Energy Physics (CoDaS-HEP)" [ [codas-hep.org] ](http://codas-hep.org)
 - [CoDaS-HEP Agenda](https://indico.cern.ch/event/625333/timetable/)
