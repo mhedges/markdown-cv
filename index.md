@@ -22,8 +22,8 @@ background analysis, neutral particle detection and tracking
 
 ### Research interests
 
-Physics at the Intensity Frontier, advanced computing for
-high-energy physics analysis
+Physics at the Intensity Frontier, advanced software and computing for
+high-energy physics
 
 
 ## Education
