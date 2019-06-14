@@ -62,9 +62,9 @@ Python/Scipy
 
 ### Journals
 `2019`
-__High resolution 3D Tracking in a TPC with Pixel Readout__ 
+__Compact, directional neutron detectors capable of high-resolution nuclear recoil imaging__ 
 - I. Jaegle, P. M. Lewis, et al.,
-- [in preparation]
+- [[arXiv:1901.06657]](arxiv.org/abs/1901.06657)
 
 `2018`
 __First Measurements of Beam Backgrounds at SuperKEKB__
