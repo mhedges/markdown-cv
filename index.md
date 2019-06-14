@@ -49,7 +49,7 @@ Python/Scipy
 | Linux
 
 ## Workshops
-`2019
+`2019`
 Fermlab C++ Workshop [[OOPL:Fermilab]](https://www.oopl.com/fnal/index.html)
 `2017`
 "Computational and Data Science School for High Energy Physics (CoDaS-HEP)" [ [codas-hep.org] ](http://codas-hep.org)
