@@ -71,10 +71,28 @@ __First Measurements of Beam Backgrounds at SuperKEKB__
 - P. M. Lewis, I. Jaegle, H. Nakayama, et al.
 - [<a href="https://doi.org/10.1016/j.nima.2018.05.071">DOI:10.1016/j.nima.2018.05.071</a>]
 
+`2016`
+__Readout technologies for directional WIMP Dark Matter detection__
+- J. B. R. Battat, et. al.,
+- [[10.1016/j.physrep.2016.10.001]](https://doi.org/10.1016/j.physrep.2016.10.001)
+
+`2015`
+__Absolute position measurement in a gas time projection chamber via transverse
+diffusion of drift charge__
+- P. M. Lewis, S.E. Vahsen, I. S. Seong, M. T. Hedges, I. Jaegle, T. N. Thorpe
+- [[10.1016/j.nima.2015.03.024]](https://doi.org/10.1016/j.nima.2015.03.024)
+
+`2014`
 __3-D Tracking of Nuclear Recoils in a Miniature Time Projection Chamber__
 - S.E. Vahsen, M.T. Hedges, I. Jaegle, S.J. Ross, I.S. Seong, T.N. Thorpe, J.
 Yamaoka, J.A. Kadyk, M. Garcia-Sciveres,
 - [<a href="https://doi.org/10.1016/j.nima.2015.03.024">DOI:10.1016/j.nima.2015.03.024</a>]
+
+`2013`
+__Charge-Focusing Readout of Time Projection Chambers__
+- S. J. Ross, M. T. Hedges, I. Jaegle, M. D. Rosen, I. S. Seong, T. N. Thorpe,
+  S. E. Vahsen, J. Yamaoka
+- [[10.1109/NSSMIC.2012.6551412]](https://doi.org/10.1109/NSSMIC.2012.6551412)
 
 ### Presentations
 `2018`
