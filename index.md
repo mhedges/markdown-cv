@@ -9,7 +9,7 @@ High-Energy Physics
 
 <div id="webaddress">
 <a href="mailto:hedges7@purdue.edu">hedges7ATpurdue.edu</a>
-| <a href="https://github.com/mhedges">My Github Page</a>
+| <a href="https://github.com/mhedges"><u>My Github Page</u></a>
 </div>
 
 ## Currently
