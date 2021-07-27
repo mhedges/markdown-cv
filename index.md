@@ -52,7 +52,7 @@ Full list is also available [online](https://inspirehep.net/authors/1259719)
 __Design and Performance Evaluation of InAs Quantum Dot Scintillation Detector Properties with Monolithically Integrated
 Photodiode__
 - T. Mahajan, A. Minns, V. Tokranov, P. Murat, M. T. Hedges, and S. Oktyabrksy
-- IEEE Sorma Proceedings (submitted, pending review)
+- IEEE Sorma Proceedings (submitted, beginning review)
 
 __First 3D vector tracking of helium recoils for fast neutron measurements at SuperKEKB__
 - M. T. Hedges, S.E. Vahsen, et. al.,
