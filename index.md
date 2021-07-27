@@ -60,7 +60,7 @@ __First 3D vector tracking of helium recoils for fast neutron measurements at Su
 
 __Parameters of fast and high-yield InAs/GaAs quantum dot semiconductor scintillator__
 - A. Minns, K. Dropiewski, M. Yakimov, V. Tokranov, M. Hedges, P. Murat, and S. Oktyabrksy
-- [[https://doi.org/10.1557/s43580-021-00019-y]](https://doi.org/10.1557/s43580-021-00019-y)
+- [[10.1557/s43580-021-00019-y]](https://doi.org/10.1557/s43580-021-00019-y)
 
 __Primary track recovery in high-definition gas time projection chambers__
 - P. M. Lewis, M. T. Hedges, et. al.,
