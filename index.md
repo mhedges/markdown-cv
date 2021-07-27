@@ -55,7 +55,7 @@ Photodiode__
 - IEEE Sorma Proceedings (submitted, under review)
 
 __First 3D vector tracking of helium recoils for fast neutron measurements at SuperKEKB__
-- M. T. Hedges, S.E. Vahsen, et. al.
+- M. T. Hedges, S.E. Vahsen, I. Jaegle, P. M. Lewis, H. Nakayama, T. N. Thorpe
 - [[<u>arXiv:2106.13079</u>]](https://arxiv.org/abs/2106.13079)
 
 __Parameters of fast and high-yield InAs/GaAs quantum dot semiconductor scintillator__
@@ -63,8 +63,8 @@ __Parameters of fast and high-yield InAs/GaAs quantum dot semiconductor scintill
 - [[<u>10.1557/s43580-021-00019-y</u>]](https://doi.org/10.1557/s43580-021-00019-y)
 
 __Primary track recovery in high-definition gas time projection chambers__
-- P. M. Lewis, M. T. Hedges, et. al.
-- [[<u>arXiv:2106.13547</u>]](https://arxiv.org/abs/2016.13547)
+- P. M. Lewis, M. T. Hedges, I. Jaegle, J. Schueler, T. N. Thorpe, S. E. Vahsen
+- [[<u>arXiv:2106.15829</u>]](https://arxiv.org/abs/2106.15829)
 
 `2020`
 __A time resolved study of injection backgrounds during the first commissioning phase of SuperKEKB__
@@ -73,7 +73,8 @@ __A time resolved study of injection backgrounds during the first commissioning 
 
 `2019`
 __Compact, directional neutron detectors capable of high-resolution nuclear recoil imaging__ 
-- I. Jaegle, P. M. Lewis, et al.
+- I. Jaegle, P. M. Lewis, M. Garcia-Sciveres, M. T. Hedges, T. Hemperek, J. Janssen, Q. Li, D.-L. Pohl, S. Ross, J.
+  Schueler, I. Seong, T. N. Thorpe, S. E. Vahsen
 - [[<u>arXiv:1901.06657</u>]](https://arxiv.org/abs/1901.06657)
 
 `2018`
@@ -96,7 +97,7 @@ diffusion of drift charge__
 __3-D Tracking of Nuclear Recoils in a Miniature Time Projection Chamber__
 - S.E. Vahsen, M.T. Hedges, I. Jaegle, S.J. Ross, I.S. Seong, T.N. Thorpe, J.
 Yamaoka, J.A. Kadyk, M. Garcia-Sciveres
-- [[<u>DOI:10.1016/j.nima.2015.03.024</u>]](https://doi.org/10.1016/j.nima.2015.03.024)
+- [[<u>10.1016/j.nima.2015.03.009</u>]](https://doi.org/10.1016/j.nima.2015.03.009)
 
 `2013`
 __Charge-Focusing Readout of Time Projection Chambers__
