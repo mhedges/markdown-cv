@@ -4,8 +4,8 @@ title: Michael Hedges's CV
 ---
 
 
-# Michael Hedges
-High-Energy Physicist
+# Michael Hedges, Ph.D
+High-Energy Physics
 
 <div id="webaddress">
 <a href="mailto:hedges7@purdue.edu">hedges7ATpurdue.edu</a>
@@ -13,17 +13,14 @@ High-Energy Physicist
 </div>
 
 ## Currently
-<a href="https://mu2e.fnal.gov/">Mu2e</a> Extinction Monitoring (Purdue
-University)
+Postdoc at Purdue University working on <a href="https://mu2e.fnal.gov/">Mu2e</a> momentum calibration and Extinction Monitoring 
 
 ### Specialties
-Data analysis & techniques, high-energy lepton beam commissioning, beam
-background analysis, neutral particle detection and tracking
+Advanced detectors and instrumentation, data analysis & techniques, high-energy lepton beam commissioning
 
 ### Research interests
 
-Physics at the Intensity Frontier, advanced software and computing for
-high-energy physics
+Novel instrumentation, Advanced tracking detectors, Physics at the Rare & Precision Frontier
 
 
 ## Education
@@ -40,27 +37,40 @@ __Boston University__
 
 ## Technical Skills
 
-Python/Scipy
+Detector research and development
+| Python/Scipy
 | C++
 | [ROOT](https://root.cern.ch)
-| Machine Learning
-| Mac OS X
-| Git
-| Linux
+| AI / Machine Learning
 
-## Workshops
-`2019`
-Fermlab C++ Workshop [[OOPL:Fermilab]](https://www.oopl.com/fnal/index.html)
+## Select Publications
 
-`2017`
-"Computational and Data Science School for High Energy Physics (CoDaS-HEP)" [ [codas-hep.org] ](http://codas-hep.org)
-- [CoDaS-HEP Agenda](https://indico.cern.ch/event/625333/timetable/)
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+Full list is also available [online](https://inspirehep.net/authors/1259719)
 
 ### Journals
+`2021`
+__First 3D vector tracking of helium recoils for fast neutron measurements at SuperKEKB__
+- M. T. Hedges, S.E. Vahsen, et. al.,
+- [[arXiv:2106.13079]](arxiv.org/abs/2106.13079)
+
+__Primary track recovery in high-definition gas time projection chambers__
+- P. M. Lewis, M. T. Hedges, et. al.,
+- [[arXiv:2106.13547]](arxiv.org/abs/2016.13547)
+
+__Design and Performance Evaluation of InAs Quantum Dot Scintillation Detector Properties with Monolithically Integrated
+Photodiode__
+- T. Mahajan, A. Minns, V. Tokranov, P. Murat, M. T. Hedges, and S. Oktyabrksy
+- IEEE Sorma Proceedings (submitted, pending review)
+
+__Parameters of fast and high-yield InAs/GaAs quantum dot semiconductor scintillator__
+- A. Minns, K. Dropiewski, M. Yakimov, V. Tokranov, M. Hedges, P. Murat, and S. Oktyabrksy
+- [[https://doi.org/10.1557/s43580-021-00019-y]](https://doi.org/10.1557/s43580-021-00019-y)
+
+`2020`
+__A time resolved study of injection backgrounds during the first commissioning phase of SuperKEKB__
+- M. Gabriel, F. Simon, H. Windel, et. al.,
+- [[arXiv:2012.10948]](arxiv.org/abs/2012.10948)
+
 `2019`
 __Compact, directional neutron detectors capable of high-resolution nuclear recoil imaging__ 
 - I. Jaegle, P. M. Lewis, et al.,
@@ -95,6 +105,17 @@ __Charge-Focusing Readout of Time Projection Chambers__
 - [[10.1109/NSSMIC.2012.6551412]](https://doi.org/10.1109/NSSMIC.2012.6551412)
 
 ### Presentations
+`2021'
+__CPAD Instrumentation Frontier Workshop 2021__
+- Invited talk: Blue Skies presentation
+- Title: Particle tracking at light speed with quantum dots
+
+__CPAD Instrumentation Frontier Workshop 2021__
+- Title: Quantum dot based scintillators for charged particle detection
+
+__2021 Meeting of the Division of Particles and Fields of the American Physical Society (DPF21)__
+- Title: Quantum dot based scintillators for charged particle detection
+
 `2018`
 __APS April Meeting__
 - Title: “First application of a novel directional neutron detector to background measurements at SuperKEKB”
@@ -108,6 +129,14 @@ __DHS Domestic Nuclear Detection Office (DNDO) Academic Research Initiative
 (ARI) Grantees’ Conference__
 - Title: “Performance Studies of a Prototype Directional Neutron Detector Using Cosmic Rays”
 - Awarded “Best Student Presentation”
+
+## Workshops
+`2019`
+Fermlab C++ Workshop [[OOPL:Fermilab]](https://www.oopl.com/fnal/index.html)
+
+`2017`
+"Computational and Data Science School for High Energy Physics (CoDaS-HEP)" [ [codas-hep.org] ](http://codas-hep.org)
+- [CoDaS-HEP Agenda](https://indico.cern.ch/event/625333/timetable/)
 
 
 <!-- ### Footer
