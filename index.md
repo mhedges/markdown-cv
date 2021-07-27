@@ -49,22 +49,22 @@ Full list is also available [online](https://inspirehep.net/authors/1259719)
 
 ### Journals
 `2021`
-__First 3D vector tracking of helium recoils for fast neutron measurements at SuperKEKB__
-- M. T. Hedges, S.E. Vahsen, et. al.,
-- [[arXiv:2106.13079]](arxiv.org/abs/2106.13079)
-
-__Primary track recovery in high-definition gas time projection chambers__
-- P. M. Lewis, M. T. Hedges, et. al.,
-- [[arXiv:2106.13547]](arxiv.org/abs/2016.13547)
-
 __Design and Performance Evaluation of InAs Quantum Dot Scintillation Detector Properties with Monolithically Integrated
 Photodiode__
 - T. Mahajan, A. Minns, V. Tokranov, P. Murat, M. T. Hedges, and S. Oktyabrksy
 - IEEE Sorma Proceedings (submitted, pending review)
 
+__First 3D vector tracking of helium recoils for fast neutron measurements at SuperKEKB__
+- M. T. Hedges, S.E. Vahsen, et. al.,
+- [[arXiv:2106.13079]](arxiv.org/abs/2106.13079)
+
 __Parameters of fast and high-yield InAs/GaAs quantum dot semiconductor scintillator__
 - A. Minns, K. Dropiewski, M. Yakimov, V. Tokranov, M. Hedges, P. Murat, and S. Oktyabrksy
 - [[https://doi.org/10.1557/s43580-021-00019-y]](https://doi.org/10.1557/s43580-021-00019-y)
+
+__Primary track recovery in high-definition gas time projection chambers__
+- P. M. Lewis, M. T. Hedges, et. al.,
+- [[arXiv:2106.13547]](arxiv.org/abs/2016.13547)
 
 `2020`
 __A time resolved study of injection backgrounds during the first commissioning phase of SuperKEKB__
