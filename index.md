@@ -55,7 +55,7 @@ Photodiode__
 - IEEE Sorma Proceedings (submitted, under review)
 
 __First 3D vector tracking of helium recoils for fast neutron measurements at SuperKEKB__
-- M. T. Hedges, S.E. Vahsen, et. al.,
+- M. T. Hedges, S.E. Vahsen, et. al.
 - [[arXiv:2106.13079]](arxiv.org/abs/2106.13079)
 
 __Parameters of fast and high-yield InAs/GaAs quantum dot semiconductor scintillator__
@@ -63,17 +63,17 @@ __Parameters of fast and high-yield InAs/GaAs quantum dot semiconductor scintill
 - [[10.1557/s43580-021-00019-y]](https://doi.org/10.1557/s43580-021-00019-y)
 
 __Primary track recovery in high-definition gas time projection chambers__
-- P. M. Lewis, M. T. Hedges, et. al.,
+- P. M. Lewis, M. T. Hedges, et. al.
 - [[arXiv:2106.13547]](arxiv.org/abs/2016.13547)
 
 `2020`
 __A time resolved study of injection backgrounds during the first commissioning phase of SuperKEKB__
-- M. Gabriel, F. Simon, H. Windel, et. al.,
+- M. Gabriel, F. Simon, H. Windel, et. al.
 - [[arXiv:2012.10948]](arxiv.org/abs/2012.10948)
 
 `2019`
 __Compact, directional neutron detectors capable of high-resolution nuclear recoil imaging__ 
-- I. Jaegle, P. M. Lewis, et al.,
+- I. Jaegle, P. M. Lewis, et al.
 - [[arXiv:1901.06657]](arxiv.org/abs/1901.06657)
 
 `2018`
@@ -83,7 +83,7 @@ __First Measurements of Beam Backgrounds at SuperKEKB__
 
 `2016`
 __Readout technologies for directional WIMP Dark Matter detection__
-- J. B. R. Battat, et. al.,
+- J. B. R. Battat, et. al.
 - [[10.1016/j.physrep.2016.10.001]](https://doi.org/10.1016/j.physrep.2016.10.001)
 
 `2015`
@@ -95,7 +95,7 @@ diffusion of drift charge__
 `2014`
 __3-D Tracking of Nuclear Recoils in a Miniature Time Projection Chamber__
 - S.E. Vahsen, M.T. Hedges, I. Jaegle, S.J. Ross, I.S. Seong, T.N. Thorpe, J.
-Yamaoka, J.A. Kadyk, M. Garcia-Sciveres,
+Yamaoka, J.A. Kadyk, M. Garcia-Sciveres
 - [<a href="https://doi.org/10.1016/j.nima.2015.03.024">DOI:10.1016/j.nima.2015.03.024</a>]
 
 `2013`
