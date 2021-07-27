@@ -13,7 +13,7 @@ High-Energy Physics
 </div>
 
 ## Currently
-Postdoc at Purdue University working on <a href="https://mu2e.fnal.gov/">Mu2e</a> momentum calibration and Extinction Monitoring 
+Postdoc at Purdue University working on <a href="https://mu2e.fnal.gov/"><u>Mu2e</u></a> momentum calibration and Extinction Monitoring 
 
 ### Specialties
 Advanced detectors and instrumentation, data analysis & techniques, high-energy lepton beam commissioning
@@ -40,12 +40,12 @@ __Boston University__
 Detector research and development
 | Python/Scipy
 | C++
-| [ROOT](https://root.cern.ch)
+| [<u>ROOT</u>](https://root.cern.ch)
 | AI / Machine Learning
 
 ## Select Publications
 
-Full list is also available [online](https://inspirehep.net/authors/1259719)
+Full list is also available [<u>online</u>](https://inspirehep.net/authors/1259719)
 
 ### Journals
 `2021`
@@ -56,53 +56,53 @@ Photodiode__
 
 __First 3D vector tracking of helium recoils for fast neutron measurements at SuperKEKB__
 - M. T. Hedges, S.E. Vahsen, et. al.
-- [[arXiv:2106.13079]](arxiv.org/abs/2106.13079)
+- [[<u>arXiv:2106.13079</u>]](arxiv.org/abs/2106.13079)
 
 __Parameters of fast and high-yield InAs/GaAs quantum dot semiconductor scintillator__
 - A. Minns, K. Dropiewski, M. Yakimov, V. Tokranov, M. Hedges, P. Murat, and S. Oktyabrksy
-- [[10.1557/s43580-021-00019-y]](https://doi.org/10.1557/s43580-021-00019-y)
+- [[<u>10.1557/s43580-021-00019-y</u>]](https://doi.org/10.1557/s43580-021-00019-y)
 
 __Primary track recovery in high-definition gas time projection chambers__
 - P. M. Lewis, M. T. Hedges, et. al.
-- [[arXiv:2106.13547]](arxiv.org/abs/2016.13547)
+- [[<u>arXiv:2106.13547</u>]](arxiv.org/abs/2016.13547)
 
 `2020`
 __A time resolved study of injection backgrounds during the first commissioning phase of SuperKEKB__
 - M. Gabriel, F. Simon, H. Windel, et. al.
-- [[arXiv:2012.10948]](arxiv.org/abs/2012.10948)
+- [[<u>arXiv:2012.10948</u>]](arxiv.org/abs/2012.10948)
 
 `2019`
 __Compact, directional neutron detectors capable of high-resolution nuclear recoil imaging__ 
 - I. Jaegle, P. M. Lewis, et al.
-- [[arXiv:1901.06657]](arxiv.org/abs/1901.06657)
+- [[<u>arXiv:1901.06657</u>]](arxiv.org/abs/1901.06657)
 
 `2018`
 __First Measurements of Beam Backgrounds at SuperKEKB__
 - P. M. Lewis, I. Jaegle, H. Nakayama, et al.
-- [<a href="https://doi.org/10.1016/j.nima.2018.05.071">DOI:10.1016/j.nima.2018.05.071</a>]
+- [[<u>DOI:10.1016/j.nima.2018.05.071</u>]](https://doi.org/10.1016/j.nima.2018.05.071)
 
 `2016`
 __Readout technologies for directional WIMP Dark Matter detection__
 - J. B. R. Battat, et. al.
-- [[10.1016/j.physrep.2016.10.001]](https://doi.org/10.1016/j.physrep.2016.10.001)
+- [[<u>10.1016/j.physrep.2016.10.001</u>]](https://doi.org/10.1016/j.physrep.2016.10.001)
 
 `2015`
 __Absolute position measurement in a gas time projection chamber via transverse
 diffusion of drift charge__
 - P. M. Lewis, S.E. Vahsen, I. S. Seong, M. T. Hedges, I. Jaegle, T. N. Thorpe
-- [[10.1016/j.nima.2015.03.024]](https://doi.org/10.1016/j.nima.2015.03.024)
+- [[<u>10.1016/j.nima.2015.03.024</u>]](https://doi.org/10.1016/j.nima.2015.03.024)
 
 `2014`
 __3-D Tracking of Nuclear Recoils in a Miniature Time Projection Chamber__
 - S.E. Vahsen, M.T. Hedges, I. Jaegle, S.J. Ross, I.S. Seong, T.N. Thorpe, J.
 Yamaoka, J.A. Kadyk, M. Garcia-Sciveres
-- [<a href="https://doi.org/10.1016/j.nima.2015.03.024">DOI:10.1016/j.nima.2015.03.024</a>]
+- [[<u>DOI:10.1016/j.nima.2015.03.024</u>]](https://doi.org/10.1016/j.nima.2015.03.024)
 
 `2013`
 __Charge-Focusing Readout of Time Projection Chambers__
 - S. J. Ross, M. T. Hedges, I. Jaegle, M. D. Rosen, I. S. Seong, T. N. Thorpe,
   S. E. Vahsen, J. Yamaoka
-- [[10.1109/NSSMIC.2012.6551412]](https://doi.org/10.1109/NSSMIC.2012.6551412)
+- [[<u>10.1109/NSSMIC.2012.6551412</u>]](https://doi.org/10.1109/NSSMIC.2012.6551412)
 
 ### Presentations
 `2021`
@@ -132,11 +132,11 @@ __DHS Domestic Nuclear Detection Office (DNDO) Academic Research Initiative
 
 ## Workshops
 `2019`
-Fermlab C++ Workshop [[OOPL:Fermilab]](https://www.oopl.com/fnal/index.html)
+Fermlab C++ Workshop [[<u>OOPL:Fermilab</u>]](https://www.oopl.com/fnal/index.html)
 
 `2017`
 "Computational and Data Science School for High Energy Physics (CoDaS-HEP)" [ [codas-hep.org] ](http://codas-hep.org)
-- [CoDaS-HEP Agenda](https://indico.cern.ch/event/625333/timetable/)
+- [[<u>CoDaS-HEP Agenda</u>]](https://indico.cern.ch/event/625333/timetable/)
 
 
 <!-- ### Footer
