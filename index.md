@@ -56,7 +56,7 @@ Photodiode__
 
 __First 3D vector tracking of helium recoils for fast neutron measurements at SuperKEKB__
 - M. T. Hedges, S.E. Vahsen, et. al.
-- [[<u>arXiv:2106.13079</u>]](arxiv.org/abs/2106.13079)
+- [[<u>arXiv:2106.13079</u>]](https://arxiv.org/abs/2106.13079)
 
 __Parameters of fast and high-yield InAs/GaAs quantum dot semiconductor scintillator__
 - A. Minns, K. Dropiewski, M. Yakimov, V. Tokranov, M. Hedges, P. Murat, and S. Oktyabrksy
@@ -64,17 +64,17 @@ __Parameters of fast and high-yield InAs/GaAs quantum dot semiconductor scintill
 
 __Primary track recovery in high-definition gas time projection chambers__
 - P. M. Lewis, M. T. Hedges, et. al.
-- [[<u>arXiv:2106.13547</u>]](arxiv.org/abs/2016.13547)
+- [[<u>arXiv:2106.13547</u>]](https://arxiv.org/abs/2016.13547)
 
 `2020`
 __A time resolved study of injection backgrounds during the first commissioning phase of SuperKEKB__
 - M. Gabriel, F. Simon, H. Windel, et. al.
-- [[<u>arXiv:2012.10948</u>]](arxiv.org/abs/2012.10948)
+- [[<u>arXiv:2012.10948</u>]](https://arxiv.org/abs/2012.10948)
 
 `2019`
 __Compact, directional neutron detectors capable of high-resolution nuclear recoil imaging__ 
 - I. Jaegle, P. M. Lewis, et al.
-- [[<u>arXiv:1901.06657</u>]](arxiv.org/abs/1901.06657)
+- [[<u>arXiv:1901.06657</u>]](https://arxiv.org/abs/1901.06657)
 
 `2018`
 __First Measurements of Beam Backgrounds at SuperKEKB__
