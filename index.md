@@ -45,12 +45,12 @@ __Boston University__
 ## Technical Skills
 
 Mu2e [<u>Offline</u>](https://github.com/Mu2e/Offline) Analysis Software Framework (C++, art, Geant4, ROOT)
-| Belle II Analysis Software Framework, [<u>basf2</u>](https://github.com/belle2/basf2) (C++, python, EvtGen)
-| Detector research and development
-| Python/Scipy
-| C++
-| [<u>ROOT</u>](https://root.cern.ch)
-| AI / Machine Learning
+<br /> Belle II Analysis Software Framework, [<u>basf2</u>](https://github.com/belle2/basf2) (C++, python, EvtGen)
+<br /> Detector research and development
+<br /> Python/Scipy
+<br /> C++
+<br /> [<u>ROOT</u>](https://root.cern.ch)
+<br /> AI / Machine Learning
 
 ## Select Publications
 
