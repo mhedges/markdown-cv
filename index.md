@@ -13,21 +13,21 @@ High-Energy Physics
 
 ## Currently
 Postdoc at Purdue University working on <a href="https://mu2e.fnal.gov/"><u>Mu2e</u></a>
-| Visiting Scientist at the University of Bonn working on <a href="https://belle2.org"><u>Belle II</u></a>.
+<br />Visiting Scientist at the University of Bonn working on <a href="https://belle2.org"><u>Belle II</u></a>.
 
 ### Specialties
 High-Power Targetry at Mu2e
-| Rare interactions involving muons and quarks
-| Advanced detectors and instrumentation
-| Beam instrumentation
-| Accelerator commissioning
+<br /> Rare interactions involving muons and quarks
+<br /> Advanced detectors and instrumentation
+<br /> Beam instrumentation
+<br /> Accelerator commissioning
 
 ### Research interests
 
 High-Power Targetry
-| Novel instrumentation
-| Advanced tracking detectors
-| Physics at the Rare & Precision Frontier
+<br /> Novel instrumentation
+<br /> Advanced tracking detectors
+<br /> Physics at the Rare & Precision Frontier
 
 
 ## Education
