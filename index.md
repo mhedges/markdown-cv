@@ -13,10 +13,10 @@ High-Energy Physics
 
 ## Currently
 Postdoc at Purdue University working on <a href="https://mu2e.fnal.gov/"><u>Mu2e</u></a>
-| visiting Scientist at the University of Bonn working on <a href="https://belle2.org"><u>Belle II</u></a>.
+| Visiting Scientist at the University of Bonn working on <a href="https://belle2.org"><u>Belle II</u></a>.
 
 ### Specialties
-High-Power Targetry
+High-Power Targetry at Mu2e
 | Rare interactions involving muons and quarks
 | Advanced detectors and instrumentation
 | Beam instrumentation
@@ -44,8 +44,8 @@ __Boston University__
 
 ## Technical Skills
 
-| Mu2e [<u>Offline</u>](https://github.com/Mu2e/Offline) Analysis Software Framework (C++, art, Geant4, ROOT)
-| Belle II Analysis Software Framework, [<u>basf2</u>](https://github.com/Mu2e/Offline) (C++, python, EvtGen)
+Mu2e [<u>Offline</u>](https://github.com/Mu2e/Offline) Analysis Software Framework (C++, art, Geant4, ROOT)
+| Belle II Analysis Software Framework, [<u>basf2</u>](https://github.com/belle2/basf2) (C++, python, EvtGen)
 | Detector research and development
 | Python/Scipy
 | C++
@@ -150,4 +150,4 @@ Fermlab C++ Workshop [[<u>OOPL:Fermilab</u>]](https://www.oopl.com/fnal/index.ht
 
 
 <!-- ### Footer
-Last updated: February 2019-->
+Last updated: May 2023-->
