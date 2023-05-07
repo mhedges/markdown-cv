@@ -9,18 +9,25 @@ High-Energy Physics
 
 <div id="webaddress">
 <a href="mailto:hedges7@purdue.edu">hedges7ATpurdue.edu</a>
-| <a href="https://github.com/mhedges"><u>My Github Page</u></a>
 </div>
 
 ## Currently
-Postdoc at Purdue University working on <a href="https://mu2e.fnal.gov/"><u>Mu2e</u></a> momentum calibration and Extinction Monitoring 
+Postdoc at Purdue University working on <a href="https://mu2e.fnal.gov/"><u>Mu2e</u></a>
+| visiting Scientist at the University of Bonn working on <a href="https://belle2.org"><u>Belle II</u></a>.
 
 ### Specialties
-Advanced detectors and instrumentation, data analysis & techniques, high-energy lepton beam commissioning
+High-Power Targetry
+| Rare interactions involving muons and quarks
+| Advanced detectors and instrumentation
+| Beam instrumentation
+| Accelerator commissioning
 
 ### Research interests
 
-Novel instrumentation, Advanced tracking detectors, Physics at the Rare & Precision Frontier
+High-Power Targetry
+| Novel instrumentation
+| Advanced tracking detectors
+| Physics at the Rare & Precision Frontier
 
 
 ## Education
@@ -37,7 +44,9 @@ __Boston University__
 
 ## Technical Skills
 
-Detector research and development
+| Mu2e [<u>Offline</u>](https://github.com/Mu2e/Offline) Analysis Software Framework (C++, art, Geant4, ROOT)
+| Belle II Analysis Software Framework, [<u>basf2</u>](https://github.com/Mu2e/Offline) (C++, python, EvtGen)
+| Detector research and development
 | Python/Scipy
 | C++
 | [<u>ROOT</u>](https://root.cern.ch)
@@ -45,14 +54,14 @@ Detector research and development
 
 ## Select Publications
 
-Full list is also available [<u>online</u>](https://inspirehep.net/authors/1259719)
+Full INSPIREHEP list is available [<u>online</u>](https://inspirehep.net/authors/1259719)
 
 ### Journals
 `2021`
 __Design and Performance Evaluation of InAs Quantum Dot Scintillation Detector Properties with Monolithically Integrated
 Photodiode__
 - T. Mahajan, A. Minns, V. Tokranov, P. Murat, M. T. Hedges, and S. Oktyabrksy
-- IEEE Sorma Proceedings (submitted, under review)
+- IEEE Sorma Proceedings
 
 __First 3D vector tracking of helium recoils for fast neutron measurements at SuperKEKB__
 - M. T. Hedges, S.E. Vahsen, I. Jaegle, P. M. Lewis, H. Nakayama, T. N. Thorpe
