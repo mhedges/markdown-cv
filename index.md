@@ -25,21 +25,6 @@ __Instrumentation__
 - Quantum-dot based scintillators for charged-particle detection
 - TPC-based micro-pattern gas detectors with pixel readout for directional nuclear recoil detection
 
-### Specialties
-High-Power Targetry at Mu2e
-<br /> Rare interactions involving muons and quarks
-<br /> Advanced detectors and instrumentation
-<br /> Beam instrumentation
-<br /> Accelerator commissioning
-
-### Research interests
-
-High-Power Targetry
-<br /> Novel instrumentation
-<br /> Advanced tracking detectors
-<br /> Physics at the Rare & Precision Frontier
-
-
 ## Education
 `2012-2018`
 __University of Hawaii at Manoa__
@@ -223,4 +208,19 @@ Computational and Data Science School for High Energy Physics (CoDaS-HEP) [ [cod
 
 
 <!-- ### Footer
-Last updated: May 2023-->
+Last updated: May 2023
+Extra stuff:
+### Specialties
+High-Power Targetry at Mu2e
+<br /> Rare interactions involving muons and quarks
+<br /> Advanced detectors and instrumentation
+<br /> Beam instrumentation
+<br /> Accelerator commissioning
+
+### Research interests
+
+High-Power Targetry
+<br /> Novel instrumentation
+<br /> Advanced tracking detectors
+<br /> Physics at the Rare & Precision Frontier
+-->
