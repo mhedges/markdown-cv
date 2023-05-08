@@ -67,7 +67,7 @@ __Instrumentation__
 - TPC-based micro-pattern gas detectors with pixel readout for directional nuclear recoil detection.
 
 ## Mentorship
-`2023 <br />(expected)`
+`In-progress`
 __Xiaobing Shi PhD thesis (Purdue)__
 - PhD committee member
 
