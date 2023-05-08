@@ -11,46 +11,40 @@ High-Energy Physics
 <a href="mailto:hedges7@purdue.edu">hedges7ATpurdue.edu</a>
 </div>
 
+## Education
+`2012-2018`
+__University of Hawaii at Manoa__
+- PhD in Physics
+- Advisor: Sven Vahsen
+- Thesis title: Performance and First Deployment of Novel 3d Nuclear Recoil Detectors
+
+
+`2007-2011`
+__Boston University__
+- BA Physics
+
 ## Research
 `2018-present`
 __Mu2e__
 - Affiliation: Purdue University (Postdoc)
 - Supervisor: John P. Finley
+- __Target Extinction Monitor__
+- - Does this actually work?
 
-__Belle II__
 `2011-present`
+__Belle II__
+`2021-present`
+- Lead analyst: Tests of light-lepton universality in angular observables in B0 -> D\*lnu decays
 - Affiliation: University of Bonn (Visting Scientist)
 - Group leader: Florian Bernlochner
-- Analysis topic: Tests of light-lepton universality in angular observables in B0 -> D*lnu decays
+`2011-2018`
+- Affiliation: University of Hawaii (PhD advisor
+- Phd Advisor
 
 __Instrumentation__
 `2011-present`
 - Quantum-dot based scintillators for charged-particle detection
 - TPC-based micro-pattern gas detectors with pixel readout for directional nuclear recoil detection
-
-## Education
-`2012-2018`
-__University of Hawaii at Manoa__
-
-- PhD Physics
-- Advisor: Sven Vahsen
-- Thesis title: Performance and First Deployment of Novel 3d Nuclear Recoil Detectors
-
-`2007-2011`
-__Boston University__
-
-- BA Physics
-
-
-## Technical Skills
-
-Mu2e [<u>Offline</u>](https://github.com/Mu2e/Offline) Analysis Software Framework (C++, art, Geant4, ROOT)
-<br /> Belle II Analysis Software Framework, [<u>basf2</u>](https://github.com/belle2/basf2) (C++, python, EvtGen)
-<br /> Detector research and development
-<br /> Python/Scipy
-<br /> C++
-<br /> [<u>ROOT</u>](https://root.cern.ch)
-<br /> AI / Machine Learning
 
 ## Select Publications
 
@@ -226,4 +220,15 @@ High-Power Targetry
 <br /> Novel instrumentation
 <br /> Advanced tracking detectors
 <br /> Physics at the Rare & Precision Frontier
+
+
+## Technical Skills
+
+Mu2e [<u>Offline</u>](https://github.com/Mu2e/Offline) Analysis Software Framework (C++, art, Geant4, ROOT)
+<br /> Belle II Analysis Software Framework, [<u>basf2</u>](https://github.com/belle2/basf2) (C++, python, EvtGen)
+<br /> Detector research and development
+<br /> Python/Scipy
+<br /> C++
+<br /> [<u>ROOT</u>](https://root.cern.ch)
+<br /> AI / Machine Learning
 -->
