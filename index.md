@@ -68,11 +68,11 @@ __Instrumentation__
 
 ## Mentorship
 `2023 (expected)`
-__Xiaobing Shi PhD thesis__
+__Xiaobing Shi PhD thesis (Purdue)__
 - PhD committee member
 
 `2022`
-__Maximillion Hoverath Bachelor's Thesis__
+__Maximillion Hoverath Bachelor's Thesis (Bonn)__
 - Mentor
 
 ## Select Publications
