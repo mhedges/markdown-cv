@@ -56,14 +56,36 @@ Mu2e [<u>Offline</u>](https://github.com/Mu2e/Offline) Analysis Software Framewo
 
 Full INSPIREHEP list is available [<u>online</u>](https://inspirehep.net/authors/1259719)
 
-### Manuscripts
-`2023`
-
+### Papers
 `2022`
 __The Mu2e Experiment --- Searching for Charged Lepton Flavor Violation__
 - M. T. Hedges, on behalf of the Mu2e experiment
 - [[doi.org/10.1016/j.nima.2022.167589]](https://doi.org/10.1016/j.nima.2022.167589)
 - Proceedings for the Vienna Conference on Instrumentation (VCI)
+
+__Report of the Instrumentation Frontier Working Group for Snowmass 2021__
+- Phillip S. Barbeau, Petra Merkel, Jinlong Zhang, et. al
+- [[arxiv:2209.14111]](https://arxiv.org/abs/2209.14111) 
+
+__Solid State Detectors and Tracking for Snowmass__
+- A. Affolder, A. Apresyan, S. Worm, et. al
+- [[arxiv:2209.03607]](https://arxiv.org/abs/2209.03607)
+
+__Novel Sensors for Particle Tracking: a Contribution to the Snowmass Community Planning Exercise of 2021__
+- M.R. Hoeferkamp, S. Seidel, S. Kim, J. Metcalfe, A. Sumant, H. Kagan, W. Trischuk, M. Boscardin, G.-F. Dalla Betta, D.M.S. Sultan, N.T. Fourches, C. Renard, A. Barbier, T. Mahajan, A. Minns, V. Tokranov, M. Yakimov, S. Oktyabrsky, C. Gingu, P. Murat, and M.T. Hedges
+- [[arxiv:2202.11828]](https://arxiv.org/abs/2202.11828)
+
+__Mu2e-II: Muon to electron conversion with PIP-II__
+- K. Byrum, et. al
+- [[arxiv:2203.07569]](https://arxiv.org/abs/2203.07569)
+
+__A New Charged Lepton Flavor Violation Program at Fermilab__
+- M. Aoki, R. B. Appleby, M. Aslaninejad, R. Barlow, R.H. Bernstein, C. Bloise, L.Calibbi, F. Cervelli, R. Culbertson, Andre Luiz de Gouvea, S. Di Falco, E. Diociaiuti, S. Donati, R. Donghia, B. Echenard, A. Gaponenko, S. Giovannella, C. Group, F. Happacher, M. T. Hedges, D.G. Hitlin, E. Hungerford, C. Johnstone, D. M. Kaplan, M. Kargiantoulakis, D. J. Kelliher, K. Kirch, A. Knecht, Y. Kuno, A. Kurup, J.-B. Lagrange, M. Lancaster, K. Long, A. Luca, K. Lynch, S. Machida, M. Martini, S. Middleton, S. Mihara, J. Miller, S. Miscetti, L. Morescalchi, Y. Mori, P. Murat, B. Muratori, D. Neuffer, A. Papa, J. Pasternak, E. Pedreschi, G. Pezzullo, T. Planche, F. Porter, E. Prebys, C. R. Prior, V. Pronskikh, R. Ray, F. Renga, C. Rogers, I. Sarra, A. Sato, S. L. Smith, F. Spinella, D. Stratakis, M. Syphers, N.M. Truong, S. Tygier, Y. Uchida, and M. Yucel
+- [[arxiv.org:2203.08278]](https://arxiv.org/abs/2203.08278)
+
+__Application of recoil-imaging time projection chambers to directional neutron background measurements in the SuperKEKB accelerator tunnel__
+- J. Schueler, S.E. Vahsen, P.M. Lewis, M.T. Hedges, D. Liventsev, F. Meier, H. Nakayama, A. Natochii, and T.N. Thorpe
+- [[doi.org/10.1016/j.nima.2022.167291]](https://doi.org/10.1016/j.nima.2022.167291)
 
 `2021`
 __Design and Performance Evaluation of InAs Quantum Dot Scintillation Detector Properties with Monolithically Integrated
@@ -73,7 +95,7 @@ Photodiode__
 
 __First 3D vector tracking of helium recoils for fast neutron measurements at SuperKEKB__
 - M. T. Hedges, S.E. Vahsen, I. Jaegle, P. M. Lewis, H. Nakayama, T. N. Thorpe
-- [[<u>arXiv:2106.13079</u>]](https://arxiv.org/abs/2106.13079)
+- [[<u>(https://doi.org/10.1016/j.nima.2021.166066)/u>]](https://doi.org/10.1016/j.nima.2021.166066)
 
 __Parameters of fast and high-yield InAs/GaAs quantum dot semiconductor scintillator__
 - A. Minns, K. Dropiewski, M. Yakimov, V. Tokranov, M. Hedges, P. Murat, and S. Oktyabrksy
@@ -81,18 +103,18 @@ __Parameters of fast and high-yield InAs/GaAs quantum dot semiconductor scintill
 
 __Primary track recovery in high-definition gas time projection chambers__
 - P. M. Lewis, M. T. Hedges, I. Jaegle, J. Schueler, T. N. Thorpe, S. E. Vahsen
-- [[<u>arXiv:2106.15829</u>]](https://arxiv.org/abs/2106.15829)
+- [[<u>doi.org/10.1140/epjc/s10052-022-10283-3</u>]](https://doi.org/10.1140/epjc/s10052-022-10283-3)
 
 `2020`
 __A time resolved study of injection backgrounds during the first commissioning phase of SuperKEKB__
 - M. Gabriel, F. Simon, H. Windel, et. al.
-- [[<u>arXiv:2012.10948</u>]](https://arxiv.org/abs/2012.10948)
+- [[<u>doi.org/10.1140/epjc/s10052-021-09769-3</u>]](https://doi.org/10.1140/epjc/s10052-021-09769-3)
 
 `2019`
 __Compact, directional neutron detectors capable of high-resolution nuclear recoil imaging__ 
 - I. Jaegle, P. M. Lewis, M. Garcia-Sciveres, M. T. Hedges, T. Hemperek, J. Janssen, Q. Li, D.-L. Pohl, S. Ross, J.
   Schueler, I. Seong, T. N. Thorpe, S. E. Vahsen
-- [[<u>arXiv:1901.06657</u>]](https://arxiv.org/abs/1901.06657)
+- [[<u>doi.org/10.1016/j.nima.2019.06.037</u>]](https://doi.org/10.1016/j.nima.2019.06.037)
 
 `2018`
 __First Measurements of Beam Backgrounds at SuperKEKB__
