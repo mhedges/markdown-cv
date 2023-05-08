@@ -72,7 +72,7 @@ __Xiaobing Shi PhD thesis__
 - PhD committee member
 
 `2022`
-__Maximillion Hoverath bachelor's Thesis__
+__Maximillion Hoverath Bachelor's Thesis__
 - Mentor
 
 ## Select Publications
