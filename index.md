@@ -11,9 +11,18 @@ High-Energy Physics
 <a href="mailto:hedges7@purdue.edu">hedges7ATpurdue.edu</a>
 </div>
 
-## Currently
-Postdoc at Purdue University working on <a href="https://mu2e.fnal.gov/"><u>Mu2e</u></a>
-<br />Visiting Scientist at the University of Bonn working on <a href="https://belle2.org"><u>Belle II</u></a>.
+## Research
+### Mu2e
+Affiliation: Purdue University
+<br /> Supervisor: John P. Finley
+
+### Belle II
+Affiliation: University of Bonn
+<br /> Group leader: Florian Bernlochner
+<br /> Analysis topic: Tests of light-lepton universality in angular observables in B0 -> D*lnu decays
+
+### Novel quantum-dot based scintillators for charged-particle detection
+QDS
 
 ### Specialties
 High-Power Targetry at Mu2e
@@ -35,6 +44,8 @@ High-Power Targetry
 __University of Hawaii at Manoa__
 
 - PhD Physics
+- Advisor: Sven Vahsen
+- Thesis title: Performance and First Deployment of Novel 3d Nuclear Recoil Detectors
 
 `2007-2011`
 __Boston University__
@@ -57,6 +68,10 @@ Mu2e [<u>Offline</u>](https://github.com/Mu2e/Offline) Analysis Software Framewo
 Full INSPIREHEP list is available [<u>online</u>](https://inspirehep.net/authors/1259719)
 
 ### Papers
+`2023`
+__MMu2e Run I Sensitivity Projections for the Neutrinoless $\mu^- \to e^-$ Conversion Search in Aluminum__\
+- The Mu2e Collaboration
+- [[doi.org/10.3390/universe9010054]](https://doi.org/10.3390/universe9010054)
 `2022`
 __The Mu2e Experiment --- Searching for Charged Lepton Flavor Violation__
 - M. T. Hedges, on behalf of the Mu2e experiment
@@ -64,8 +79,8 @@ __The Mu2e Experiment --- Searching for Charged Lepton Flavor Violation__
 - Proceedings for the Vienna Conference on Instrumentation (VCI)
 
 __Report of the Instrumentation Frontier Working Group for Snowmass 2021__
-- Phillip S. Barbeau, Petra Merkel, Jinlong Zhang, et. al
-- [[arxiv:2209.14111]](https://arxiv.org/abs/2209.14111) 
+- Phillip S. Barbeau (1), Petra Merkel (2), Jinlong Zhang (3), Darin Acosta (4), Anthony A. Affolder (5), Artur Apresyan (2), Marina Artuso (6), Vallary Bhopatkar (7), Stephen Butalla (8), Gabriella A. Carini (9), Thomas Cecil (3), Amy Connolly (8), C. Eric Dahl (2, 10), Allison Deiana (11), Katherine Dunne (12), Carlos O. Escobar (2), Juan Estrada (2), Farah Fahim (2), James E. Fast (13), Maurice Garcia-Sciveres (14), Roxanne Guenette (15), Michael T. Hedges (16), Kent Irwin (17), Albrecht Karle (18), Wes Ketchum (2), Scott Kravitz (14), W. Hugh Lippincott (19), Reina H. Maruyama (20), Jess McIver (21), F. Mitchell Newcomer (22), John Parsons (23), Matt Pyle (24), Jennifer L. Raaf (2), Chris Rogan (25), Mayly C. Sanchez (26), Ian Shipsey (27), Bernd Surrow (28), Maxim Titov (29), Sven E. Vahsen (30), Caterina Vernieri (31), Andrew P. White (32), Steven Worm (33, 34), Minfang Yeh (9), Rachel Yohay (26), Jacob Zettlemoyer (2) ((1) Duke University, (2) Fermi National Accelerator Laboratory, (3) Argonne National Laboratory, (4) Rice University, (5) University of California Santa Cruz, (6) Syracuse University, (7) Ohio State University, (8) Florida Institute of Technology, (9) Brookhaven National Laboratory, (10) Northwestern University, (11) Southern Methodist University, (12) Stockholm University, (13) Jefferson Lab, (14) Lawrence Berkeley National Laboratory, (15) University of Manchester, (16) Purdue University, (17) Stanford University, (18) University of Wisconsin Madison, (19) University of California Santa Barbara, (20) Yale University, (21) University of British Columbia, (22) University of Pennsylvania, (23) Columbia University, (24) University of California Berkeley, (25) University of Kansas, (26) Florida State University, (27) Oxford University, (28) Temple University, (29) IRFU, CEA, Université Paris-Saclay, (30) University of Hawaii, (31) Stanford Linear Accelerator Laboratory, (32) Universi
+- :2209.14111]](https://arxiv.org/abs/2209.14111) 
 
 __Solid State Detectors and Tracking for Snowmass__
 - A. Affolder, A. Apresyan, S. Worm, et. al
