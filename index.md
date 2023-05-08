@@ -29,17 +29,18 @@ __Mu2e__
 - Affiliation: Purdue University (Postdoc)
 - Supervisor: John P. Finley
 - __Target Extinction Monitor__
-- - Does this actually work?
+-- Does this work better?
 
 `2011-present`
 __Belle II__
-`2021-present`
+- `2021-present`
 - Lead analyst: Tests of light-lepton universality in angular observables in B0 -> D\*lnu decays
 - Affiliation: University of Bonn (Visting Scientist)
 - Group leader: Florian Bernlochner
-`2011-2018`
-- Affiliation: University of Hawaii (PhD advisor
-- Phd Advisor
+<br />
+- `2011-2018`
+- Affiliation: University of Hawaii (PhD student)
+- Phd Advisor: Sven Vahsen
 
 __Instrumentation__
 `2011-present`
