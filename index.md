@@ -46,7 +46,7 @@ __Belle II__
 - Affiliation: University of Hawaii (PhD student)
 - Phd Advisor: Sven Vahsen
 - *Phase I commissioning of the SuperKEKB accelerator*
-    - Involved from start-to-finsih of design, construction, operation, and publication of results of suite of commissioning detectors used for first-beam measurements of SuperKEKB.
+    - Involved from start-to-finsih of design, construction, operation, and publication of results data collected by suite of commissioning detectors used for first-beam measurements of SuperKEKB.
     - KEK onsite safety coordinator for construction and integration.
     - Shift coordinator.
     - First directional analysis of beam-induced fast-neutrons using subsystem of novel TPC-based micro-pattern gas detectors.
@@ -61,7 +61,7 @@ __Instrumentation__
 
 ## Select Publications
 
-Full INSPIREHEP list is available [<u>online</u>](https://inspirehep.net/authors/1259719)
+Full INSPIRE-HEP list is available [<u>online</u>](https://inspirehep.net/authors/1259719)
 
 ### Papers
 `2023`
