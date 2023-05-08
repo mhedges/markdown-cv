@@ -12,9 +12,9 @@ High-Energy Physics
 </div>
 
 ## Research
-### Mu2e
-Affiliation: Purdue University
-<br /> Supervisor: John P. Finley
+__Mu2e__
+- Affiliation: Purdue University
+- Supervisor: John P. Finley
 
 ### Belle II
 Affiliation: University of Bonn
@@ -80,8 +80,8 @@ __The Mu2e Experiment --- Searching for Charged Lepton Flavor Violation__
 - Proceedings for the Vienna Conference on Instrumentation (VCI)
 
 __Report of the Instrumentation Frontier Working Group for Snowmass 2021__
-- Phillip S. Barbeau (1), Petra Merkel (2), Jinlong Zhang (3), Darin Acosta (4), Anthony A. Affolder (5), Artur Apresyan (2), Marina Artuso (6), Vallary Bhopatkar (7), Stephen Butalla (8), Gabriella A. Carini (9), Thomas Cecil (3), Amy Connolly (8), C. Eric Dahl (2, 10), Allison Deiana (11), Katherine Dunne (12), Carlos O. Escobar (2), Juan Estrada (2), Farah Fahim (2), James E. Fast (13), Maurice Garcia-Sciveres (14), Roxanne Guenette (15), Michael T. Hedges (16), Kent Irwin (17), Albrecht Karle (18), Wes Ketchum (2), Scott Kravitz (14), W. Hugh Lippincott (19), Reina H. Maruyama (20), Jess McIver (21), F. Mitchell Newcomer (22), John Parsons (23), Matt Pyle (24), Jennifer L. Raaf (2), Chris Rogan (25), Mayly C. Sanchez (26), Ian Shipsey (27), Bernd Surrow (28), Maxim Titov (29), Sven E. Vahsen (30), Caterina Vernieri (31), Andrew P. White (32), Steven Worm (33, 34), Minfang Yeh (9), Rachel Yohay (26), Jacob Zettlemoyer (2) ((1) Duke University, (2) Fermi National Accelerator Laboratory, (3) Argonne National Laboratory, (4) Rice University, (5) University of California Santa Cruz, (6) Syracuse University, (7) Ohio State University, (8) Florida Institute of Technology, (9) Brookhaven National Laboratory, (10) Northwestern University, (11) Southern Methodist University, (12) Stockholm University, (13) Jefferson Lab, (14) Lawrence Berkeley National Laboratory, (15) University of Manchester, (16) Purdue University, (17) Stanford University, (18) University of Wisconsin Madison, (19) University of California Santa Barbara, (20) Yale University, (21) University of British Columbia, (22) University of Pennsylvania, (23) Columbia University, (24) University of California Berkeley, (25) University of Kansas, (26) Florida State University, (27) Oxford University, (28) Temple University, (29) IRFU, CEA, Université Paris-Saclay, (30) University of Hawaii, (31) Stanford Linear Accelerator Laboratory, (32) Universi
-- :2209.14111]](https://arxiv.org/abs/2209.14111) 
+- Phillip S. Barbeau, Petra Merkel, Jinlong Zhang, Darin Acosta, Anthony A. Affolder, Artur Apresyan, Marina Artuso, Vallary Bhopatkar, Stephen Butalla, Gabriella A. Carini, Thomas Cecil, Amy Connolly, C. Eric Dahl, Allison Deiana, Katherine Dunne , Carlos O. Escobar, Juan Estrada, Farah Fahim, James E. Fast, Maurice Garcia-Sciveres, Roxanne Guenette, Michael T. Hedges, Kent Irwin, Albrecht Karle, Wes Ketchum, Scott Kravitz, W. Hugh Lippincott, Reina H. Maruyama, Jess McIver, F. Mitchell Newcomer, John Parsons, Matt Pyle, Jennifer L. Raaf, Chris Rogan, Mayly C. Sanchez, Ian Shipsey, Bernd Surrow, Maxim Titov, Sven E. Vahsen, Caterina Vernieri, Andrew P. White, Steven Worm, Minfang Yeh, Rachel Yohay, and Jacob Zettlemoyer
+- [[arxiv:2209.14111]](https://arxiv.org/abs/2209.14111) 
 
 __Solid State Detectors and Tracking for Snowmass__
 - A. Affolder, A. Apresyan, S. Worm, et. al
@@ -92,7 +92,7 @@ __Novel Sensors for Particle Tracking: a Contribution to the Snowmass Community 
 - [[arxiv:2202.11828]](https://arxiv.org/abs/2202.11828)
 
 __Mu2e-II: Muon to electron conversion with PIP-II__
-- K. Byrum, et. al
+- K. Byrum, S. Corrodi, Y. Oksuzian, P. Winter, L. Xia, A. W. J. Edmonds, J. P. Miller, J. Mott, W. J. Marciano, R. Szafron, R. Bonventre, D. N. Brown, Yu. G. Kolomensky, O. Ning, V. Singh, E. Prebys, L. Borrel, B. Echenard, D. G. Hitlin, C. Hu, D. X. Lin, S. Middleton, F. C. Porter, L. Zhang, R.-Y. Zhu, D. Ambrose, K. Badgley, R. H. Bernstein, S. Boi, B. C. K. Casey, R. Culbertson, A. Gaponenko, H. D. Glass, D. Glenzinski, L. Goodenough, A. Hocker, M. Kargiantoulakis, V. Kashikhin, B. Kiburg, R. K. Kutschke, P. A. Murat, D. Neuffer, V. S. Pronskikh, D. Pushka, G. Rakness, T. Strauss, M. Yucel, C. Bloise, E. Diociaiuti, S. Giovannella, F. Happacher, S. Miscetti, I. Sarra, M. Martini, A. Ferrari, S. E. Müller, R. Rachamin, E. Barlas-Yucel, A. Artikov, N. Atanov, Yu. I. Davydov, V. Glagolev, I. I. Vasilyev, D. N. Brown, Y. Uesaka, S. P. Denisov, V. Evdokimov, A. V. Kozelov, A. V. Popov, I. A. Vasilyev, G. Tassielli, T. Teubner, R. T. Chislett, G. G. Hesketh, M. Lancaster, M. Campbell, K. Ciampa, K. Heller, B. Messerly, M. A. C. Cummings, L. Calibbi, G. C. Blazey, M. J. Syphers, V. Zutshi, C. Kampa, M. MacKenzie, S. Di Falco, S. Donati, A. Gioiosa, V. Giusti, L. Morescalchi, D. Pasciuto, E. Pedreschi, F. Spinella, M. T. Hedges, M. Jones, Z. Y. You, A. M. Zanetti, E. V. Valetov, E. C. Dukes , R. Ehrlich, R. C. Group, J. Heeck, P. Q. Hung, S. M. Demers, G. Pezzullo, K. R. Lynch, and J. L. Popp
 - [[arxiv:2203.07569]](https://arxiv.org/abs/2203.07569)
 
 __A New Charged Lepton Flavor Violation Program at Fermilab__
