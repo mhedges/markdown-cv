@@ -39,7 +39,7 @@ __Mu2e__
      - `2022-`
      - Analysis Review Committee member
 
-`2011-present`
+`2011-`
 __Belle II__
 - `2021`
 - Affiliation: University of Bonn (Visting Scientist)
