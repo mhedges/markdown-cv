@@ -16,14 +16,14 @@ __Mu2e__
 - Affiliation: Purdue University
 - Supervisor: John P. Finley
 
-### Belle II
-Affiliation: University of Bonn
-<br /> Group leader: Florian Bernlochner
-<br /> Analysis topic: Tests of light-lepton universality in angular observables in B0 -> D*lnu decays
+__Belle II__
+- Affiliation: University of Bonn
+- Group leader: Florian Bernlochner
+- Analysis topic: Tests of light-lepton universality in angular observables in B0 -> D*lnu decays
 
-### Instrumentation
-Quantum-dot based scintillators for charged-particle detection
-<br /> TPC-based micro-pattern gas detectors with pixel readout for directional nuclear recoil detection
+__Instrumentation__
+- Quantum-dot based scintillators for charged-particle detection
+- TPC-based micro-pattern gas detectors with pixel readout for directional nuclear recoil detection
 
 ### Specialties
 High-Power Targetry at Mu2e
