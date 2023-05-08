@@ -57,6 +57,13 @@ Mu2e [<u>Offline</u>](https://github.com/Mu2e/Offline) Analysis Software Framewo
 Full INSPIREHEP list is available [<u>online</u>](https://inspirehep.net/authors/1259719)
 
 ### Journals
+`2023`
+
+`2022`
+__The Mu2e Experiment --- Searching for Charged Lepton Flavor Violation__
+- M. T. Hedges, on behalf of the Mu2e experiment
+- [[doi.org/10.1016/j.nima.2022.167589]](https://doi.org/10.1016/j.nima.2022.167589)
+- Proceedings for the Vienna Conference on Instrumentation (VCI)
 `2021`
 __Design and Performance Evaluation of InAs Quantum Dot Scintillation Detector Properties with Monolithically Integrated
 Photodiode__
@@ -115,6 +122,32 @@ __Charge-Focusing Readout of Time Projection Chambers__
 - [[<u>10.1109/NSSMIC.2012.6551412</u>]](https://doi.org/10.1109/NSSMIC.2012.6551412)
 
 ### Presentations
+`2023`
+__Open LHCb Workshop on exclusive b -> c decays__
+- Invited talk
+- Title: Measurements of LFU in B -> D(*)lnu at B-Factories
+
+__Workshop on a Future Muon Program At Fermilab__
+- Invited talk
+- Title: The Mu2e target
+
+__Lake Louise 2023 Winter Institute__
+- Invited talk
+- Title: The Mu2e Experiment --- Searching for Charged Lepton Flavor Violation
+
+__Discussion of shared targetry needs between MuCol (muon collider) and Mu2e__
+- Invited talk
+- Title: Mu2e target design
+
+`2022`
+__Vienna Conference on Instrumentation__
+- Title: The Mu2e Experiment --- Searching for Charged Lepton Flavor Violation
+- Proceedings available [[<u>here</u>]](https://doi.org/10.1016/j.nima.2022.167589)
+
+__New Perspectives__
+- Invited talk
+- Title: The Mu2e Experiment --- Searching for Charged Lepton Flavor Violation
+
 `2021`
 __CPAD Instrumentation Frontier Workshop 2021__
 - Invited talk: Blue Skies presentation
@@ -128,24 +161,24 @@ __2021 Meeting of the Division of Particles and Fields of the American Physical 
 
 `2018`
 __APS April Meeting__
-- Title: “First application of a novel directional neutron detector to background measurements at SuperKEKB”
+- Title: First application of a novel directional neutron detector to background measurements at SuperKEKB
 
 `2017`
 __APS Division of Particles and Fields__
-- Title: “Directional measurements of fast neutron backgrounds at SuperKEKB”
+- Title: Directional measurements of fast neutron backgrounds at SuperKEKB
 
 `2013`
 __DHS Domestic Nuclear Detection Office (DNDO) Academic Research Initiative
 (ARI) Grantees’ Conference__
-- Title: “Performance Studies of a Prototype Directional Neutron Detector Using Cosmic Rays”
-- Awarded “Best Student Presentation”
+- Title: Performance Studies of a Prototype Directional Neutron Detector Using Cosmic Rays
+- Awarded "Best Student Presentation”
 
 ## Workshops
 `2019`
 Fermlab C++ Workshop [[<u>OOPL:Fermilab</u>]](https://www.oopl.com/fnal/index.html)
 
 `2017`
-"Computational and Data Science School for High Energy Physics (CoDaS-HEP)" [ [codas-hep.org] ](http://codas-hep.org)
+Computational and Data Science School for High Energy Physics (CoDaS-HEP) [ [codas-hep.org] ](http://codas-hep.org)
 - [[<u>CoDaS-HEP Agenda</u>]](https://indico.cern.ch/event/625333/timetable/)
 
 
