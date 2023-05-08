@@ -56,6 +56,8 @@ __Belle II__
     - Shift coordinator.
     - First directional analysis of beam-induced fast-neutrons using subsystem of novel TPC-based micro-pattern gas detectors.
     - Design and installation of gas distribution system for TPC subsystem.
+- _Collaboration Service_
+    - Review committe member
 
 __Instrumentation__
 `2011-present`
@@ -219,7 +221,7 @@ __DHS Domestic Nuclear Detection Office (DNDO) Academic Research Initiative
 - Awarded "Best Student Presentation”
 
 ## Other professional activities
-__Reviewer: Nuclear Instrumentation Methods (2021)__
+__Reviewer: Nuclear Instrumentation Methods: Section A (2021)__
 ### Workshops
 `2019`
 Fermlab C++ Workshop [[<u>OOPL:Fermilab</u>]](https://www.oopl.com/fnal/index.html)
