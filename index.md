@@ -13,11 +13,11 @@ High-Energy Physics
 
 ## Research
 __Mu2e__
-- Affiliation: Purdue University
+- Affiliation: Purdue University (Postdoc)
 - Supervisor: John P. Finley
 
 __Belle II__
-- Affiliation: University of Bonn
+- Affiliation: University of Bonn (Visting Scientist)
 - Group leader: Florian Bernlochner
 - Analysis topic: Tests of light-lepton universality in angular observables in B0 -> D*lnu decays
 
