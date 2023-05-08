@@ -21,8 +21,9 @@ Affiliation: University of Bonn
 <br /> Group leader: Florian Bernlochner
 <br /> Analysis topic: Tests of light-lepton universality in angular observables in B0 -> D*lnu decays
 
-### Novel quantum-dot based scintillators for charged-particle detection
-QDS
+### Instrumentation
+Quantum-dot based scintillators for charged-particle detection
+<br /> TPC-based micro-pattern gas detectors with pixel readout for directional nuclear recoil detection
 
 ### Specialties
 High-Power Targetry at Mu2e
