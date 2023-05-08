@@ -140,12 +140,12 @@ __Compact, directional neutron detectors capable of high-resolution nuclear reco
 
 `2018`
 __First Measurements of Beam Backgrounds at SuperKEKB__
-- P. M. Lewis, I. Jaegle, H. Nakayama, et al.
+- P.M. Lewis, I. Jaegle, H. Nakayama, A. Aloisio, F. Ameli, M. Barrett, A. Beaulieu, L. Bosisio, P. Branchini, T.E. Browder, A. Budano, G. Cautero, C. Cecchi, Y.-T. Chen, K.-N. Chu, D. Cinabro, P. Cristaudo, S. de Jong, R. de Sangro, G. Finocchiaro, J. Flanagan, Y. Funakoshi, M. Gabriel, R. Giordano, D. Giuressi, M.T. Hedges, N. Honkanen, H. Ikeda, T. Ishibashi, H. Kaji, K. Kanazawa, C. Kiesling, S. Koirala, P. Križan, C. La Licata, L. Lanceri, J.-J. Liau, F.-H. Lin, J.-C. Lin, Z. Liptak, S. Longo, E. Manoni, C. Marinas, K. Miyabayashi, E. Mulyani, A. Morita, M. Nakao, M. Nayak, Y. Ohnishi, A. Passeri, P. Poffenberger, M. Ritzert, J.M. Roney, A. Rossi, T. Röder, R.M. Seddon, I.S. Seong, J.-G. Shiu, F. Simon, Y. Soloviev, Y. Suetsugu, M. Szalay, S. Terui, G. Tortone, S.E. Vahsen, N. van der Kolk, L. Vitale, M.-Z. Wang, H. Windel, S. Yokoyama
 - [[doi.org10.1016/j.nima.2018.05.071]](https://doi.org/10.1016/j.nima.2018.05.071)
 
 `2016`
 __Readout technologies for directional WIMP Dark Matter detection__
-- J. B. R. Battat, et. al.
+- J.B.R. Battat, I.G. Irastorza, A. Aleksandrov, T. Asada, E. Baracchini, J. Billard, G. Bosson, O. Bourrion, J. Bouvier, A. Buonaura, K. Burdge, S. Cebrián, P. Colas, L. Consiglio, T. Dafni, N. D’Ambrosio, C. Deaconu, G. De Lellis, T. Descombes, A. Di Crescenzo, N. Di Marco, G. Druitt, R. Eggleston, E. Ferrer-Ribas, T. Fusayasu, J. Galán, G. Galati, J.A. García, J.G. Garza, V. Gentile, M. Garcia-Sciveres, Y. Giomataris, N. Guerrero, O. Guillaudin, A.M. Guler, J. Harton, T. Hashimoto, M.T. Hedges, F.J. Iguaz, T. Ikeda, I. Jaegle, J.A. Kadyk, T. Katsuragawa, S. Komura, H. Kubo, K. Kuge, J. Lamblin, A. Lauria, E.R. Lee, P. Lewis, M. Leyton, D. Loomba, J.P. Lopez, G. Luzón, F. Mayet, H. Mirallas, K. Miuchi, T. Mizumoto, Y. Mizumura, P. Monacelli, J. Monroe, M.C. Montesi, T. Naka, K. Nakamura, H. Nishimura, A. Ochi, T. Papevangelou, J.D. Parker, N.S. Phan, F. Pupilli, J.P. Richer, Q. Riffard, G. Rosa, D. Santos, T. Sawano, H. Sekiya, I.S. Seong, D.P. Snowden-Ifft, N.J.C. Spooner, A. Sugiyama, R. Taishaku, A. Takada, A. Takeda, M. Tanaka, T. Tanimori, T.N. Thorpe, V. Tioukov, H. Tomita, A. Umemoto, S.E. Vahsen, Y. Yamaguchi, M. Yoshimoto, E. Zayas
 - [[10.1016/j.physrep.2016.10.001]](https://doi.org/10.1016/j.physrep.2016.10.001)
 
 `2015`
