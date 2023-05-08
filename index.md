@@ -24,7 +24,7 @@ __Boston University__
 - BA Physics
 
 ## Research
-`2018-present`
+`2018-`
 __Mu2e__
 - Affiliation: Purdue University (Postdoc)
 - Supervisor: John P. Finley
@@ -34,14 +34,14 @@ __Mu2e__
 - *Momentum calibration analysis using stopped-pion decays*
     - Build simulation and analysis infrastructure to investigate feasibility of proposed momentum calibration channel for the Mu2e experiment.
  - *Collaboration Service*
-     - `2020-present`
+     - `2020-`
      - Speakers' Committee member
-     - `2022-present`
+     - `2022-`
      - Analysis Review Committee member
 
 `2011-present`
 __Belle II__
-- `2021-present`
+- `2021`
 - Affiliation: University of Bonn (Visting Scientist)
 - Group leader: Florian Bernlochner
 - _Tests of light-lepton universality in angular observables in B0 -> D\*lnu decays_
@@ -60,14 +60,14 @@ __Belle II__
     - Review committe member
 
 __Instrumentation__
-`2011-present`
-- `2019-present`
+`2011-`
+- `2019-`
 - Quantum-dot based scintillators for charged-particle detection.
 - `2011-2018`
 - TPC-based micro-pattern gas detectors with pixel readout for directional nuclear recoil detection.
 
 ## Mentorship
-`2023 (expected)`
+`2023 <br />(expected)`
 __Xiaobing Shi PhD thesis (Purdue)__
 - PhD committee member
 
