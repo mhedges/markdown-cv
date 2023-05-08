@@ -221,7 +221,7 @@ __DHS Domestic Nuclear Detection Office (DNDO) Academic Research Initiative
 - Awarded "Best Student Presentation”
 
 ## Other professional activities
-__Reviewer: Nuclear Instrumentation Methods: Section A (2021)__
+__Reviewer: Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment (2021)__
 ### Workshops
 `2019`
 Fermlab C++ Workshop [[<u>OOPL:Fermilab</u>]](https://www.oopl.com/fnal/index.html)
