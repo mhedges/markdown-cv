@@ -42,7 +42,6 @@ __Belle II__
 - _Tests of light-lepton universality in angular observables in B0 -> D\*lnu decays_
     - Lead analyst of world's first measurement of light-lepton universality in full suite of angular observables in exclusive B0->D\*lnu decays.
 
-<br />
 - `2011-2018`
 - Affiliation: University of Hawaii (PhD student)
 - Phd Advisor: Sven Vahsen
