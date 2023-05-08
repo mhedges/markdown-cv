@@ -33,6 +33,11 @@ __Mu2e__
     - Develop online slow-control interface and infrastructure for archiving enviornmental data via EPICS and CS-Studio/Phoebus.
 - *Momentum calibration analysis using stopped-pion decays*
     - Build simulation and analysis infrastructure to investigate feasibility of proposed momentum calibration channel for the Mu2e experiment.
+ - *Collaboration Service*
+     - `2020-present`
+     - Speakers' Committee member
+     - `2022-present`
+     - Analysis Review Committee member
 
 `2011-present`
 __Belle II__
@@ -58,6 +63,14 @@ __Instrumentation__
 - Quantum-dot based scintillators for charged-particle detection.
 - `2011-2018`
 - TPC-based micro-pattern gas detectors with pixel readout for directional nuclear recoil detection.
+
+## Mentorship
+`2023 (expected)`
+__Xiaobing Shi PhD thesis__
+- PhD committee member
+`2022`
+__Maximillion Hoverath bachelor's Thesis__
+- Mentor
 
 ## Select Publications
 
@@ -204,7 +217,9 @@ __DHS Domestic Nuclear Detection Office (DNDO) Academic Research Initiative
 - Title: Performance Studies of a Prototype Directional Neutron Detector Using Cosmic Rays
 - Awarded "Best Student Presentation”
 
-## Workshops
+## Other professional activities
+__Reviewer: Nuclear Instrumentation Methods (2021)__
+### Workshops
 `2019`
 Fermlab C++ Workshop [[<u>OOPL:Fermilab</u>]](https://www.oopl.com/fnal/index.html)
 
