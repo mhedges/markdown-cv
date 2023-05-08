@@ -70,9 +70,10 @@ Full INSPIREHEP list is available [<u>online</u>](https://inspirehep.net/authors
 
 ### Papers
 `2023`
-__MMu2e Run I Sensitivity Projections for the Neutrinoless $\mu^- \to e^-$ Conversion Search in Aluminum__\
+__Mu2e Run I Sensitivity Projections for the Neutrinoless $\mu^- \to e^-$ Conversion Search in Aluminum__
 - The Mu2e Collaboration
 - [[doi.org/10.3390/universe9010054]](https://doi.org/10.3390/universe9010054)
+
 `2022`
 __The Mu2e Experiment --- Searching for Charged Lepton Flavor Violation__
 - M. T. Hedges, on behalf of the Mu2e experiment
