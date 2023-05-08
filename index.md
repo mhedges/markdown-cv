@@ -41,7 +41,7 @@ __Mu2e__
 
 `2011-`
 __Belle II__
-- `2021`
+- `2021-`
 - Affiliation: University of Bonn (Visting Scientist)
 - Group leader: Florian Bernlochner
 - _Tests of light-lepton universality in angular observables in B0 -> D\*lnu decays_
