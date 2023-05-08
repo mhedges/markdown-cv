@@ -56,7 +56,7 @@ Mu2e [<u>Offline</u>](https://github.com/Mu2e/Offline) Analysis Software Framewo
 
 Full INSPIREHEP list is available [<u>online</u>](https://inspirehep.net/authors/1259719)
 
-### Journals
+### Manuscripts
 `2023`
 
 `2022`
@@ -64,6 +64,7 @@ __The Mu2e Experiment --- Searching for Charged Lepton Flavor Violation__
 - M. T. Hedges, on behalf of the Mu2e experiment
 - [[doi.org/10.1016/j.nima.2022.167589]](https://doi.org/10.1016/j.nima.2022.167589)
 - Proceedings for the Vienna Conference on Instrumentation (VCI)
+
 `2021`
 __Design and Performance Evaluation of InAs Quantum Dot Scintillation Detector Properties with Monolithically Integrated
 Photodiode__
