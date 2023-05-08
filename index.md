@@ -28,26 +28,34 @@ __Boston University__
 __Mu2e__
 - Affiliation: Purdue University (Postdoc)
 - Supervisor: John P. Finley
-- __Target Extinction Monitor__
-- - Maintain, run, and analyze Geant4 and G4beamline simulations
-- - Develop slow-control interface and enviornmental data archiving infrastructure
-- __Momentum calibration analysis using stopped-pion decays__
-- - Build simulation and analysis infrastructure for proposed momentum calibration channel
+- *Target Extinction Monitor*
+    - Maintain, run, and analyze Geant4 and G4beamline simulations of the Target Extinction Monitor pixel-telescope.
+    - Develop online slow-control interface and infrastructure for archiving enviornmental data via EPICS and CS-Studio/Phoebus.
+- *Momentum calibration analysis using stopped-pion decays*
+    - Build simulation and analysis infrastructure to investigate feasibility of proposed momentum calibration channel for the Mu2e experiment.
 
 `2011-present`
 __Belle II__
 - `2021-present`
-- Lead analyst: Tests of light-lepton universality in angular observables in B0 -> D\*lnu decays
 - Affiliation: University of Bonn (Visting Scientist)
 - Group leader: Florian Bernlochner
+- _Tests of light-lepton universality in angular observables in B0 -> D\*lnu decays_
+    - Lead analyst of world's first measurement of light-lepton universality in full suite of angular observables in exclusive B0->D\*lnu decays.
+
 <br />
 - `2011-2018`
 - Affiliation: University of Hawaii (PhD student)
 - Phd Advisor: Sven Vahsen
+- *Phase I commissioning of the SuperKEKB accelerator*
+- - Involved from start-to-finsih of design, construction, operation, and publication of results of suite of commissioning detectors used for first-beam measurements of SuperKEKB.
+- - KEK onsite safety coordinator for construction and integration
+- - Shift coordinator
 
 __Instrumentation__
 `2011-present`
+- `2019-present`
 - Quantum-dot based scintillators for charged-particle detection
+- `2011-2018`
 - TPC-based micro-pattern gas detectors with pixel readout for directional nuclear recoil detection
 
 ## Select Publications
