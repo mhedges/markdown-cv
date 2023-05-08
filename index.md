@@ -12,16 +12,19 @@ High-Energy Physics
 </div>
 
 ## Research
+`2018-present`
 __Mu2e__
 - Affiliation: Purdue University (Postdoc)
 - Supervisor: John P. Finley
 
 __Belle II__
+`2011-present`
 - Affiliation: University of Bonn (Visting Scientist)
 - Group leader: Florian Bernlochner
 - Analysis topic: Tests of light-lepton universality in angular observables in B0 -> D*lnu decays
 
 __Instrumentation__
+`2011-present`
 - Quantum-dot based scintillators for charged-particle detection
 - TPC-based micro-pattern gas detectors with pixel readout for directional nuclear recoil detection
 
