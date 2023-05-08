@@ -29,7 +29,10 @@ __Mu2e__
 - Affiliation: Purdue University (Postdoc)
 - Supervisor: John P. Finley
 - __Target Extinction Monitor__
--- Does this work better?
+- - Maintain, run, and analyze Geant4 and G4beamline simulations
+- - Develop slow-control interface and enviornmental data archiving infrastructure
+- __Momentum calibration analysis using stopped-pion decays__
+- - Build simulation and analysis infrastructure for proposed momentum calibration channel
 
 `2011-present`
 __Belle II__
@@ -81,68 +84,64 @@ __Mu2e-II: Muon to electron conversion with PIP-II__
 
 __A New Charged Lepton Flavor Violation Program at Fermilab__
 - M. Aoki, R. B. Appleby, M. Aslaninejad, R. Barlow, R.H. Bernstein, C. Bloise, L.Calibbi, F. Cervelli, R. Culbertson, Andre Luiz de Gouvea, S. Di Falco, E. Diociaiuti, S. Donati, R. Donghia, B. Echenard, A. Gaponenko, S. Giovannella, C. Group, F. Happacher, M. T. Hedges, D.G. Hitlin, E. Hungerford, C. Johnstone, D. M. Kaplan, M. Kargiantoulakis, D. J. Kelliher, K. Kirch, A. Knecht, Y. Kuno, A. Kurup, J.-B. Lagrange, M. Lancaster, K. Long, A. Luca, K. Lynch, S. Machida, M. Martini, S. Middleton, S. Mihara, J. Miller, S. Miscetti, L. Morescalchi, Y. Mori, P. Murat, B. Muratori, D. Neuffer, A. Papa, J. Pasternak, E. Pedreschi, G. Pezzullo, T. Planche, F. Porter, E. Prebys, C. R. Prior, V. Pronskikh, R. Ray, F. Renga, C. Rogers, I. Sarra, A. Sato, S. L. Smith, F. Spinella, D. Stratakis, M. Syphers, N.M. Truong, S. Tygier, Y. Uchida, and M. Yucel
-- [[arxiv.org:2203.08278]](https://arxiv.org/abs/2203.08278)
+- [[arxiv:2203.08278]](https://arxiv.org/abs/2203.08278)
 
 __Application of recoil-imaging time projection chambers to directional neutron background measurements in the SuperKEKB accelerator tunnel__
 - J. Schueler, S.E. Vahsen, P.M. Lewis, M.T. Hedges, D. Liventsev, F. Meier, H. Nakayama, A. Natochii, and T.N. Thorpe
 - [[doi.org/10.1016/j.nima.2022.167291]](https://doi.org/10.1016/j.nima.2022.167291)
 
 `2021`
-__Design and Performance Evaluation of InAs Quantum Dot Scintillation Detector Properties with Monolithically Integrated
-Photodiode__
-- T. Mahajan, A. Minns, V. Tokranov, P. Murat, M. T. Hedges, and S. Oktyabrksy
-- IEEE Sorma Proceedings
 
 __First 3D vector tracking of helium recoils for fast neutron measurements at SuperKEKB__
 - M. T. Hedges, S.E. Vahsen, I. Jaegle, P. M. Lewis, H. Nakayama, T. N. Thorpe
-- [[<u>(https://doi.org/10.1016/j.nima.2021.166066)/u>]](https://doi.org/10.1016/j.nima.2021.166066)
+- [[doi.org/10.1016/j.nima.2021.166066]](https://doi.org/10.1016/j.nima.2021.166066)
 
 __Parameters of fast and high-yield InAs/GaAs quantum dot semiconductor scintillator__
 - A. Minns, K. Dropiewski, M. Yakimov, V. Tokranov, M. Hedges, P. Murat, and S. Oktyabrksy
-- [[<u>10.1557/s43580-021-00019-y</u>]](https://doi.org/10.1557/s43580-021-00019-y)
+- [[10.1557/s43580-021-00019-y</u>]](https://doi.org/10.1557/s43580-021-00019-y)
 
 __Primary track recovery in high-definition gas time projection chambers__
 - P. M. Lewis, M. T. Hedges, I. Jaegle, J. Schueler, T. N. Thorpe, S. E. Vahsen
-- [[<u>doi.org/10.1140/epjc/s10052-022-10283-3</u>]](https://doi.org/10.1140/epjc/s10052-022-10283-3)
+- [[doi.org/10.1140/epjc/s10052-022-10283-3]](https://doi.org/10.1140/epjc/s10052-022-10283-3)
 
 `2020`
 __A time resolved study of injection backgrounds during the first commissioning phase of SuperKEKB__
 - M. Gabriel, F. Simon, H. Windel, et. al.
-- [[<u>doi.org/10.1140/epjc/s10052-021-09769-3</u>]](https://doi.org/10.1140/epjc/s10052-021-09769-3)
+- [[doi.org/10.1140/epjc/s10052-021-09769-3]](https://doi.org/10.1140/epjc/s10052-021-09769-3)
 
 `2019`
 __Compact, directional neutron detectors capable of high-resolution nuclear recoil imaging__ 
 - I. Jaegle, P. M. Lewis, M. Garcia-Sciveres, M. T. Hedges, T. Hemperek, J. Janssen, Q. Li, D.-L. Pohl, S. Ross, J.
   Schueler, I. Seong, T. N. Thorpe, S. E. Vahsen
-- [[<u>doi.org/10.1016/j.nima.2019.06.037</u>]](https://doi.org/10.1016/j.nima.2019.06.037)
+- [[doi.org/10.1016/j.nima.2019.06.037]](https://doi.org/10.1016/j.nima.2019.06.037)
 
 `2018`
 __First Measurements of Beam Backgrounds at SuperKEKB__
 - P. M. Lewis, I. Jaegle, H. Nakayama, et al.
-- [[<u>DOI:10.1016/j.nima.2018.05.071</u>]](https://doi.org/10.1016/j.nima.2018.05.071)
+- [[doi.org10.1016/j.nima.2018.05.071]](https://doi.org/10.1016/j.nima.2018.05.071)
 
 `2016`
 __Readout technologies for directional WIMP Dark Matter detection__
 - J. B. R. Battat, et. al.
-- [[<u>10.1016/j.physrep.2016.10.001</u>]](https://doi.org/10.1016/j.physrep.2016.10.001)
+- [[10.1016/j.physrep.2016.10.001]](https://doi.org/10.1016/j.physrep.2016.10.001)
 
 `2015`
 __Absolute position measurement in a gas time projection chamber via transverse
 diffusion of drift charge__
 - P. M. Lewis, S.E. Vahsen, I. S. Seong, M. T. Hedges, I. Jaegle, T. N. Thorpe
-- [[<u>10.1016/j.nima.2015.03.024</u>]](https://doi.org/10.1016/j.nima.2015.03.024)
+- [[10.1016/j.nima.2015.03.024]](https://doi.org/10.1016/j.nima.2015.03.024)
 
 `2014`
 __3-D Tracking of Nuclear Recoils in a Miniature Time Projection Chamber__
 - S.E. Vahsen, M.T. Hedges, I. Jaegle, S.J. Ross, I.S. Seong, T.N. Thorpe, J.
 Yamaoka, J.A. Kadyk, M. Garcia-Sciveres
-- [[<u>10.1016/j.nima.2015.03.009</u>]](https://doi.org/10.1016/j.nima.2015.03.009)
+- [[10.1016/j.nima.2015.03.009]](https://doi.org/10.1016/j.nima.2015.03.009)
 
 `2013`
 __Charge-Focusing Readout of Time Projection Chambers__
 - S. J. Ross, M. T. Hedges, I. Jaegle, M. D. Rosen, I. S. Seong, T. N. Thorpe,
   S. E. Vahsen, J. Yamaoka
-- [[<u>10.1109/NSSMIC.2012.6551412</u>]](https://doi.org/10.1109/NSSMIC.2012.6551412)
+- [[10.1109/NSSMIC.2012.6551412]](https://doi.org/10.1109/NSSMIC.2012.6551412)
 
 ### Presentations
 `2023`
@@ -232,4 +231,9 @@ Mu2e [<u>Offline</u>](https://github.com/Mu2e/Offline) Analysis Software Framewo
 <br /> C++
 <br /> [<u>ROOT</u>](https://root.cern.ch)
 <br /> AI / Machine Learning
+
+__Design and Performance Evaluation of InAs Quantum Dot Scintillation Detector Properties with Monolithically Integrated
+Photodiode__
+- T. Mahajan, A. Minns, V. Tokranov, P. Murat, M. T. Hedges, and S. Oktyabrksy
+- IEEE Sorma Proceedings
 -->
