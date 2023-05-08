@@ -68,6 +68,7 @@ __Instrumentation__
 `2023 (expected)`
 __Xiaobing Shi PhD thesis__
 - PhD committee member
+
 `2022`
 __Maximillion Hoverath bachelor's Thesis__
 - Mentor
