@@ -68,13 +68,20 @@ __Instrumentation__
 `2011-`
 - `2019-`
 - Quantum-dot based scintillators for charged-particle detection.
+    - Co-maintainer of Geant4-based simulation of novel detector system.
+    - Primary author and liason for all contributions to Snowmass 2021 in Solid-State and Tracking Detectors Topical Group in the Instrumentation Frontier.
 - `2011-2018`
 - TPC-based micro-pattern gas detectors with pixel readout for directional nuclear recoil detection.
+    - Involved from first design, construction, operation, and data acquisition and analysis.
+    - Devloper of first fast, high-performance simulation of 3D nuclear recoil events.
+    - First position resolution study using cosmic rays.
+    - Design and construction of first multi-detector gas distribution system used at KEK for commissioning SuperKEKB accelerator.
 
 ## Mentorship
 `2023-`
-__Xiaobing Shi PhD thesis (Purdue)__
-- PhD thesis committee member
+__Xiaobing Shi (in progress)__
+- PhD thesis (Purdue).
+- Thesis committee member.
 
 `2022`
 __Vermessung der Vorwärts-Rückwärts Asymmetrie in semileptonischen B -> D\*lnu Zerfällen mit Daten des Belle II-Experiments__
@@ -91,6 +98,7 @@ Full INSPIRE-HEP list is available [<u>online</u>](https://inspirehep.net/author
 __Tests of light-lepton universality in angular asymmetries of hadronically tagged $B^0 -> D^{∗−}{e^+, \mu^+}\nu$ decays at Belle II__
 - M. Eliachevitch, M. T. Hedges, P. M. Lewis, F. Bernlochner, et. al. (Belle II)
 - In final collaboration-wide review. *Target journal: Physical Review Letters*
+- Contribution: Proposer and primary analyst
 
 __Mu2e Run I Sensitivity Projections for the Neutrinoless $\mu^- \to e^-$ Conversion Search in Aluminum__
 - The Mu2e Collaboration
