@@ -200,7 +200,7 @@ __Discussion of shared targetry needs between MuCol (muon collider) and Mu2e__
 `2022`
 __Vienna Conference on Instrumentation__
 - Title: The Mu2e Experiment --- Searching for Charged Lepton Flavor Violation
-- Proceedings available [[<u>here</u>]](https://doi.org/10.1016/j.nima.2022.167589)
+- Proceedings available at [[doi.org/10.1016/j.nima.2022.167589]](https://doi.org/10.1016/j.nima.2022.167589)
 
 __New Perspectives__
 - Invited talk
