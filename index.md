@@ -80,8 +80,8 @@ __Instrumentation__
 ## Mentorship
 `2023-`
 __Xiaobing Shi (in progress)__
-- PhD thesis (Purdue).
-- Thesis committee member.
+- PhD thesis (Purdue)
+- Thesis committee member
 
 `2022`
 __Vermessung der Vorwärts-Rückwärts Asymmetrie in semileptonischen B -> D\*lnu Zerfällen mit Daten des Belle II-Experiments__
