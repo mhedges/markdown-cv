@@ -29,7 +29,7 @@ __Mu2e__
 - Affiliation: Purdue University (Postdoc)
 - Supervisor: John P. Finley
 - *Mu2e Production Target*
-    - Developing stand-alone, Geant4-based simulation compatibile with Mu2e Offline software framework for simulating and validating current and alternative designs for the tungsten Mu2e Production Target.
+    - Developing Geant4-based simulation compatibile with Mu2e Offline software framework for simulating and validating current and alternative designs for the tungsten Mu2e Production Target.
 - *Target Extinction Monitor*
     - Maintain, run, and analyze Geant4 and G4beamline simulations of the Mu2e Target Extinction Monitor pixel-telescope.
     - Developed online-monitoring, slow-control, and archiving infrastructure for enviornmental data via EPICS and CS-Studio/Phoebus.
