@@ -67,11 +67,11 @@ __Belle II__
 __Instrumentation__
 `2011-`
 - `2019-`
-- Quantum-dot based scintillators for charged-particle detection.
+- *Quantum-dot based scintillators for charged-particle detection.*
     - Co-maintainer of Geant4-based simulation of novel detector system.
     - Primary author and liason for all contributions to Snowmass 2021 in Solid-State and Tracking Detectors Topical Group in the Instrumentation Frontier.
 - `2011-2018`
-- TPC-based micro-pattern gas detectors with pixel readout for directional nuclear recoil detection.
+- *TPC-based micro-pattern gas detectors with pixel readout for directional nuclear recoil detection.*
     - Involved from first design, construction, operation, and data acquisition and analysis.
     - Devloper of first fast, high-performance simulation of 3D nuclear recoil events.
     - First position resolution study using cosmic rays.
