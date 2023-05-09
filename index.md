@@ -49,7 +49,7 @@ __Belle II__
 
 - `2011-2018`
 - Affiliation: University of Hawaii (PhD student)
-- Phd Advisor: Sven Vahsen
+- PhD advisor: Sven Vahsen
 - *Phase I commissioning of the SuperKEKB accelerator*
     - Involved from start-to-finsih of design, construction, operation, and publication of results data collected by suite of commissioning detectors used for first-beam measurements of SuperKEKB.
     - KEK onsite safety coordinator for construction and integration.
@@ -74,6 +74,7 @@ __Xiaobing Shi PhD thesis (Purdue)__
 `2022`
 __Vermessung der
 Vorwärts-Rückwärts Asymmetrie in semileptonischen B -> D\*lnu Zerfällen mit Daten des Belle II-Experiments__
+- Translation: *Measurement of the forward-backward asymmetry in semileptonic B -> D\*lnu decays with data from the Belle II experiment*
 - Maximillion Hoverath Bachelorarbeit in Physik (Bonn)
 - Mentor
 
