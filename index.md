@@ -98,11 +98,12 @@ Full INSPIRE-HEP list is available [<u>online</u>](https://inspirehep.net/author
 __Tests of light-lepton universality in angular asymmetries of hadronically tagged $B^0 -> D^{∗−}{e^+, \mu^+}\nu$ decays at Belle II__
 - M. Eliachevitch, M. T. Hedges, P. M. Lewis, F. Bernlochner, et. al. (Belle II)
 - In final collaboration-wide review. *Target journal: Physical Review Letters*
-- Contribution: Proposer and primary analyst
+- Contributions: Proposer and primary analyst.
 
 __Mu2e Run I Sensitivity Projections for the Neutrinoless $\mu^- \to e^-$ Conversion Search in Aluminum__
 - The Mu2e Collaboration
 - [[doi.org/10.3390/universe9010054]](https://doi.org/10.3390/universe9010054)
+- Contributions: Simulation and analysis framework, decay-in-orbit background, absolute momentum scale callibration.
 
 `2022`
 __The Mu2e Experiment --- Searching for Charged Lepton Flavor Violation__
@@ -112,33 +113,40 @@ __The Mu2e Experiment --- Searching for Charged Lepton Flavor Violation__
 
 __Report of the Instrumentation Frontier Working Group for Snowmass 2021__
 - Phillip S. Barbeau, Petra Merkel, Jinlong Zhang, Darin Acosta, Anthony A. Affolder, Artur Apresyan, Marina Artuso, Vallary Bhopatkar, Stephen Butalla, Gabriella A. Carini, Thomas Cecil, Amy Connolly, C. Eric Dahl, Allison Deiana, Katherine Dunne , Carlos O. Escobar, Juan Estrada, Farah Fahim, James E. Fast, Maurice Garcia-Sciveres, Roxanne Guenette, *Michael T. Hedges*, Kent Irwin, Albrecht Karle, Wes Ketchum, Scott Kravitz, W. Hugh Lippincott, Reina H. Maruyama, Jess McIver, F. Mitchell Newcomer, John Parsons, Matt Pyle, Jennifer L. Raaf, Chris Rogan, Mayly C. Sanchez, Ian Shipsey, Bernd Surrow, Maxim Titov, Sven E. Vahsen, Caterina Vernieri, Andrew P. White, Steven Worm, Minfang Yeh, Rachel Yohay, and Jacob Zettlemoyer
-- [[arxiv:2209.14111]](https://arxiv.org/abs/2209.14111) 
+- [[arxiv:2209.14111]](https://arxiv.org/abs/2209.14111)
+- Contributions: Edits and providing text on quantum-dot based detectors in Novel Tracking Sensors, Early-career liason
 
 __Solid State Detectors and Tracking for Snowmass__
 - A. Affolder, A. Apresyan, S. Worm, M. Albrow, D. Ally, D. Ambrose, E. Anderssen, N. Apadula, P. Asenov, W. Armstrong, M. Artuso, A. Barbier, P. Barletta, L. Bauerdick, D. Berry, M. Bomben, M. Boscardin, J. Brau, W. Brooks, M. Breidenbach, J. Buckley, V. Cairo, R. Caputo, L. Carpenter, M. Centis-Vignali, M. Cerullo, A. Collu, F. Chlebana, G.-F. Dalla-Betta, M. Demarteau, G. Deptuch, K. Di Petrillo, G. D'Amen, A. Dragone, N.T. Fourches, M. Garcia-Sciveres, G. Giacomini, C. Gingu, N. Graf, C. Grace, S. Griso, L. Greiner, C. Haber, G. Haller, K. Harris, T. Heim, U. Heinz, R. Heller, *M.T. Hedges*, R. Herbst, M.R. Hoeferkamp, T. Holmes, S.E. Holland, S.-C. Hsu, R. Islam, M. Jadhav, S. Jindariani, S. Joosten, A. Jung, S. Karmarkar, C. Kenney, C. Kierans, J. Kim, S. Kim, S. Klein, A. Koshy, K. Krizka, A. Lai, L. Lee, L. Linssen, R. Lipton, T. Liu, C. Madrid, T. Mahajan, T. Markiewicz, B. Markovic, S. Mazza, M. Mazziotta, Y. Mei, P. Merkel, J. Metcalfe, Z.-E. Meziani, A. Minns, F. Moscatelli, P. Murat, J. Muth, B. Nachman, S. Nahn, M. Narain, E.A. Narayanan, T. Nelson, J. Nielsen, S. Oktyabrsky, J. Ott, F.R. Palomo, D. Passeri, R. Patti, T. Peltola, C. Pena, C. Peng , C. Renard, P. Reimer, C. Rogan, L. Rota, H. Sadrozinski, J. Segal, A. Schwartzman, B. Schumm, M. Scott, S. Seidel, A. Seiden, B. Sekely, X. Shi, E. Sichtermann, N. Sinev, J. Sonneveld, L. Spiegel, A. Steinhebel, D. Strom, D.M.S. Sultan, A. Sumant, V. Tokranov, A. Tricoli, W. Trischuk, A. Tumasyan, L. Uplegger, C. Vernieri, H. Wang, P. Wagenknecht, H. Weber, S. Xie, M. Yakimov, Z. Ye, C. Young, and M. Zurek
 - [[arxiv:2209.03607]](https://arxiv.org/abs/2209.03607)
+- Contributions: Text for quantum-dot based detectors in Novel Tracking Sensors
 
 __Novel Sensors for Particle Tracking: a Contribution to the Snowmass Community Planning Exercise of 2021__
 - M.R. Hoeferkamp, S. Seidel, S. Kim, J. Metcalfe, A. Sumant, H. Kagan, W. Trischuk, M. Boscardin, G.-F. Dalla Betta, D.M.S. Sultan, N.T. Fourches, C. Renard, A. Barbier, T. Mahajan, A. Minns, V. Tokranov, M. Yakimov, S. Oktyabrsky, C. Gingu, P. Murat, and *M.T. Hedges*
 - [[arxiv:2202.11828]](https://arxiv.org/abs/2202.11828)
+- Contributions: Executive summary, primary author for chapter on quantum-dot based detectors.
 
 __Mu2e-II: Muon to electron conversion with PIP-II__
 - K. Byrum, S. Corrodi, Y. Oksuzian, P. Winter, L. Xia, A. W. J. Edmonds, J. P. Miller, J. Mott, W. J. Marciano, R. Szafron, R. Bonventre, D. N. Brown, Yu. G. Kolomensky, O. Ning, V. Singh, E. Prebys, L. Borrel, B. Echenard, D. G. Hitlin, C. Hu, D. X. Lin, S. Middleton, F. C. Porter, L. Zhang, R.-Y. Zhu, D. Ambrose, K. Badgley, R. H. Bernstein, S. Boi, B. C. K. Casey, R. Culbertson, A. Gaponenko, H. D. Glass, D. Glenzinski, L. Goodenough, A. Hocker, M. Kargiantoulakis, V. Kashikhin, B. Kiburg, R. K. Kutschke, P. A. Murat, D. Neuffer, V. S. Pronskikh, D. Pushka, G. Rakness, T. Strauss, M. Yucel, C. Bloise, E. Diociaiuti, S. Giovannella, F. Happacher, S. Miscetti, I. Sarra, M. Martini, A. Ferrari, S. E. Müller, R. Rachamin, E. Barlas-Yucel, A. Artikov, N. Atanov, Yu. I. Davydov, V. Glagolev, I. I. Vasilyev, D. N. Brown, Y. Uesaka, S. P. Denisov, V. Evdokimov, A. V. Kozelov, A. V. Popov, I. A. Vasilyev, G. Tassielli, T. Teubner, R. T. Chislett, G. G. Hesketh, M. Lancaster, M. Campbell, K. Ciampa, K. Heller, B. Messerly, M. A. C. Cummings, L. Calibbi, G. C. Blazey, M. J. Syphers, V. Zutshi, C. Kampa, M. MacKenzie, S. Di Falco, S. Donati, A. Gioiosa, V. Giusti, L. Morescalchi, D. Pasciuto, E. Pedreschi, F. Spinella, *M. T. Hedges*, M. Jones, Z. Y. You, A. M. Zanetti, E. V. Valetov, E. C. Dukes , R. Ehrlich, R. C. Group, J. Heeck, P. Q. Hung, S. M. Demers, G. Pezzullo, K. R. Lynch, and J. L. Popp
 - [[arxiv:2203.07569]](https://arxiv.org/abs/2203.07569)
+- Contributions: General review, paritcipation in senstivity estimate group.
 
 __A New Charged Lepton Flavor Violation Program at Fermilab__
 - M. Aoki, R. B. Appleby, M. Aslaninejad, R. Barlow, R.H. Bernstein, C. Bloise, L.Calibbi, F. Cervelli, R. Culbertson, Andre Luiz de Gouvea, S. Di Falco, E. Diociaiuti, S. Donati, R. Donghia, B. Echenard, A. Gaponenko, S. Giovannella, C. Group, F. Happacher, *M. T. Hedges*, D.G. Hitlin, E. Hungerford, C. Johnstone, D. M. Kaplan, M. Kargiantoulakis, D. J. Kelliher, K. Kirch, A. Knecht, Y. Kuno, A. Kurup, J.-B. Lagrange, M. Lancaster, K. Long, A. Luca, K. Lynch, S. Machida, M. Martini, S. Middleton, S. Mihara, J. Miller, S. Miscetti, L. Morescalchi, Y. Mori, P. Murat, B. Muratori, D. Neuffer, A. Papa, J. Pasternak, E. Pedreschi, G. Pezzullo, T. Planche, F. Porter, E. Prebys, C. R. Prior, V. Pronskikh, R. Ray, F. Renga, C. Rogers, I. Sarra, A. Sato, S. L. Smith, F. Spinella, D. Stratakis, M. Syphers, N.M. Truong, S. Tygier, Y. Uchida, and M. Yucel
 - [[arxiv:2203.08278]](https://arxiv.org/abs/2203.08278)
+- Contributions: Major contributing author for executive summary, introduction, muon-conversion experiments, and production target sections.
 
 __Application of recoil-imaging time projection chambers to directional neutron background measurements in the SuperKEKB accelerator tunnel__
 - J. Schueler, S.E. Vahsen, P.M. Lewis, *M.T. Hedges*, D. Liventsev, F. Meier, H. Nakayama, A. Natochii, and T.N. Thorpe
 - [[doi.org/10.1016/j.nima.2022.167291]](https://doi.org/10.1016/j.nima.2022.167291)
+- Contributions: Initial detector design and construction; consultation on analysis, detector operation, and design of gas delivery system.
 
 `2021`
 
 __First 3D vector tracking of helium recoils for fast neutron measurements at SuperKEKB__
 - *M. T. Hedges*, S.E. Vahsen, I. Jaegle, P. M. Lewis, H. Nakayama, T. N. Thorpe
 - [[doi.org/10.1016/j.nima.2021.166066]](https://doi.org/10.1016/j.nima.2021.166066)
+- Contributions: Journal submission of my thesis.
 
 __Parameters of fast and high-yield InAs/GaAs quantum dot semiconductor scintillator__
 - A. Minns, K. Dropiewski, M. Yakimov, V. Tokranov, *M. Hedges*, P. Murat, and S. Oktyabrksy
