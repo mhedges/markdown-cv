@@ -28,24 +28,28 @@ __Boston University__
 __Mu2e__
 - Affiliation: Purdue University (Postdoc)
 - Supervisor: John P. Finley
+- *Mu2e Production Target*
+    - Developing stand-alone, Geant4-based simulation compatibile with Mu2e Offline software framework for simulating and validating current and alternative designs for the tungsten Mu2e Production Target.
 - *Target Extinction Monitor*
-    - Maintain, run, and analyze Geant4 and G4beamline simulations of the Target Extinction Monitor pixel-telescope.
-    - Develop online slow-control interface and infrastructure for archiving enviornmental data via EPICS and CS-Studio/Phoebus.
+    - Maintain, run, and analyze Geant4 and G4beamline simulations of the Mu2e Target Extinction Monitor pixel-telescope.
+    - Developed online-monitoring, slow-control, and archiving infrastructure for enviornmental data via EPICS and CS-Studio/Phoebus.
+    - Successfully deployed this system at Target Extinction Monitor radiation test in 2022.
 - *Momentum calibration analysis using stopped-pion decays*
     - Build simulation and analysis infrastructure to investigate feasibility of proposed momentum calibration channel for the Mu2e experiment.
+    - Continuing work through supervision of a graduate student and serving on thesis committee.
  - *Collaboration Service*
      - `2020-`
      - Speakers' Committee member
      - `2022-`
-     - Analysis Review Committee member
+     - Analysis Review Committee member (ongoing analysis)
 
 `2011-`
 __Belle II__
 - `2021-`
 - Affiliation: University of Bonn (Visting Scientist)
 - Group leader: Florian Bernlochner
-- _Tests of light-lepton universality in angular observables in B0 -> D\*lnu decays_
-    - Lead analyst of world's first measurement of light-lepton universality in full suite of angular observables in exclusive B0->D\*lnu decays.
+- _Tests of light-lepton universality in angular observables in B -> D\*lnu decays_
+    - Lead analyst of world's first measurement of light-lepton universality in full suite of angular observables in exclusive B0->D\*lnu decays. Analysis currently under collaboration-wide review. *Target journal: Physical Review Letters*
 
 - `2011-2018`
 - Affiliation: University of Hawaii (PhD student)
@@ -57,7 +61,8 @@ __Belle II__
     - First directional analysis of beam-induced fast-neutrons using subsystem of novel TPC-based micro-pattern gas detectors.
     - Design and installation of gas distribution system for TPC subsystem.
 - _Collaboration Service_
-    - Review committe member
+    - `2023-`
+    - Review committe member (ongoing analysis)
 
 __Instrumentation__
 `2011-`
@@ -67,15 +72,14 @@ __Instrumentation__
 - TPC-based micro-pattern gas detectors with pixel readout for directional nuclear recoil detection.
 
 ## Mentorship
-`In-progress`
+`2023-`
 __Xiaobing Shi PhD thesis (Purdue)__
-- PhD committee member
+- PhD thesis committee member
 
 `2022`
-__Vermessung der
-Vorwärts-Rückwärts Asymmetrie in semileptonischen B -> D\*lnu Zerfällen mit Daten des Belle II-Experiments__
+__Vermessung der Vorwärts-Rückwärts Asymmetrie in semileptonischen B -> D\*lnu Zerfällen mit Daten des Belle II-Experiments__
 - Translation: *Measurement of the forward-backward asymmetry in semileptonic B -> D\*lnu decays with data from the Belle II experiment*
-- Maximillion Hoverath Bachelorarbeit in Physik (Bonn)
+- Maximillion Hoverath, Bachelorarbeit in Physik (Bonn)
 - Mentor
 
 ## Select Publications
@@ -84,6 +88,10 @@ Full INSPIRE-HEP list is available [<u>online</u>](https://inspirehep.net/author
 
 ### Papers
 `2023`
+__Tests of light-lepton universality in angular asymmetries of hadronically tagged B0 -> D\∗−{e+, μ+}ν decays at Belle II__
+- M. Eliachevitch, M. T. Hedges, P. M. Lewis, F. Bernlochner, et. al. (Belle II)
+- In final collaboration-wide review. *Target journal: Physical Review Letters*
+
 __Mu2e Run I Sensitivity Projections for the Neutrinoless $\mu^- \to e^-$ Conversion Search in Aluminum__
 - The Mu2e Collaboration
 - [[doi.org/10.3390/universe9010054]](https://doi.org/10.3390/universe9010054)
