@@ -37,7 +37,7 @@ __Mu2e__
 - *Momentum calibration analysis using stopped-pion decays*
     - Build simulation and analysis infrastructure to investigate feasibility of proposed momentum calibration channel for the Mu2e experiment.
     - Continuing work through supervision of a graduate student and serving on thesis committee.
- - *Collaboration Service*
+ - *Mu2e Collaboration Service*
      - `2020-`
      - Speakers' Committee member
      - `2022-`
@@ -55,12 +55,12 @@ __Belle II__
 - Affiliation: University of Hawaii (PhD student)
 - PhD advisor: Sven Vahsen
 - *Phase I commissioning of the SuperKEKB accelerator*
-    - Involved from start-to-finsih of design, construction, operation, and publication of results data collected by suite of commissioning detectors used for first-beam measurements of SuperKEKB.
-    - KEK onsite safety coordinator for construction and integration.
+    - Involved from start-to-finsih of design, construction, operation, and publication of results from data collected by suite of commissioning detectors used for first-beam measurements of SuperKEKB.
+    - KEK onsite safety coordinator for construction, integration, and decomissioning.
     - Shift coordinator.
     - First directional analysis of beam-induced fast-neutrons using subsystem of novel TPC-based micro-pattern gas detectors.
     - Design and installation of gas distribution system for TPC subsystem.
-- _Collaboration Service_
+- _Belle II Collaboration Service_
     - `2023-`
     - Review committe member (ongoing analysis)
 
