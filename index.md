@@ -72,7 +72,9 @@ __Xiaobing Shi PhD thesis (Purdue)__
 - PhD committee member
 
 `2022`
-__Maximillion Hoverath Bachelor's Thesis (Bonn)__
+__Vermessung der
+Vorwärts-Rückwärts Asymmetrie in semileptonischen B -> D\*lnu Zerfällen mit Daten des Belle II-Experiments__
+- Maximillion Hoverath Bachelorarbeit in Physik (Bonn)
 - Mentor
 
 ## Select Publications
