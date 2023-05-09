@@ -88,7 +88,7 @@ Full INSPIRE-HEP list is available [<u>online</u>](https://inspirehep.net/author
 
 ### Papers
 `2023`
-__Tests of light-lepton universality in angular asymmetries of hadronically tagged B0 -> D\∗−{e+, μ+}ν decays at Belle II__
+__Tests of light-lepton universality in angular asymmetries of hadronically tagged $B^0 -> D^{∗−}{e^+, \mu^+}\nu$ decays at Belle II__
 - M. Eliachevitch, M. T. Hedges, P. M. Lewis, F. Bernlochner, et. al. (Belle II)
 - In final collaboration-wide review. *Target journal: Physical Review Letters*
 
@@ -103,79 +103,79 @@ __The Mu2e Experiment --- Searching for Charged Lepton Flavor Violation__
 - Proceedings for the Vienna Conference on Instrumentation (VCI)
 
 __Report of the Instrumentation Frontier Working Group for Snowmass 2021__
-- Phillip S. Barbeau, Petra Merkel, Jinlong Zhang, Darin Acosta, Anthony A. Affolder, Artur Apresyan, Marina Artuso, Vallary Bhopatkar, Stephen Butalla, Gabriella A. Carini, Thomas Cecil, Amy Connolly, C. Eric Dahl, Allison Deiana, Katherine Dunne , Carlos O. Escobar, Juan Estrada, Farah Fahim, James E. Fast, Maurice Garcia-Sciveres, Roxanne Guenette, Michael T. Hedges, Kent Irwin, Albrecht Karle, Wes Ketchum, Scott Kravitz, W. Hugh Lippincott, Reina H. Maruyama, Jess McIver, F. Mitchell Newcomer, John Parsons, Matt Pyle, Jennifer L. Raaf, Chris Rogan, Mayly C. Sanchez, Ian Shipsey, Bernd Surrow, Maxim Titov, Sven E. Vahsen, Caterina Vernieri, Andrew P. White, Steven Worm, Minfang Yeh, Rachel Yohay, and Jacob Zettlemoyer
+- Phillip S. Barbeau, Petra Merkel, Jinlong Zhang, Darin Acosta, Anthony A. Affolder, Artur Apresyan, Marina Artuso, Vallary Bhopatkar, Stephen Butalla, Gabriella A. Carini, Thomas Cecil, Amy Connolly, C. Eric Dahl, Allison Deiana, Katherine Dunne , Carlos O. Escobar, Juan Estrada, Farah Fahim, James E. Fast, Maurice Garcia-Sciveres, Roxanne Guenette, *Michael T. Hedges*, Kent Irwin, Albrecht Karle, Wes Ketchum, Scott Kravitz, W. Hugh Lippincott, Reina H. Maruyama, Jess McIver, F. Mitchell Newcomer, John Parsons, Matt Pyle, Jennifer L. Raaf, Chris Rogan, Mayly C. Sanchez, Ian Shipsey, Bernd Surrow, Maxim Titov, Sven E. Vahsen, Caterina Vernieri, Andrew P. White, Steven Worm, Minfang Yeh, Rachel Yohay, and Jacob Zettlemoyer
 - [[arxiv:2209.14111]](https://arxiv.org/abs/2209.14111) 
 
 __Solid State Detectors and Tracking for Snowmass__
-- A. Affolder, A. Apresyan, S. Worm, M. Albrow, D. Ally, D. Ambrose, E. Anderssen, N. Apadula, P. Asenov, W. Armstrong, M. Artuso, A. Barbier, P. Barletta, L. Bauerdick, D. Berry, M. Bomben, M. Boscardin, J. Brau, W. Brooks, M. Breidenbach, J. Buckley, V. Cairo, R. Caputo, L. Carpenter, M. Centis-Vignali, M. Cerullo, A. Collu, F. Chlebana, G.-F. Dalla-Betta, M. Demarteau, G. Deptuch, K. Di Petrillo, G. D'Amen, A. Dragone, N.T. Fourches, M. Garcia-Sciveres, G. Giacomini, C. Gingu, N. Graf, C. Grace, S. Griso, L. Greiner, C. Haber, G. Haller, K. Harris, T. Heim, U. Heinz, R. Heller, M.T. Hedges, R. Herbst, M.R. Hoeferkamp, T. Holmes, S.E. Holland, S.-C. Hsu, R. Islam, M. Jadhav, S. Jindariani, S. Joosten, A. Jung, S. Karmarkar, C. Kenney, C. Kierans, J. Kim, S. Kim, S. Klein, A. Koshy, K. Krizka, A. Lai, L. Lee, L. Linssen, R. Lipton, T. Liu, C. Madrid, T. Mahajan, T. Markiewicz, B. Markovic, S. Mazza, M. Mazziotta, Y. Mei, P. Merkel, J. Metcalfe, Z.-E. Meziani, A. Minns, F. Moscatelli, P. Murat, J. Muth, B. Nachman, S. Nahn, M. Narain, E.A. Narayanan, T. Nelson, J. Nielsen, S. Oktyabrsky, J. Ott, F.R. Palomo, D. Passeri, R. Patti, T. Peltola, C. Pena, C. Peng , C. Renard, P. Reimer, C. Rogan, L. Rota, H. Sadrozinski, J. Segal, A. Schwartzman, B. Schumm, M. Scott, S. Seidel, A. Seiden, B. Sekely, X. Shi, E. Sichtermann, N. Sinev, J. Sonneveld, L. Spiegel, A. Steinhebel, D. Strom, D.M.S. Sultan, A. Sumant, V. Tokranov, A. Tricoli, W. Trischuk, A. Tumasyan, L. Uplegger, C. Vernieri, H. Wang, P. Wagenknecht, H. Weber, S. Xie, M. Yakimov, Z. Ye, C. Young, and M. Zurek
+- A. Affolder, A. Apresyan, S. Worm, M. Albrow, D. Ally, D. Ambrose, E. Anderssen, N. Apadula, P. Asenov, W. Armstrong, M. Artuso, A. Barbier, P. Barletta, L. Bauerdick, D. Berry, M. Bomben, M. Boscardin, J. Brau, W. Brooks, M. Breidenbach, J. Buckley, V. Cairo, R. Caputo, L. Carpenter, M. Centis-Vignali, M. Cerullo, A. Collu, F. Chlebana, G.-F. Dalla-Betta, M. Demarteau, G. Deptuch, K. Di Petrillo, G. D'Amen, A. Dragone, N.T. Fourches, M. Garcia-Sciveres, G. Giacomini, C. Gingu, N. Graf, C. Grace, S. Griso, L. Greiner, C. Haber, G. Haller, K. Harris, T. Heim, U. Heinz, R. Heller, *M.T. Hedges*, R. Herbst, M.R. Hoeferkamp, T. Holmes, S.E. Holland, S.-C. Hsu, R. Islam, M. Jadhav, S. Jindariani, S. Joosten, A. Jung, S. Karmarkar, C. Kenney, C. Kierans, J. Kim, S. Kim, S. Klein, A. Koshy, K. Krizka, A. Lai, L. Lee, L. Linssen, R. Lipton, T. Liu, C. Madrid, T. Mahajan, T. Markiewicz, B. Markovic, S. Mazza, M. Mazziotta, Y. Mei, P. Merkel, J. Metcalfe, Z.-E. Meziani, A. Minns, F. Moscatelli, P. Murat, J. Muth, B. Nachman, S. Nahn, M. Narain, E.A. Narayanan, T. Nelson, J. Nielsen, S. Oktyabrsky, J. Ott, F.R. Palomo, D. Passeri, R. Patti, T. Peltola, C. Pena, C. Peng , C. Renard, P. Reimer, C. Rogan, L. Rota, H. Sadrozinski, J. Segal, A. Schwartzman, B. Schumm, M. Scott, S. Seidel, A. Seiden, B. Sekely, X. Shi, E. Sichtermann, N. Sinev, J. Sonneveld, L. Spiegel, A. Steinhebel, D. Strom, D.M.S. Sultan, A. Sumant, V. Tokranov, A. Tricoli, W. Trischuk, A. Tumasyan, L. Uplegger, C. Vernieri, H. Wang, P. Wagenknecht, H. Weber, S. Xie, M. Yakimov, Z. Ye, C. Young, and M. Zurek
 - [[arxiv:2209.03607]](https://arxiv.org/abs/2209.03607)
 
 __Novel Sensors for Particle Tracking: a Contribution to the Snowmass Community Planning Exercise of 2021__
-- M.R. Hoeferkamp, S. Seidel, S. Kim, J. Metcalfe, A. Sumant, H. Kagan, W. Trischuk, M. Boscardin, G.-F. Dalla Betta, D.M.S. Sultan, N.T. Fourches, C. Renard, A. Barbier, T. Mahajan, A. Minns, V. Tokranov, M. Yakimov, S. Oktyabrsky, C. Gingu, P. Murat, and M.T. Hedges
+- M.R. Hoeferkamp, S. Seidel, S. Kim, J. Metcalfe, A. Sumant, H. Kagan, W. Trischuk, M. Boscardin, G.-F. Dalla Betta, D.M.S. Sultan, N.T. Fourches, C. Renard, A. Barbier, T. Mahajan, A. Minns, V. Tokranov, M. Yakimov, S. Oktyabrsky, C. Gingu, P. Murat, and *M.T. Hedges*
 - [[arxiv:2202.11828]](https://arxiv.org/abs/2202.11828)
 
 __Mu2e-II: Muon to electron conversion with PIP-II__
-- K. Byrum, S. Corrodi, Y. Oksuzian, P. Winter, L. Xia, A. W. J. Edmonds, J. P. Miller, J. Mott, W. J. Marciano, R. Szafron, R. Bonventre, D. N. Brown, Yu. G. Kolomensky, O. Ning, V. Singh, E. Prebys, L. Borrel, B. Echenard, D. G. Hitlin, C. Hu, D. X. Lin, S. Middleton, F. C. Porter, L. Zhang, R.-Y. Zhu, D. Ambrose, K. Badgley, R. H. Bernstein, S. Boi, B. C. K. Casey, R. Culbertson, A. Gaponenko, H. D. Glass, D. Glenzinski, L. Goodenough, A. Hocker, M. Kargiantoulakis, V. Kashikhin, B. Kiburg, R. K. Kutschke, P. A. Murat, D. Neuffer, V. S. Pronskikh, D. Pushka, G. Rakness, T. Strauss, M. Yucel, C. Bloise, E. Diociaiuti, S. Giovannella, F. Happacher, S. Miscetti, I. Sarra, M. Martini, A. Ferrari, S. E. Müller, R. Rachamin, E. Barlas-Yucel, A. Artikov, N. Atanov, Yu. I. Davydov, V. Glagolev, I. I. Vasilyev, D. N. Brown, Y. Uesaka, S. P. Denisov, V. Evdokimov, A. V. Kozelov, A. V. Popov, I. A. Vasilyev, G. Tassielli, T. Teubner, R. T. Chislett, G. G. Hesketh, M. Lancaster, M. Campbell, K. Ciampa, K. Heller, B. Messerly, M. A. C. Cummings, L. Calibbi, G. C. Blazey, M. J. Syphers, V. Zutshi, C. Kampa, M. MacKenzie, S. Di Falco, S. Donati, A. Gioiosa, V. Giusti, L. Morescalchi, D. Pasciuto, E. Pedreschi, F. Spinella, M. T. Hedges, M. Jones, Z. Y. You, A. M. Zanetti, E. V. Valetov, E. C. Dukes , R. Ehrlich, R. C. Group, J. Heeck, P. Q. Hung, S. M. Demers, G. Pezzullo, K. R. Lynch, and J. L. Popp
+- K. Byrum, S. Corrodi, Y. Oksuzian, P. Winter, L. Xia, A. W. J. Edmonds, J. P. Miller, J. Mott, W. J. Marciano, R. Szafron, R. Bonventre, D. N. Brown, Yu. G. Kolomensky, O. Ning, V. Singh, E. Prebys, L. Borrel, B. Echenard, D. G. Hitlin, C. Hu, D. X. Lin, S. Middleton, F. C. Porter, L. Zhang, R.-Y. Zhu, D. Ambrose, K. Badgley, R. H. Bernstein, S. Boi, B. C. K. Casey, R. Culbertson, A. Gaponenko, H. D. Glass, D. Glenzinski, L. Goodenough, A. Hocker, M. Kargiantoulakis, V. Kashikhin, B. Kiburg, R. K. Kutschke, P. A. Murat, D. Neuffer, V. S. Pronskikh, D. Pushka, G. Rakness, T. Strauss, M. Yucel, C. Bloise, E. Diociaiuti, S. Giovannella, F. Happacher, S. Miscetti, I. Sarra, M. Martini, A. Ferrari, S. E. Müller, R. Rachamin, E. Barlas-Yucel, A. Artikov, N. Atanov, Yu. I. Davydov, V. Glagolev, I. I. Vasilyev, D. N. Brown, Y. Uesaka, S. P. Denisov, V. Evdokimov, A. V. Kozelov, A. V. Popov, I. A. Vasilyev, G. Tassielli, T. Teubner, R. T. Chislett, G. G. Hesketh, M. Lancaster, M. Campbell, K. Ciampa, K. Heller, B. Messerly, M. A. C. Cummings, L. Calibbi, G. C. Blazey, M. J. Syphers, V. Zutshi, C. Kampa, M. MacKenzie, S. Di Falco, S. Donati, A. Gioiosa, V. Giusti, L. Morescalchi, D. Pasciuto, E. Pedreschi, F. Spinella, *M. T. Hedges*, M. Jones, Z. Y. You, A. M. Zanetti, E. V. Valetov, E. C. Dukes , R. Ehrlich, R. C. Group, J. Heeck, P. Q. Hung, S. M. Demers, G. Pezzullo, K. R. Lynch, and J. L. Popp
 - [[arxiv:2203.07569]](https://arxiv.org/abs/2203.07569)
 
 __A New Charged Lepton Flavor Violation Program at Fermilab__
-- M. Aoki, R. B. Appleby, M. Aslaninejad, R. Barlow, R.H. Bernstein, C. Bloise, L.Calibbi, F. Cervelli, R. Culbertson, Andre Luiz de Gouvea, S. Di Falco, E. Diociaiuti, S. Donati, R. Donghia, B. Echenard, A. Gaponenko, S. Giovannella, C. Group, F. Happacher, M. T. Hedges, D.G. Hitlin, E. Hungerford, C. Johnstone, D. M. Kaplan, M. Kargiantoulakis, D. J. Kelliher, K. Kirch, A. Knecht, Y. Kuno, A. Kurup, J.-B. Lagrange, M. Lancaster, K. Long, A. Luca, K. Lynch, S. Machida, M. Martini, S. Middleton, S. Mihara, J. Miller, S. Miscetti, L. Morescalchi, Y. Mori, P. Murat, B. Muratori, D. Neuffer, A. Papa, J. Pasternak, E. Pedreschi, G. Pezzullo, T. Planche, F. Porter, E. Prebys, C. R. Prior, V. Pronskikh, R. Ray, F. Renga, C. Rogers, I. Sarra, A. Sato, S. L. Smith, F. Spinella, D. Stratakis, M. Syphers, N.M. Truong, S. Tygier, Y. Uchida, and M. Yucel
+- M. Aoki, R. B. Appleby, M. Aslaninejad, R. Barlow, R.H. Bernstein, C. Bloise, L.Calibbi, F. Cervelli, R. Culbertson, Andre Luiz de Gouvea, S. Di Falco, E. Diociaiuti, S. Donati, R. Donghia, B. Echenard, A. Gaponenko, S. Giovannella, C. Group, F. Happacher, *M. T. Hedges*, D.G. Hitlin, E. Hungerford, C. Johnstone, D. M. Kaplan, M. Kargiantoulakis, D. J. Kelliher, K. Kirch, A. Knecht, Y. Kuno, A. Kurup, J.-B. Lagrange, M. Lancaster, K. Long, A. Luca, K. Lynch, S. Machida, M. Martini, S. Middleton, S. Mihara, J. Miller, S. Miscetti, L. Morescalchi, Y. Mori, P. Murat, B. Muratori, D. Neuffer, A. Papa, J. Pasternak, E. Pedreschi, G. Pezzullo, T. Planche, F. Porter, E. Prebys, C. R. Prior, V. Pronskikh, R. Ray, F. Renga, C. Rogers, I. Sarra, A. Sato, S. L. Smith, F. Spinella, D. Stratakis, M. Syphers, N.M. Truong, S. Tygier, Y. Uchida, and M. Yucel
 - [[arxiv:2203.08278]](https://arxiv.org/abs/2203.08278)
 
 __Application of recoil-imaging time projection chambers to directional neutron background measurements in the SuperKEKB accelerator tunnel__
-- J. Schueler, S.E. Vahsen, P.M. Lewis, M.T. Hedges, D. Liventsev, F. Meier, H. Nakayama, A. Natochii, and T.N. Thorpe
+- J. Schueler, S.E. Vahsen, P.M. Lewis, *M.T. Hedges*, D. Liventsev, F. Meier, H. Nakayama, A. Natochii, and T.N. Thorpe
 - [[doi.org/10.1016/j.nima.2022.167291]](https://doi.org/10.1016/j.nima.2022.167291)
 
 `2021`
 
 __First 3D vector tracking of helium recoils for fast neutron measurements at SuperKEKB__
-- M. T. Hedges, S.E. Vahsen, I. Jaegle, P. M. Lewis, H. Nakayama, T. N. Thorpe
+- *M. T. Hedges*, S.E. Vahsen, I. Jaegle, P. M. Lewis, H. Nakayama, T. N. Thorpe
 - [[doi.org/10.1016/j.nima.2021.166066]](https://doi.org/10.1016/j.nima.2021.166066)
 
 __Parameters of fast and high-yield InAs/GaAs quantum dot semiconductor scintillator__
-- A. Minns, K. Dropiewski, M. Yakimov, V. Tokranov, M. Hedges, P. Murat, and S. Oktyabrksy
+- A. Minns, K. Dropiewski, M. Yakimov, V. Tokranov, *M. Hedges*, P. Murat, and S. Oktyabrksy
 - [[10.1557/s43580-021-00019-y</u>]](https://doi.org/10.1557/s43580-021-00019-y)
 
 __Primary track recovery in high-definition gas time projection chambers__
-- P. M. Lewis, M. T. Hedges, I. Jaegle, J. Schueler, T. N. Thorpe, S. E. Vahsen
+- P. M. Lewis, *M. T. Hedges*, I. Jaegle, J. Schueler, T. N. Thorpe, S. E. Vahsen
 - [[doi.org/10.1140/epjc/s10052-022-10283-3]](https://doi.org/10.1140/epjc/s10052-022-10283-3)
 
 `2020`
 __A time resolved study of injection backgrounds during the first commissioning phase of SuperKEKB__
-- M. Gabriel, F. Simon, H. Windel, et. al.
+- Miroslav Gabriel, Frank Simon, Hendrik Windel, Yoshihiro Funakoshi, *Michael Hedges*, Naoko Iida, Igal Jaegle, Christian Kiesling, Naomi van der Kolk, Peter Lewis, Hiroyuki Nakayama, Yukiyoshi Ohnishi, Riccardo de Sangro, Yusuke Suetsugu, Marco Szalay, Sven Vahsen,
 - [[doi.org/10.1140/epjc/s10052-021-09769-3]](https://doi.org/10.1140/epjc/s10052-021-09769-3)
 
 `2019`
 __Compact, directional neutron detectors capable of high-resolution nuclear recoil imaging__ 
-- I. Jaegle, P. M. Lewis, M. Garcia-Sciveres, M. T. Hedges, T. Hemperek, J. Janssen, Q. Li, D.-L. Pohl, S. Ross, J.
+- I. Jaegle, P. M. Lewis, M. Garcia-Sciveres, *M. T. Hedges*, T. Hemperek, J. Janssen, Q. Li, D.-L. Pohl, S. Ross, J.
   Schueler, I. Seong, T. N. Thorpe, S. E. Vahsen
 - [[doi.org/10.1016/j.nima.2019.06.037]](https://doi.org/10.1016/j.nima.2019.06.037)
 
 `2018`
 __First Measurements of Beam Backgrounds at SuperKEKB__
-- P.M. Lewis, I. Jaegle, H. Nakayama, A. Aloisio, F. Ameli, M. Barrett, A. Beaulieu, L. Bosisio, P. Branchini, T.E. Browder, A. Budano, G. Cautero, C. Cecchi, Y.-T. Chen, K.-N. Chu, D. Cinabro, P. Cristaudo, S. de Jong, R. de Sangro, G. Finocchiaro, J. Flanagan, Y. Funakoshi, M. Gabriel, R. Giordano, D. Giuressi, M.T. Hedges, N. Honkanen, H. Ikeda, T. Ishibashi, H. Kaji, K. Kanazawa, C. Kiesling, S. Koirala, P. Križan, C. La Licata, L. Lanceri, J.-J. Liau, F.-H. Lin, J.-C. Lin, Z. Liptak, S. Longo, E. Manoni, C. Marinas, K. Miyabayashi, E. Mulyani, A. Morita, M. Nakao, M. Nayak, Y. Ohnishi, A. Passeri, P. Poffenberger, M. Ritzert, J.M. Roney, A. Rossi, T. Röder, R.M. Seddon, I.S. Seong, J.-G. Shiu, F. Simon, Y. Soloviev, Y. Suetsugu, M. Szalay, S. Terui, G. Tortone, S.E. Vahsen, N. van der Kolk, L. Vitale, M.-Z. Wang, H. Windel, S. Yokoyama
+- P.M. Lewis, I. Jaegle, H. Nakayama, A. Aloisio, F. Ameli, M. Barrett, A. Beaulieu, L. Bosisio, P. Branchini, T.E. Browder, A. Budano, G. Cautero, C. Cecchi, Y.-T. Chen, K.-N. Chu, D. Cinabro, P. Cristaudo, S. de Jong, R. de Sangro, G. Finocchiaro, J. Flanagan, Y. Funakoshi, M. Gabriel, R. Giordano, D. Giuressi, *M.T. Hedges*, N. Honkanen, H. Ikeda, T. Ishibashi, H. Kaji, K. Kanazawa, C. Kiesling, S. Koirala, P. Križan, C. La Licata, L. Lanceri, J.-J. Liau, F.-H. Lin, J.-C. Lin, Z. Liptak, S. Longo, E. Manoni, C. Marinas, K. Miyabayashi, E. Mulyani, A. Morita, M. Nakao, M. Nayak, Y. Ohnishi, A. Passeri, P. Poffenberger, M. Ritzert, J.M. Roney, A. Rossi, T. Röder, R.M. Seddon, I.S. Seong, J.-G. Shiu, F. Simon, Y. Soloviev, Y. Suetsugu, M. Szalay, S. Terui, G. Tortone, S.E. Vahsen, N. van der Kolk, L. Vitale, M.-Z. Wang, H. Windel, S. Yokoyama
 - [[doi.org10.1016/j.nima.2018.05.071]](https://doi.org/10.1016/j.nima.2018.05.071)
 
 `2016`
 __Readout technologies for directional WIMP Dark Matter detection__
-- J.B.R. Battat, I.G. Irastorza, A. Aleksandrov, T. Asada, E. Baracchini, J. Billard, G. Bosson, O. Bourrion, J. Bouvier, A. Buonaura, K. Burdge, S. Cebrián, P. Colas, L. Consiglio, T. Dafni, N. D’Ambrosio, C. Deaconu, G. De Lellis, T. Descombes, A. Di Crescenzo, N. Di Marco, G. Druitt, R. Eggleston, E. Ferrer-Ribas, T. Fusayasu, J. Galán, G. Galati, J.A. García, J.G. Garza, V. Gentile, M. Garcia-Sciveres, Y. Giomataris, N. Guerrero, O. Guillaudin, A.M. Guler, J. Harton, T. Hashimoto, M.T. Hedges, F.J. Iguaz, T. Ikeda, I. Jaegle, J.A. Kadyk, T. Katsuragawa, S. Komura, H. Kubo, K. Kuge, J. Lamblin, A. Lauria, E.R. Lee, P. Lewis, M. Leyton, D. Loomba, J.P. Lopez, G. Luzón, F. Mayet, H. Mirallas, K. Miuchi, T. Mizumoto, Y. Mizumura, P. Monacelli, J. Monroe, M.C. Montesi, T. Naka, K. Nakamura, H. Nishimura, A. Ochi, T. Papevangelou, J.D. Parker, N.S. Phan, F. Pupilli, J.P. Richer, Q. Riffard, G. Rosa, D. Santos, T. Sawano, H. Sekiya, I.S. Seong, D.P. Snowden-Ifft, N.J.C. Spooner, A. Sugiyama, R. Taishaku, A. Takada, A. Takeda, M. Tanaka, T. Tanimori, T.N. Thorpe, V. Tioukov, H. Tomita, A. Umemoto, S.E. Vahsen, Y. Yamaguchi, M. Yoshimoto, E. Zayas
+- J.B.R. Battat, I.G. Irastorza, A. Aleksandrov, T. Asada, E. Baracchini, J. Billard, G. Bosson, O. Bourrion, J. Bouvier, A. Buonaura, K. Burdge, S. Cebrián, P. Colas, L. Consiglio, T. Dafni, N. D’Ambrosio, C. Deaconu, G. De Lellis, T. Descombes, A. Di Crescenzo, N. Di Marco, G. Druitt, R. Eggleston, E. Ferrer-Ribas, T. Fusayasu, J. Galán, G. Galati, J.A. García, J.G. Garza, V. Gentile, M. Garcia-Sciveres, Y. Giomataris, N. Guerrero, O. Guillaudin, A.M. Guler, J. Harton, T. Hashimoto, *M.T. Hedges*, F.J. Iguaz, T. Ikeda, I. Jaegle, J.A. Kadyk, T. Katsuragawa, S. Komura, H. Kubo, K. Kuge, J. Lamblin, A. Lauria, E.R. Lee, P. Lewis, M. Leyton, D. Loomba, J.P. Lopez, G. Luzón, F. Mayet, H. Mirallas, K. Miuchi, T. Mizumoto, Y. Mizumura, P. Monacelli, J. Monroe, M.C. Montesi, T. Naka, K. Nakamura, H. Nishimura, A. Ochi, T. Papevangelou, J.D. Parker, N.S. Phan, F. Pupilli, J.P. Richer, Q. Riffard, G. Rosa, D. Santos, T. Sawano, H. Sekiya, I.S. Seong, D.P. Snowden-Ifft, N.J.C. Spooner, A. Sugiyama, R. Taishaku, A. Takada, A. Takeda, M. Tanaka, T. Tanimori, T.N. Thorpe, V. Tioukov, H. Tomita, A. Umemoto, S.E. Vahsen, Y. Yamaguchi, M. Yoshimoto, E. Zayas
 - [[10.1016/j.physrep.2016.10.001]](https://doi.org/10.1016/j.physrep.2016.10.001)
 
 `2015`
 __Absolute position measurement in a gas time projection chamber via transverse
 diffusion of drift charge__
-- P. M. Lewis, S.E. Vahsen, I. S. Seong, M. T. Hedges, I. Jaegle, T. N. Thorpe
+- P. M. Lewis, S.E. Vahsen, I. S. Seong, *M. T. Hedges*, I. Jaegle, T. N. Thorpe
 - [[10.1016/j.nima.2015.03.024]](https://doi.org/10.1016/j.nima.2015.03.024)
 
 `2014`
 __3-D Tracking of Nuclear Recoils in a Miniature Time Projection Chamber__
-- S.E. Vahsen, M.T. Hedges, I. Jaegle, S.J. Ross, I.S. Seong, T.N. Thorpe, J.
+- S.E. Vahsen, *M.T. Hedges*, I. Jaegle, S.J. Ross, I.S. Seong, T.N. Thorpe, J.
 Yamaoka, J.A. Kadyk, M. Garcia-Sciveres
 - [[10.1016/j.nima.2015.03.009]](https://doi.org/10.1016/j.nima.2015.03.009)
 
 `2013`
 __Charge-Focusing Readout of Time Projection Chambers__
-- S. J. Ross, M. T. Hedges, I. Jaegle, M. D. Rosen, I. S. Seong, T. N. Thorpe,
+- S. J. Ross, *M. T. Hedges*, I. Jaegle, M. D. Rosen, I. S. Seong, T. N. Thorpe,
   S. E. Vahsen, J. Yamaoka
 - [[10.1109/NSSMIC.2012.6551412]](https://doi.org/10.1109/NSSMIC.2012.6551412)
 
