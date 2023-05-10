@@ -95,7 +95,7 @@ Full INSPIRE-HEP list is available [<u>online</u>](https://inspirehep.net/author
 
 ### Papers
 `2023`
-__Tests of light-lepton universality in angular asymmetries of hadronically tagged $B^0 -> D^{∗−}{e^+, \mu^+}\nu$ decays at Belle II__
+__Tests of light-lepton universality in angular asymmetries of hadronically tagged $B^0 \to D^{*-}\{e^+, \mu^+\}\nu}$ decays at Belle II__
 - M. Eliachevitch, M. T. Hedges, P. M. Lewis, F. Bernlochner, et. al. (Belle II)
 - In final collaboration-wide review. *Target journal: Physical Review Letters*
 - Contributions: Proposer and primary analyst.
