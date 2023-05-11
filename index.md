@@ -177,11 +177,6 @@ __First Measurements of Beam Backgrounds at SuperKEKB__
 - [[doi.org10.1016/j.nima.2018.05.071]](https://doi.org/10.1016/j.nima.2018.05.071)
 - Contributions: principal analyst for fast-neutron backgrounds; primary onsite lead for construction and safety, experimental integration, operation, data collection, and shift coordination.
 
-`2016`
-__Readout technologies for directional WIMP Dark Matter detection__
-- J.B.R. Battat, I.G. Irastorza, A. Aleksandrov, T. Asada, E. Baracchini, J. Billard, G. Bosson, O. Bourrion, J. Bouvier, A. Buonaura, K. Burdge, S. Cebrián, P. Colas, L. Consiglio, T. Dafni, N. D’Ambrosio, C. Deaconu, G. De Lellis, T. Descombes, A. Di Crescenzo, N. Di Marco, G. Druitt, R. Eggleston, E. Ferrer-Ribas, T. Fusayasu, J. Galán, G. Galati, J.A. García, J.G. Garza, V. Gentile, M. Garcia-Sciveres, Y. Giomataris, N. Guerrero, O. Guillaudin, A.M. Guler, J. Harton, T. Hashimoto, *M.T. Hedges*, F.J. Iguaz, T. Ikeda, I. Jaegle, J.A. Kadyk, T. Katsuragawa, S. Komura, H. Kubo, K. Kuge, J. Lamblin, A. Lauria, E.R. Lee, P. Lewis, M. Leyton, D. Loomba, J.P. Lopez, G. Luzón, F. Mayet, H. Mirallas, K. Miuchi, T. Mizumoto, Y. Mizumura, P. Monacelli, J. Monroe, M.C. Montesi, T. Naka, K. Nakamura, H. Nishimura, A. Ochi, T. Papevangelou, J.D. Parker, N.S. Phan, F. Pupilli, J.P. Richer, Q. Riffard, G. Rosa, D. Santos, T. Sawano, H. Sekiya, I.S. Seong, D.P. Snowden-Ifft, N.J.C. Spooner, A. Sugiyama, R. Taishaku, A. Takada, A. Takeda, M. Tanaka, T. Tanimori, T.N. Thorpe, V. Tioukov, H. Tomita, A. Umemoto, S.E. Vahsen, Y. Yamaguchi, M. Yoshimoto, E. Zayas
-- [[10.1016/j.physrep.2016.10.001]](https://doi.org/10.1016/j.physrep.2016.10.001)
-
 `2015`
 __Absolute position measurement in a gas time projection chamber via transverse
 diffusion of drift charge__
@@ -293,6 +288,11 @@ __Design and Performance Evaluation of InAs Quantum Dot Scintillation Detector P
 Photodiode__
 - T. Mahajan, A. Minns, V. Tokranov, P. Murat, M. T. Hedges, and S. Oktyabrksy
 - IEEE Sorma Proceedings
+
+`2016`
+__Readout technologies for directional WIMP Dark Matter detection__
+- J.B.R. Battat, I.G. Irastorza, A. Aleksandrov, T. Asada, E. Baracchini, J. Billard, G. Bosson, O. Bourrion, J. Bouvier, A. Buonaura, K. Burdge, S. Cebrián, P. Colas, L. Consiglio, T. Dafni, N. D’Ambrosio, C. Deaconu, G. De Lellis, T. Descombes, A. Di Crescenzo, N. Di Marco, G. Druitt, R. Eggleston, E. Ferrer-Ribas, T. Fusayasu, J. Galán, G. Galati, J.A. García, J.G. Garza, V. Gentile, M. Garcia-Sciveres, Y. Giomataris, N. Guerrero, O. Guillaudin, A.M. Guler, J. Harton, T. Hashimoto, *M.T. Hedges*, F.J. Iguaz, T. Ikeda, I. Jaegle, J.A. Kadyk, T. Katsuragawa, S. Komura, H. Kubo, K. Kuge, J. Lamblin, A. Lauria, E.R. Lee, P. Lewis, M. Leyton, D. Loomba, J.P. Lopez, G. Luzón, F. Mayet, H. Mirallas, K. Miuchi, T. Mizumoto, Y. Mizumura, P. Monacelli, J. Monroe, M.C. Montesi, T. Naka, K. Nakamura, H. Nishimura, A. Ochi, T. Papevangelou, J.D. Parker, N.S. Phan, F. Pupilli, J.P. Richer, Q. Riffard, G. Rosa, D. Santos, T. Sawano, H. Sekiya, I.S. Seong, D.P. Snowden-Ifft, N.J.C. Spooner, A. Sugiyama, R. Taishaku, A. Takada, A. Takeda, M. Tanaka, T. Tanimori, T.N. Thorpe, V. Tioukov, H. Tomita, A. Umemoto, S.E. Vahsen, Y. Yamaguchi, M. Yoshimoto, E. Zayas
+- [[10.1016/j.physrep.2016.10.001]](https://doi.org/10.1016/j.physrep.2016.10.001)
 
 `2013`
 __Charge-Focusing Readout of Time Projection Chambers__
