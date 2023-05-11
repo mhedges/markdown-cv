@@ -98,7 +98,7 @@ Full INSPIRE-HEP list is available [<u>online</u>](https://inspirehep.net/author
 __Tests of light-lepton universality in angular asymmetries of hadronically tagged $B^0 \to D^{*-}\{e^+, \mu^+\}\nu}$ decays at Belle II__
 - M. Eliachevitch, M. T. Hedges, P. M. Lewis, F. Bernlochner, et. al. (Belle II)
 - In final collaboration-wide review. *Target journal: Physical Review Letters*
-- Contributions: Proposer and primary analyst.
+- Contributions: Proposer and analyst.
 
 __Mu2e Run I Sensitivity Projections for the Neutrinoless $\mu^- \to e^-$ Conversion Search in Aluminum__
 - The Mu2e Collaboration
@@ -114,12 +114,12 @@ __The Mu2e Experiment --- Searching for Charged Lepton Flavor Violation__
 __Report of the Instrumentation Frontier Working Group for Snowmass 2021__
 - Phillip S. Barbeau, Petra Merkel, Jinlong Zhang, Darin Acosta, Anthony A. Affolder, Artur Apresyan, Marina Artuso, Vallary Bhopatkar, Stephen Butalla, Gabriella A. Carini, Thomas Cecil, Amy Connolly, C. Eric Dahl, Allison Deiana, Katherine Dunne , Carlos O. Escobar, Juan Estrada, Farah Fahim, James E. Fast, Maurice Garcia-Sciveres, Roxanne Guenette, *Michael T. Hedges*, Kent Irwin, Albrecht Karle, Wes Ketchum, Scott Kravitz, W. Hugh Lippincott, Reina H. Maruyama, Jess McIver, F. Mitchell Newcomer, John Parsons, Matt Pyle, Jennifer L. Raaf, Chris Rogan, Mayly C. Sanchez, Ian Shipsey, Bernd Surrow, Maxim Titov, Sven E. Vahsen, Caterina Vernieri, Andrew P. White, Steven Worm, Minfang Yeh, Rachel Yohay, and Jacob Zettlemoyer
 - [[arxiv:2209.14111]](https://arxiv.org/abs/2209.14111)
-- Contributions: Edits and providing text on quantum-dot based detectors in Novel Tracking Sensors, Early-career liason
+- Contributions: Edits and providing text on quantum-dot based detectors in Novel Tracking Sensors, early-career liason.
 
 __Solid State Detectors and Tracking for Snowmass__
 - A. Affolder, A. Apresyan, S. Worm, M. Albrow, D. Ally, D. Ambrose, E. Anderssen, N. Apadula, P. Asenov, W. Armstrong, M. Artuso, A. Barbier, P. Barletta, L. Bauerdick, D. Berry, M. Bomben, M. Boscardin, J. Brau, W. Brooks, M. Breidenbach, J. Buckley, V. Cairo, R. Caputo, L. Carpenter, M. Centis-Vignali, M. Cerullo, A. Collu, F. Chlebana, G.-F. Dalla-Betta, M. Demarteau, G. Deptuch, K. Di Petrillo, G. D'Amen, A. Dragone, N.T. Fourches, M. Garcia-Sciveres, G. Giacomini, C. Gingu, N. Graf, C. Grace, S. Griso, L. Greiner, C. Haber, G. Haller, K. Harris, T. Heim, U. Heinz, R. Heller, *M.T. Hedges*, R. Herbst, M.R. Hoeferkamp, T. Holmes, S.E. Holland, S.-C. Hsu, R. Islam, M. Jadhav, S. Jindariani, S. Joosten, A. Jung, S. Karmarkar, C. Kenney, C. Kierans, J. Kim, S. Kim, S. Klein, A. Koshy, K. Krizka, A. Lai, L. Lee, L. Linssen, R. Lipton, T. Liu, C. Madrid, T. Mahajan, T. Markiewicz, B. Markovic, S. Mazza, M. Mazziotta, Y. Mei, P. Merkel, J. Metcalfe, Z.-E. Meziani, A. Minns, F. Moscatelli, P. Murat, J. Muth, B. Nachman, S. Nahn, M. Narain, E.A. Narayanan, T. Nelson, J. Nielsen, S. Oktyabrsky, J. Ott, F.R. Palomo, D. Passeri, R. Patti, T. Peltola, C. Pena, C. Peng , C. Renard, P. Reimer, C. Rogan, L. Rota, H. Sadrozinski, J. Segal, A. Schwartzman, B. Schumm, M. Scott, S. Seidel, A. Seiden, B. Sekely, X. Shi, E. Sichtermann, N. Sinev, J. Sonneveld, L. Spiegel, A. Steinhebel, D. Strom, D.M.S. Sultan, A. Sumant, V. Tokranov, A. Tricoli, W. Trischuk, A. Tumasyan, L. Uplegger, C. Vernieri, H. Wang, P. Wagenknecht, H. Weber, S. Xie, M. Yakimov, Z. Ye, C. Young, and M. Zurek
 - [[arxiv:2209.03607]](https://arxiv.org/abs/2209.03607)
-- Contributions: Text for quantum-dot based detectors in Novel Tracking Sensors
+- Contributions: Text for quantum-dot based detectors in Novel Tracking Sensors.
 
 __Novel Sensors for Particle Tracking: a Contribution to the Snowmass Community Planning Exercise of 2021__
 - M.R. Hoeferkamp, S. Seidel, S. Kim, J. Metcalfe, A. Sumant, H. Kagan, W. Trischuk, M. Boscardin, G.-F. Dalla Betta, D.M.S. Sultan, N.T. Fourches, C. Renard, A. Barbier, T. Mahajan, A. Minns, V. Tokranov, M. Yakimov, S. Oktyabrsky, C. Gingu, P. Murat, and *M.T. Hedges*
@@ -139,38 +139,43 @@ __A New Charged Lepton Flavor Violation Program at Fermilab__
 __Application of recoil-imaging time projection chambers to directional neutron background measurements in the SuperKEKB accelerator tunnel__
 - J. Schueler, S.E. Vahsen, P.M. Lewis, *M.T. Hedges*, D. Liventsev, F. Meier, H. Nakayama, A. Natochii, and T.N. Thorpe
 - [[doi.org/10.1016/j.nima.2022.167291]](https://doi.org/10.1016/j.nima.2022.167291)
-- Contributions: Initial detector design and construction; consultation on analysis, detector operation, and design of gas delivery system.
+- Contributions: Initial detector design, construction, and operation; consultation on analysis, detector operation, and design of gas delivery system.
 
 `2021`
 
 __First 3D vector tracking of helium recoils for fast neutron measurements at SuperKEKB__
 - *M. T. Hedges*, S.E. Vahsen, I. Jaegle, P. M. Lewis, H. Nakayama, T. N. Thorpe
 - [[doi.org/10.1016/j.nima.2021.166066]](https://doi.org/10.1016/j.nima.2021.166066)
-- Contributions: Journal submission of my thesis.
+- Contributions: Journal submission of my thesis (corresponding author).
 
 __Parameters of fast and high-yield InAs/GaAs quantum dot semiconductor scintillator__
 - A. Minns, K. Dropiewski, M. Yakimov, V. Tokranov, *M. Hedges*, P. Murat, and S. Oktyabrksy
 - [[10.1557/s43580-021-00019-y</u>]](https://doi.org/10.1557/s43580-021-00019-y)
+- Contributions: Consultation on experimental design and contextualizing performance of novel detector system within broader HEP applications.
 
 __Primary track recovery in high-definition gas time projection chambers__
 - P. M. Lewis, *M. T. Hedges*, I. Jaegle, J. Schueler, T. N. Thorpe, S. E. Vahsen
 - [[doi.org/10.1140/epjc/s10052-022-10283-3]](https://doi.org/10.1140/epjc/s10052-022-10283-3)
+- Contributions: Production and validation of first-of-its-kind large-scale dataset of simulated nuclear recoils in a TPC-based micro-pattern gas detector; high-performance computing implementation of production and processing of simulated and experimental data; design, construction, and operation of detector system; consultation on analysis.
 
 `2020`
 __A time resolved study of injection backgrounds during the first commissioning phase of SuperKEKB__
 - Miroslav Gabriel, Frank Simon, Hendrik Windel, Yoshihiro Funakoshi, *Michael Hedges*, Naoko Iida, Igal Jaegle, Christian Kiesling, Naomi van der Kolk, Peter Lewis, Hiroyuki Nakayama, Yukiyoshi Ohnishi, Riccardo de Sangro, Yusuke Suetsugu, Marco Szalay, Sven Vahsen,
 - [[doi.org/10.1140/epjc/s10052-021-09769-3]](https://doi.org/10.1140/epjc/s10052-021-09769-3)
+- Contributions: Asissted in installation, commissioning, operation, and data collection of experimental setup.
 
 `2019`
 __Compact, directional neutron detectors capable of high-resolution nuclear recoil imaging__ 
 - I. Jaegle, P. M. Lewis, M. Garcia-Sciveres, *M. T. Hedges*, T. Hemperek, J. Janssen, Q. Li, D.-L. Pohl, S. Ross, J.
   Schueler, I. Seong, T. N. Thorpe, S. E. Vahsen
 - [[doi.org/10.1016/j.nima.2019.06.037]](https://doi.org/10.1016/j.nima.2019.06.037)
+- Contributions: Detector design, construction, operation, and testing; design and evaluation of gas delivery system; data analysis, testbeam operation, and data collection.
 
 `2018`
 __First Measurements of Beam Backgrounds at SuperKEKB__
 - P.M. Lewis, I. Jaegle, H. Nakayama, A. Aloisio, F. Ameli, M. Barrett, A. Beaulieu, L. Bosisio, P. Branchini, T.E. Browder, A. Budano, G. Cautero, C. Cecchi, Y.-T. Chen, K.-N. Chu, D. Cinabro, P. Cristaudo, S. de Jong, R. de Sangro, G. Finocchiaro, J. Flanagan, Y. Funakoshi, M. Gabriel, R. Giordano, D. Giuressi, *M.T. Hedges*, N. Honkanen, H. Ikeda, T. Ishibashi, H. Kaji, K. Kanazawa, C. Kiesling, S. Koirala, P. Križan, C. La Licata, L. Lanceri, J.-J. Liau, F.-H. Lin, J.-C. Lin, Z. Liptak, S. Longo, E. Manoni, C. Marinas, K. Miyabayashi, E. Mulyani, A. Morita, M. Nakao, M. Nayak, Y. Ohnishi, A. Passeri, P. Poffenberger, M. Ritzert, J.M. Roney, A. Rossi, T. Röder, R.M. Seddon, I.S. Seong, J.-G. Shiu, F. Simon, Y. Soloviev, Y. Suetsugu, M. Szalay, S. Terui, G. Tortone, S.E. Vahsen, N. van der Kolk, L. Vitale, M.-Z. Wang, H. Windel, S. Yokoyama
 - [[doi.org10.1016/j.nima.2018.05.071]](https://doi.org/10.1016/j.nima.2018.05.071)
+- Contributions: principal analyst for fast-neutron backgrounds; primary onsite lead for construction and safety, experimental integration, operation, data collection, and shift coordination.
 
 `2016`
 __Readout technologies for directional WIMP Dark Matter detection__
@@ -182,18 +187,14 @@ __Absolute position measurement in a gas time projection chamber via transverse
 diffusion of drift charge__
 - P. M. Lewis, S.E. Vahsen, I. S. Seong, *M. T. Hedges*, I. Jaegle, T. N. Thorpe
 - [[10.1016/j.nima.2015.03.024]](https://doi.org/10.1016/j.nima.2015.03.024)
+- Contributions: Development of initial track reconstruction algorithm, initial detector design, construction, and operation.
 
 `2014`
 __3-D Tracking of Nuclear Recoils in a Miniature Time Projection Chamber__
 - S.E. Vahsen, *M.T. Hedges*, I. Jaegle, S.J. Ross, I.S. Seong, T.N. Thorpe, J.
 Yamaoka, J.A. Kadyk, M. Garcia-Sciveres
 - [[10.1016/j.nima.2015.03.009]](https://doi.org/10.1016/j.nima.2015.03.009)
-
-`2013`
-__Charge-Focusing Readout of Time Projection Chambers__
-- S. J. Ross, *M. T. Hedges*, I. Jaegle, M. D. Rosen, I. S. Seong, T. N. Thorpe,
-  S. E. Vahsen, J. Yamaoka
-- [[10.1109/NSSMIC.2012.6551412]](https://doi.org/10.1109/NSSMIC.2012.6551412)
+- Contributions: Principal analyst and author on detector point resolution analysis, development of initial track reconstruction algorithm, initial detector design, construction, and oepration.
 
 ### Presentations
 `2023`
@@ -292,4 +293,10 @@ __Design and Performance Evaluation of InAs Quantum Dot Scintillation Detector P
 Photodiode__
 - T. Mahajan, A. Minns, V. Tokranov, P. Murat, M. T. Hedges, and S. Oktyabrksy
 - IEEE Sorma Proceedings
+
+`2013`
+__Charge-Focusing Readout of Time Projection Chambers__
+- S. J. Ross, *M. T. Hedges*, I. Jaegle, M. D. Rosen, I. S. Seong, T. N. Thorpe,
+  S. E. Vahsen, J. Yamaoka
+- [[10.1109/NSSMIC.2012.6551412]](https://doi.org/10.1109/NSSMIC.2012.6551412)
 -->
