@@ -150,7 +150,7 @@ __First 3D vector tracking of helium recoils for fast neutron measurements at Su
 
 __Parameters of fast and high-yield InAs/GaAs quantum dot semiconductor scintillator__
 - A. Minns, K. Dropiewski, M. Yakimov, V. Tokranov, *M. Hedges*, P. Murat, and S. Oktyabrksy
-- [[10.1557/s43580-021-00019-y</u>]](https://doi.org/10.1557/s43580-021-00019-y)
+- [[doi.org/10.1557/s43580-021-00019-y]](https://doi.org/10.1557/s43580-021-00019-y)
 - Contributions: Consultation on experimental design and contextualizing performance of novel detector system within broader HEP applications.
 
 __Primary track recovery in high-definition gas time projection chambers__
@@ -174,14 +174,14 @@ __Compact, directional neutron detectors capable of high-resolution nuclear reco
 `2018`
 __First Measurements of Beam Backgrounds at SuperKEKB__
 - P.M. Lewis, I. Jaegle, H. Nakayama, A. Aloisio, F. Ameli, M. Barrett, A. Beaulieu, L. Bosisio, P. Branchini, T.E. Browder, A. Budano, G. Cautero, C. Cecchi, Y.-T. Chen, K.-N. Chu, D. Cinabro, P. Cristaudo, S. de Jong, R. de Sangro, G. Finocchiaro, J. Flanagan, Y. Funakoshi, M. Gabriel, R. Giordano, D. Giuressi, *M.T. Hedges*, N. Honkanen, H. Ikeda, T. Ishibashi, H. Kaji, K. Kanazawa, C. Kiesling, S. Koirala, P. Križan, C. La Licata, L. Lanceri, J.-J. Liau, F.-H. Lin, J.-C. Lin, Z. Liptak, S. Longo, E. Manoni, C. Marinas, K. Miyabayashi, E. Mulyani, A. Morita, M. Nakao, M. Nayak, Y. Ohnishi, A. Passeri, P. Poffenberger, M. Ritzert, J.M. Roney, A. Rossi, T. Röder, R.M. Seddon, I.S. Seong, J.-G. Shiu, F. Simon, Y. Soloviev, Y. Suetsugu, M. Szalay, S. Terui, G. Tortone, S.E. Vahsen, N. van der Kolk, L. Vitale, M.-Z. Wang, H. Windel, S. Yokoyama
-- [[doi.org10.1016/j.nima.2018.05.071]](https://doi.org/10.1016/j.nima.2018.05.071)
+- [[doi.org/10.1016/j.nima.2018.05.071]](https://doi.org/10.1016/j.nima.2018.05.071)
 - Contributions: Principal analyst for fast-neutron backgrounds; primary onsite lead for construction and safety, experimental integration, operation, data collection, and shift coordination.
 
 `2015`
 __Absolute position measurement in a gas time projection chamber via transverse
 diffusion of drift charge__
 - P. M. Lewis, S.E. Vahsen, I. S. Seong, *M. T. Hedges*, I. Jaegle, T. N. Thorpe
-- [[10.1016/j.nima.2015.03.024]](https://doi.org/10.1016/j.nima.2015.03.024)
+- [[doi.org/10.1016/j.nima.2015.03.024]](https://doi.org/10.1016/j.nima.2015.03.024)
 - Contributions: Development of initial track reconstruction algorithm, initial detector design, construction, and operation.
 
 `2014`
