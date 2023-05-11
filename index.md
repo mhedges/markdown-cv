@@ -189,7 +189,7 @@ __3-D Tracking of Nuclear Recoils in a Miniature Time Projection Chamber__
 - S.E. Vahsen, *M.T. Hedges*, I. Jaegle, S.J. Ross, I.S. Seong, T.N. Thorpe, J.
 Yamaoka, J.A. Kadyk, M. Garcia-Sciveres
 - [[10.1016/j.nima.2015.03.009]](https://doi.org/10.1016/j.nima.2015.03.009)
-- Contributions: Principal analyst and author on detector point resolution analysis, development of initial track reconstruction algorithm, initial detector design, construction, and oepration.
+- Contributions: Principal analyst and author on detector point resolution analysis, development of initial track reconstruction algorithm, initial detector design, construction, and operation.
 
 ### Presentations
 `2023`
