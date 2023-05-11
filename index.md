@@ -4,7 +4,7 @@ title: Michael Hedges's CV
 ---
 
 
-# Michael Hedges, Ph.D
+# Michael Hedges Ph.D
 High-Energy Physics
 
 <div id="webaddress">
