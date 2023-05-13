@@ -74,7 +74,8 @@ code {
 	font-size: 80%;
 	/*line-height: 1em;*/
 	font-family: Menlo,monospace,sans-serif;
-	color: #aaa;
+	/*color: #aaa;*/
+	color: #555;
 }
 
 p code {
