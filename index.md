@@ -103,7 +103,7 @@ __Tests of light-lepton universality in angular asymmetries of hadronically tagg
 __Mu2e Run I Sensitivity Projections for the Neutrinoless mu -> e Conversion Search in Aluminum__
 - The Mu2e Collaboration
 - [[doi.org/10.3390/universe9010054]](https://doi.org/10.3390/universe9010054)
-- Contributions: Simulation and analysis framework, decay-in-orbit background, absolute momentum scale callibration.
+- Contributions: Simulation and analysis framework, decay-in-orbit background, absolute momentum scale calibration.
 
 `2022`
 __The Mu2e Experiment --- Searching for Charged Lepton Flavor Violation__
