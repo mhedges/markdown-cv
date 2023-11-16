@@ -97,12 +97,12 @@ Full INSPIRE-HEP list is available [<u>online</u>](https://inspirehep.net/author
 `2023`
 __Tests of light-lepton universality in angular asymmetries of hadronically tagged B -> D*{e, mu}nu decays at Belle II__
 - M. Eliachevitch, *M. T. Hedges*, P. M. Lewis, F. Bernlochner, et. al. (Belle II)
-- In final collaboration-wide review. *Target journal: Physical Review Letters*
+- [[https://doi.org/10.1103/PhysRevLett.131.181801]](https://doi.org/10.1103/PhysRevLett.131.181801)
 - Contributions: Proposer and analyst.
 
 __Mu2e Run I Sensitivity Projections for the Neutrinoless mu -> e Conversion Search in Aluminum__
 - The Mu2e Collaboration
-- [[doi.org/10.3390/universe9010054]](https://doi.org/10.3390/universe9010054)
+- [[doi.org/10.3390/universe9010054]](https://doi.org/10.3390/universe901005)
 - Contributions: Simulation and analysis framework, decay-in-orbit background, absolute momentum scale calibration.
 
 `2022`
