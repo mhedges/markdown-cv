@@ -5,10 +5,10 @@ title: Michael Hedges's CV
 
 
 # Michael Hedges Ph.D
-High-Energy Physics
+Associate Scientist, Fermi National Accelerator Laboratory
 
 <div id="webaddress">
-<a href="mailto:hedges7@purdue.edu">hedges7ATpurdue.edu</a>
+<a href="mailto:mhedges@fnal.gov">mhedgesATfnal.gov</a>
 </div>
 
 ## Education
