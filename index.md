@@ -26,13 +26,10 @@ __Boston University__
 ## Research
 `2018-`
 __Mu2e__
-- Affiliation: Fermi National Accelerator Laboratory
-- Operations for the Mu2e Target Station
-__Mu2e__
-- Affiliation: Purdue University (Postdoc)
-- Supervisor: John P. Finley
+- Affiliation: Fermi National Accelerator Laboratory (Associate Scientist) & Purdue University (Postdoc)
 - *Mu2e Production Target*
     - Developing Geant4-based simulation compatibile with Mu2e Offline software framework for simulating and validating current and alternative designs for the tungsten Mu2e Production Target.
+    - Facilitate completion of Mu2e Target Station Project work and transition to Operations.
 - *Target Extinction Monitor*
     - Maintain, run, and analyze Geant4 and G4beamline simulations of the Mu2e Target Extinction Monitor pixel-telescope.
     - Developed online-monitoring, slow-control, and archiving infrastructure for enviornmental data via EPICS and CS-Studio/Phoebus.
