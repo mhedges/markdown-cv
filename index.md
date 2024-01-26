@@ -26,6 +26,9 @@ __Boston University__
 ## Research
 `2018-`
 __Mu2e__
+- Affiliation: Fermi National Accelerator Laboratory
+- Operations for the Mu2e Target Station
+__Mu2e__
 - Affiliation: Purdue University (Postdoc)
 - Supervisor: John P. Finley
 - *Mu2e Production Target*
