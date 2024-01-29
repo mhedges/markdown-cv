@@ -19,17 +19,21 @@ __University of Hawaii at Manoa__
 - Thesis title: Performance and First Deployment of Novel 3d Nuclear Recoil Detectors
 
 
-`2007-2011`
+`2011`
 __Boston University__
 - BA Physics
 
 ## Research
-`2018-`
 __Mu2e__
-- Affiliation: Fermi National Accelerator Laboratory (Associate Scientist) & Purdue University (Postdoc)
 - *Mu2e Production Target*
     - Developing Geant4-based simulation compatibile with Mu2e Offline software framework for simulating and validating current and alternative designs for the tungsten Mu2e Production Target.
     - Facilitate completion of Mu2e Target Station Project work and transition to Operations.
+ - *Mu2e Collaboration Service*
+     - Speakers' Committee member
+     - Analysis Review Committee member (ongoing analysis)
+
+- `2018-2023`
+- Affiliation: Purdue University (Postdoc)
 - *Target Extinction Monitor*
     - Maintain, run, and analyze Geant4 and G4beamline simulations of the Mu2e Target Extinction Monitor pixel-telescope.
     - Developed online-monitoring, slow-control, and archiving infrastructure for enviornmental data via EPICS and CS-Studio/Phoebus.
@@ -37,15 +41,9 @@ __Mu2e__
 - *Momentum calibration analysis using stopped-pion decays*
     - Build simulation and analysis infrastructure to investigate feasibility of proposed momentum calibration channel for the Mu2e experiment.
     - Continuing work through supervision of a graduate student and serving on thesis committee.
- - *Mu2e Collaboration Service*
-     - `2020-`
-     - Speakers' Committee member
-     - `2022-`
-     - Analysis Review Committee member (ongoing analysis)
 
-`2011-`
+
 __Belle II__
-- `2021-`
 - Affiliation: University of Bonn (Visting Scientist)
 - Group leader: Florian Bernlochner
 - _Tests of light-lepton universality in angular observables in B -> D\*lnu decays_
