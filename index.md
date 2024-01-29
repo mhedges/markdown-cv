@@ -47,7 +47,7 @@ __Belle II__
 - Affiliation: University of Bonn (Visting Scientist)
 - Group leader: Florian Bernlochner
 - _Tests of light-lepton universality in angular observables in B -> D\*lnu decays_
-    - Lead analyst of world's first measurement of light-lepton universality in full suite of angular observables in exclusive B0->D\*lnu decays. Analysis currently under collaboration-wide review. *Target journal: Physical Review Letters*
+    - Lead analyst of world's first measurement of light-lepton universality in full suite of angular observables in exclusive B0->D\*lnu decays. Published in Physical Review Letters (October 2023)
  
 __Instrumentation__
 `2011-`
