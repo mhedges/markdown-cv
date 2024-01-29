@@ -50,8 +50,6 @@ __Belle II__
     - Lead analyst of world's first measurement of light-lepton universality in full suite of angular observables in exclusive B0->D\*lnu decays. Published in Physical Review Letters (October 2023)
  
 __Instrumentation__
-`2011-`
-- `2019-`
 - *Quantum-dot based scintillators for charged-particle detection.*
     - Co-maintainer of Geant4-based simulation of novel detector system.
     - Primary author and liason for all contributions to Snowmass 2021 in Solid-State and Tracking Detectors Topical Group in the Instrumentation Frontier.
@@ -62,7 +60,7 @@ __Instrumentation__
     - First position resolution study using cosmic rays.
     - Design and construction of first multi-detector gas distribution system used at KEK for commissioning SuperKEKB accelerator.
 
-- `2011-2018`
+- `2018`
 - Affiliation: University of Hawaii (PhD student)
 - PhD advisor: Sven Vahsen
 - *Phase I commissioning of the SuperKEKB accelerator*
@@ -71,17 +69,12 @@ __Instrumentation__
     - Shift coordinator.
     - First directional analysis of beam-induced fast-neutrons using subsystem of novel TPC-based micro-pattern gas detectors.
     - Design and installation of gas distribution system for TPC subsystem.
-- _Belle II Collaboration Service_
-    - `2023-`
-    - Review committe member (ongoing analysis)
 
 ## Mentorship
-`2023-`
 __Xiaobing Shi (in progress)__
 - PhD thesis (Purdue)
 - Thesis committee member
 
-`2022`
 __Vermessung der Vorwärts-Rückwärts Asymmetrie in semileptonischen B -> D\*lnu Zerfällen mit Daten des Belle II-Experiments__
 - Translation: *Measurement of the forward-backward asymmetry in semileptonic B -> D\*lnu decays with data from the Belle II experiment*
 - Maximillion Hoverath, Bachelorarbeit in Physik (Bonn)
