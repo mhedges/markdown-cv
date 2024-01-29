@@ -25,10 +25,10 @@ __Boston University__
 
 ## Research
 __Mu2e__
-- *Mu2e Production Target*
+- *Target Station*
     - Developing Geant4-based simulation compatibile with Mu2e Offline software framework for simulating and validating current and alternative designs for the tungsten Mu2e Production Target.
     - Facilitate completion of Mu2e Target Station Project work and transition to Operations.
- - *Mu2e Collaboration Service*
+ - *Collaboration Service*
      - Speakers' Committee member
      - Analysis Review Committee member (ongoing analysis)
 
@@ -48,6 +48,19 @@ __Belle II__
 - Group leader: Florian Bernlochner
 - _Tests of light-lepton universality in angular observables in B -> D\*lnu decays_
     - Lead analyst of world's first measurement of light-lepton universality in full suite of angular observables in exclusive B0->D\*lnu decays. Analysis currently under collaboration-wide review. *Target journal: Physical Review Letters*
+ 
+__Instrumentation__
+`2011-`
+- `2019-`
+- *Quantum-dot based scintillators for charged-particle detection.*
+    - Co-maintainer of Geant4-based simulation of novel detector system.
+    - Primary author and liason for all contributions to Snowmass 2021 in Solid-State and Tracking Detectors Topical Group in the Instrumentation Frontier.
+- `2011-2018`
+- *TPC-based micro-pattern gas detectors with pixel readout for directional nuclear recoil detection.*
+    - Involved from first design, construction, operation, and data acquisition and analysis.
+    - Devloper of first fast, high-performance simulation of 3D nuclear recoil events.
+    - First position resolution study using cosmic rays.
+    - Design and construction of first multi-detector gas distribution system used at KEK for commissioning SuperKEKB accelerator.
 
 - `2011-2018`
 - Affiliation: University of Hawaii (PhD student)
@@ -61,19 +74,6 @@ __Belle II__
 - _Belle II Collaboration Service_
     - `2023-`
     - Review committe member (ongoing analysis)
-
-__Instrumentation__
-`2011-`
-- `2019-`
-- *Quantum-dot based scintillators for charged-particle detection.*
-    - Co-maintainer of Geant4-based simulation of novel detector system.
-    - Primary author and liason for all contributions to Snowmass 2021 in Solid-State and Tracking Detectors Topical Group in the Instrumentation Frontier.
-- `2011-2018`
-- *TPC-based micro-pattern gas detectors with pixel readout for directional nuclear recoil detection.*
-    - Involved from first design, construction, operation, and data acquisition and analysis.
-    - Devloper of first fast, high-performance simulation of 3D nuclear recoil events.
-    - First position resolution study using cosmic rays.
-    - Design and construction of first multi-detector gas distribution system used at KEK for commissioning SuperKEKB accelerator.
 
 ## Mentorship
 `2023-`
