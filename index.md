@@ -4,7 +4,7 @@ title: Michael Hedges's CV
 ---
 
 
-# Michael Hedges Ph.D
+# Michael Hedges, Ph.D
 Fermilab Associate Scientist (Mu2e Target Station)
 
 <div id="webaddress">
