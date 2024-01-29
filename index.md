@@ -5,14 +5,14 @@ title: Michael Hedges's CV
 
 
 # Michael Hedges Ph.D
-Associate Scientist, Fermi National Accelerator Laboratory
+Fermilab Associate Scientist (Mu2e Target Station)
 
 <div id="webaddress">
 <a href="mailto:mhedges@fnal.gov">mhedgesATfnal.gov</a>
 </div>
 
 ## Education
-`2012-2018`
+`2018`
 __University of Hawaii at Manoa__
 - PhD in Physics
 - Advisor: Sven Vahsen
