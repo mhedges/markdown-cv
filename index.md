@@ -26,7 +26,7 @@ __Boston University__
 ## Research
 __Mu2e__
 - *Target Station*
-    - Developing Geant4-based simulation compatibile with Mu2e Offline software framework for simulating and validating current and alternative designs for the tungsten Mu2e Production Target.
+    - Developing Geant4-based simulation compatibile with Mu2e Offline software framework for simulating and validating current and alternative designs for the Mu2e Production Target.
     - Facilitate completion of Mu2e Target Station Project work and transition to Operations.
  - *Collaboration Service*
      - Speakers' Committee member
@@ -71,9 +71,6 @@ __Instrumentation__
     - Design and installation of gas distribution system for TPC subsystem.
 
 ## Mentorship
-__Xiaobing Shi (in progress)__
-- PhD thesis (Purdue)
-- Thesis committee member
 
 __Vermessung der Vorwärts-Rückwärts Asymmetrie in semileptonischen B -> D\*lnu Zerfällen mit Daten des Belle II-Experiments__
 - Translation: *Measurement of the forward-backward asymmetry in semileptonic B -> D\*lnu decays with data from the Belle II experiment*
