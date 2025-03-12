@@ -86,9 +86,9 @@ Full INSPIRE-HEP list is available [<u>online</u>](https://inspirehep.net/author
 
 ### Papers
 `2025`
-__(_In Progress_) F2D2 task force report
+__(_In Progress_) F2D2 task force report__
 
-__(_In Progress_) Conceptual design of a beam-dump and target facility for a future F2D2 site at Fermilab
+__(_In Progress_) Conceptual design of a beam-dump and target facility for a future F2D2 site at Fermilab__
 
 `2024`
 __Design and Performance of an InAs Quantum Dot Scintillator with Integrated Photodetector__
