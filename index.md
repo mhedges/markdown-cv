@@ -85,13 +85,16 @@ Full INSPIRE-HEP list is available [<u>online</u>](https://inspirehep.net/author
 `2024`
 __High-Power Targetry for Muon Production__
 - *Michael Hedges*, and Madeleine Bloomer
-- Contribution to: NuFact2024 e-Print: 2501.10556 [physics.acc-ph]
+- Contribution to: NuFact2024 e-Print: 2501.10556 [physics.acc-ph].
+  
 __Design and Performance of an InAs Quantum Dot Scintillator with Integrated Photodetector__
 - Tushar Mahajan, Allan Minns, Vadim Tokranov, Michael Yakimov, *Michael Hedges*, Pavel Murat, and Serge Oktyabrsky
-- Sensors 2024, 24(22), 7178; [[https://doi.org/10.3390/s24227178]]
+- Sensors 2024, 24(22), 7178; [[https://doi.org/10.3390/s24227178]].
+  
 __Device response principles and the impact on energy resolution of epitaxial quantum dot scintillators with monolithic photodetector integration__
 - Allan Minns, Tushar Mahajan, Vadim Tokranov, Michael Yakimov, *Michael Hedges*, Pavel Murat, and Serge Oktyabrsky
 - Sci Rep 14, 22870 (2024), [[https://doi.org/10.1038/s41598-024-74160-7]].
+  
 __CPAD 2024 Whitepaper: Quantum Dot Scintillation Detector__
 - Serge Oktyabrsky, *Michael Hedges*, and Pavel Murat
 - [[https://drive.google.com/drive/folders/1U-QsgKwDZd5N5AJnUBu5N0ve85wHtAWR]]
