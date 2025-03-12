@@ -52,20 +52,26 @@ __Belle II__
 __(_Title TBD_)__
 - Madeleine Bloomer
 - SULI 2025
+  
 __(_Title TBD_)__
 - Madeleine Bloomer
 - Undergraduate Honors Thesis, Emory
+  
 __Analysis of Potential Target Materials for the Mu2e Production Target__
 - Madeleine Bloomer
 - SIST 2024
+  
 __Hear It? – New Physics Calls For a Healthy Target!__
 - Kateryna Havryshchuk
 - SIST 2024
+  
 __Mu2e experiment: Simulation of the Production Target__
 - Albert Szewczyk
 - CCI 2024
+  
 __Full Angular Analysis of B -> D\*lnu decays using 365 fb^-1 at Belle-II__
 - Maximillion Hoverath, Masters' Thesis (Bonn, ongoing)
+  
 __Vermessung der Vorwärts-Rückwärts Asymmetrie in semileptonischen B -> D\*lnu Zerfällen mit Daten des Belle II-Experiments__
 - Translation: *Measurement of the forward-backward asymmetry in semileptonic B -> D\*lnu decays with data from the Belle II experiment*
 - Maximillion Hoverath, Bachelorarbeit in Physik (Bonn)
