@@ -58,7 +58,7 @@ __(_Title TBD_)__
   
 __(_Title TBD_)__
 - Madeleine Bloomer
-- Undergraduate Honors Thesis, Emory
+- Undergraduate Honors Thesis, Emory University
   
 __Analysis of Potential Target Materials for the Mu2e Production Target__
 - Madeleine Bloomer
