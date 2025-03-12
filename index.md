@@ -26,52 +26,46 @@ __Boston University__
 ## Research
 __Mu2e__
 - *Target Station*
-    - Developing Geant4-based simulation compatibile with Mu2e Offline software framework for simulating and validating current and alternative designs for the Mu2e Production Target.
+    - Leading redesign effort for the Mu2e Production Target.
+    - Develop target health and beam diagnostics instrumentation (with university partners).
     - Facilitate completion of Mu2e Target Station Project work and transition to Operations.
  - *Collaboration Service*
-     - Speakers' Committee member
-     - Analysis Review Committee member (ongoing analysis)
-
-- `2018-2023`
-- Affiliation: Purdue University (Postdoc)
-- *Target Extinction Monitor*
-    - Maintain, run, and analyze Geant4 and G4beamline simulations of the Mu2e Target Extinction Monitor pixel-telescope.
-    - Developed online-monitoring, slow-control, and archiving infrastructure for enviornmental data via EPICS and CS-Studio/Phoebus.
-    - Successfully deployed this system at Target Extinction Monitor radiation test in 2022.
-- *Momentum calibration analysis using stopped-pion decays*
-    - Build simulation and analysis infrastructure to investigate feasibility of proposed momentum calibration channel for the Mu2e experiment.
-    - Continuing work through supervision of a graduate student and serving on thesis committee.
-
+     - Speakers' Committee member.
+     - Analysis Review Committee member (ongoing analysis).
+       
+__Instrumentation__
+- *mACE @ Mu2e"
+  - FNAL lead in development of instrumentation based on modified Askaryan Calorimetry Experiment (mACE) (U. Hawaii) for target health monitoring and beam diagnostics at Mu2e.
+- *Quantum-dot based scintillators for charged-particle detection.*
+    - Co-PI of submitted proposal with U. Albany (FY25 Continuing Solicitation).
+    - Co-maintainer of Geant4-based simulation of novel detector system.
 
 __Belle II__
 - Affiliation: University of Bonn (Visting Scientist)
 - Group leader: Florian Bernlochner
-- _Tests of light-lepton universality in angular observables in B -> D\*lnu decays_
-    - Lead analyst of world's first measurement of light-lepton universality in full suite of angular observables in exclusive B0->D\*lnu decays. Published in Physical Review Letters (October 2023)
+- _Angular analyses of B -> D\*lnu decays_
+    - Lead analyst of world's first measurement of light-lepton universality in full suite of angular observables in exclusive B0->D\*lnu decays. (Published in Physical Review Letters October 2023)
+    - Updated full angular analysis using more data ongoing (see Montorship)
  
-__Instrumentation__
-- *Quantum-dot based scintillators for charged-particle detection.*
-    - Co-maintainer of Geant4-based simulation of novel detector system.
-    - Primary author and liason for all contributions to Snowmass 2021 in Solid-State and Tracking Detectors Topical Group in the Instrumentation Frontier.
-- `2011-2018`
-- *TPC-based micro-pattern gas detectors with pixel readout for directional nuclear recoil detection.*
-    - Involved from first design, construction, operation, and data acquisition and analysis.
-    - Devloper of first fast, high-performance simulation of 3D nuclear recoil events.
-    - First position resolution study using cosmic rays.
-    - Design and construction of first multi-detector gas distribution system used at KEK for commissioning SuperKEKB accelerator.
-
-- `2018`
-- Affiliation: University of Hawaii (PhD student)
-- PhD advisor: Sven Vahsen
-- *Phase I commissioning of the SuperKEKB accelerator*
-    - Involved from start-to-finsih of design, construction, operation, and publication of results from data collected by suite of commissioning detectors used for first-beam measurements of SuperKEKB.
-    - KEK onsite safety coordinator for construction, integration, and decomissioning.
-    - Shift coordinator.
-    - First directional analysis of beam-induced fast-neutrons using subsystem of novel TPC-based micro-pattern gas detectors.
-    - Design and installation of gas distribution system for TPC subsystem.
 
 ## Mentorship
-
+__(_Title TBD_)__
+- Madeleine Bloomer
+- SULI 2025
+__(_Title TBD_)__
+- Madeleine Bloomer
+- Undergraduate Honors Thesis, Emory
+__Analysis of Potential Target Materials for the Mu2e Production Target__
+- Madeleine Bloomer
+- SIST 2024
+__Hear It? – New Physics Calls For a Healthy Target!__
+- Kateryna Havryshchuk
+- SIST 2024
+__Mu2e experiment: Simulation of the Production Target__
+- Albert Szewczyk
+- CCI 2024
+__Full Angular Analysis of B -> D\*lnu decays using 365 fb^-1 at Belle-II__
+- Maximillion Hoverath, Masters' Thesis (Bonn, ongoing)
 __Vermessung der Vorwärts-Rückwärts Asymmetrie in semileptonischen B -> D\*lnu Zerfällen mit Daten des Belle II-Experiments__
 - Translation: *Measurement of the forward-backward asymmetry in semileptonic B -> D\*lnu decays with data from the Belle II experiment*
 - Maximillion Hoverath, Bachelorarbeit in Physik (Bonn)
@@ -82,6 +76,20 @@ __Vermessung der Vorwärts-Rückwärts Asymmetrie in semileptonischen B -> D\*ln
 Full INSPIRE-HEP list is available [<u>online</u>](https://inspirehep.net/authors/1259719)
 
 ### Papers
+`2024`
+__High-Power Targetry for Muon Production__
+- *Michael Hedges*, and Madeleine Bloomer
+- Contribution to: NuFact2024 e-Print: 2501.10556 [physics.acc-ph]
+__Design and Performance of an InAs Quantum Dot Scintillator with Integrated Photodetector__
+- Tushar Mahajan, Allan Minns, Vadim Tokranov, Michael Yakimov, *Michael Hedges*, Pavel Murat, and Serge Oktyabrsky
+- Sensors 2024, 24(22), 7178; [[https://doi.org/10.3390/s24227178]]
+__Device response principles and the impact on energy resolution of epitaxial quantum dot scintillators with monolithic photodetector integration__
+- Allan Minns, Tushar Mahajan, Vadim Tokranov, Michael Yakimov, *Michael Hedges*, Pavel Murat, and Serge Oktyabrsky
+- Sci Rep 14, 22870 (2024), [[https://doi.org/10.1038/s41598-024-74160-7]].
+__CPAD 2024 Whitepaper: Quantum Dot Scintillation Detector__
+- Serge Oktyabrsky, *Michael Hedges*, and Pavel Murat
+- [[https://drive.google.com/drive/folders/1U-QsgKwDZd5N5AJnUBu5N0ve85wHtAWR]]
+
 `2023`
 __Tests of light-lepton universality in angular asymmetries of hadronically tagged B -> D*{e, mu}nu decays at Belle II__
 - M. Eliachevitch, *M. T. Hedges*, P. M. Lewis, F. Bernlochner, et. al. (Belle II)
