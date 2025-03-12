@@ -37,7 +37,7 @@ __Future Facility for Dark matter Discovery (F2D2)__
 - Ongoing participation on task force exploring feasibility of beamdump-based dark matter facility at Fermilab utiliziing PIP-II.
        
 __Instrumentation__
-- *mACE @ Mu2e"
+- *mACE @ Mu2e*
   - FNAL lead in development of instrumentation based on modified Askaryan Calorimetry Experiment (mACE) (U. Hawaii) for target health monitoring and beam diagnostics at Mu2e.
 - *Quantum-dot based scintillators for charged-particle detection.*
     - Co-PI of submitted proposal with U. Albany (FY25 Continuing Solicitation).
