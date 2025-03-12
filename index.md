@@ -32,6 +32,9 @@ __Mu2e__
  - *Collaboration Service*
      - Speakers' Committee member.
      - Analysis Review Committee member (ongoing analysis).
+
+__Future Facility for Dark matter Discovery (F2D2)__
+- Ongoing participation on task force exploring feasibility of beamdump-based dark matter facility at Fermilab utiliziing PIP-II.
        
 __Instrumentation__
 - *mACE @ Mu2e"
@@ -82,11 +85,12 @@ __Vermessung der Vorwärts-Rückwärts Asymmetrie in semileptonischen B -> D\*ln
 Full INSPIRE-HEP list is available [<u>online</u>](https://inspirehep.net/authors/1259719)
 
 ### Papers
+`2025`
+__(_In Progress_) F2D2 task force report
+
+__(_In Progress_) Conceptual design of a beam-dump and target facility for a future F2D2 site at Fermilab
+
 `2024`
-__High-Power Targetry for Muon Production__
-- *Michael Hedges*, and Madeleine Bloomer
-- Contribution to: NuFact2024 e-Print: 2501.10556 [physics.acc-ph].
-  
 __Design and Performance of an InAs Quantum Dot Scintillator with Integrated Photodetector__
 - Tushar Mahajan, Allan Minns, Vadim Tokranov, Michael Yakimov, *Michael Hedges*, Pavel Murat, and Serge Oktyabrsky
 - Sensors 2024, 24(22), 7178; [[https://doi.org/10.3390/s24227178]](https://doi.org/10.3390/s24227178).
@@ -197,6 +201,18 @@ Yamaoka, J.A. Kadyk, M. Garcia-Sciveres
 - Contributions: Principal analyst and author on detector point resolution analysis, development of initial track reconstruction algorithm, initial detector design, construction, and operation.
 
 ### Presentations
+`2024`
+__NuFact 2024__
+- Title: High-Power Targetry for Muon Production
+- Proceedings available at [[https://doi.org/10.48550/arXiv.2501.1055]](https://doi.org/10.48550/arXiv.2501.1055).
+
+__Coordinating Panel for Advanced Detectors Workshop (CPAD 2024)__
+- Title: Scintillating quantum dots for ultrafast charged-particle detection
+  
+__International Muon Collider Collaboration: Demonstrator Workshop__
+- Invited Talk
+- Title: Muon Production at Mu2e
+  
 `2023`
 __Open LHCb Workshop on exclusive b -> c decays__
 - Invited talk
