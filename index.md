@@ -206,6 +206,7 @@ Yamaoka, J.A. Kadyk, M. Garcia-Sciveres
 __Muon4Future 2025__
 - Invited Talk
 - Title: High-Power targetry for production of high intensity muon beams at current and next generation facilities
+  
 `2024`
 __NuFact 2024__
 - Title: High-Power Targetry for Muon Production
