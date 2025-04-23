@@ -14,22 +14,22 @@ Fermilab Associate Scientist
 ## Research
 __Mu2e__
 - *Target Station*
-    - Leading redesign effort for the Mu2e Production Target.
-    - Develop target health and beam diagnostics instrumentation (with university partners).
-    - Facilitate completion of Mu2e Target Station Project work and transition to Operations.
+    - Leading redesign effort for the Mu2e Production Target
+    - Develop target health and beam diagnostics instrumentation (with university partners)
+    - Facilitate completion of Mu2e Target Station Project work and transition to Operations
  - *Collaboration Service*
-     - Speakers' Committee member.
-     - Analysis Review Committee member (ongoing analysis).
+     - Speakers' Committee member
+     - Analysis Review Committee member (ongoing analysis)
 
 __Future Facility for Dark matter Discovery (F2D2)__
-- Ongoing participation on task force exploring feasibility of beamdump-based dark matter facility at Fermilab utiliziing PIP-II.
+- Ongoing participation on task force exploring feasibility of beamdump-based dark matter facility at Fermilab utiliziing PIP-II
        
 __Instrumentation__
 - *mACE @ Mu2e*
-  - FNAL lead in development of instrumentation based on modified Askaryan Calorimetry Experiment (mACE) (U. Hawaii) for target health monitoring and beam diagnostics at Mu2e.
+  - FNAL lead in development of instrumentation based on modified Askaryan Calorimetry Experiment (mACE) (U. Hawaii) for target health monitoring and beam diagnostics at Mu2e
 - *Quantum-dot based scintillators for charged-particle detection.*
-    - Co-PI of submitted proposal with U. Albany (FY25 Continuing Solicitation).
-    - Co-maintainer of Geant4-based simulation of novel detector system.
+    - Co-PI of submitted proposal with U. Albany (FY25 Continuing Solicitation)
+    - Co-maintainer of Geant4-based simulation of novel detector system
 
 __Belle II__
 - Affiliation: University of Bonn (Visting Scientist)
