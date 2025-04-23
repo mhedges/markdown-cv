@@ -56,7 +56,7 @@ __(_Title TBD_)__
 - Madeleine Bloomer
 - SULI 2025
   
-__(_Title TBD_)__
+__(_Analysis of Potential Target Materials for Production of High Intensity Secondary Beams_)__
 - Madeleine Bloomer
 - Undergraduate Honors Thesis, Emory University
   
@@ -202,6 +202,10 @@ Yamaoka, J.A. Kadyk, M. Garcia-Sciveres
 - Contributions: Principal analyst and author on detector point resolution analysis, development of initial track reconstruction algorithm, initial detector design, construction, and operation.
 
 ### Presentations
+`2025`
+__Muon4Future 2025__
+- Invited Talk
+- Title: High-Power targetry for production of high intensity muon beams at current and next generation facilities
 `2024`
 __NuFact 2024__
 - Title: High-Power Targetry for Muon Production
