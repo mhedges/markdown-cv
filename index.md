@@ -11,18 +11,6 @@ Fermilab Associate Scientist
 <a href="mailto:mhedges@fnal.gov">mhedgesATfnal.gov</a>
 </div>
 
-## Education
-`2018`
-__University of Hawaii at Manoa__
-- PhD in Physics
-- Advisor: Sven Vahsen
-- Thesis title: Performance and First Deployment of Novel 3d Nuclear Recoil Detectors
-
-
-`2011`
-__Boston University__
-- BA Physics
-
 ## Research
 __Mu2e__
 - *Target Station*
@@ -281,7 +269,19 @@ Fermlab C++ Workshop [[<u>OOPL:Fermilab</u>]](https://www.oopl.com/fnal/index.ht
 `2017`
 Computational and Data Science School for High Energy Physics (CoDaS-HEP) [ [codas-hep.org] ](http://codas-hep.org)
 - [[<u>CoDaS-HEP Agenda</u>]](https://indico.cern.ch/event/625333/timetable/)
+  
 
+## Education
+`2018`
+__University of Hawaii at Manoa__
+- PhD in Physics
+- Advisor: Sven Vahsen
+- Thesis title: Performance and First Deployment of Novel 3d Nuclear Recoil Detectors
+
+
+`2011`
+__Boston University__
+- BA Physics
 
 <!-- ### Footer
 Last updated: May 2023
