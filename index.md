@@ -69,7 +69,7 @@ __Vermessung der Vorwärts-Rückwärts Asymmetrie in semileptonischen B -> D\*ln
 - Maximillion Hoverath, Bachelorarbeit in Physik (Bonn)
 - Mentor
 
-## Select Publications
+## Select Publications and Presentations
 
 Full INSPIRE-HEP list is available [<u>online</u>](https://inspirehep.net/authors/1259719)
 
