@@ -44,7 +44,7 @@ __(_Title TBD_)__
 - Madeleine Bloomer
 - SULI 2025
   
-__(_Analysis of Potential Target Materials for Production of High Intensity Secondary Beams_)__
+__Analysis of Potential Target Materials for Production of High Intensity Secondary Beams__
 - Madeleine Bloomer
 - Undergraduate Honors Thesis, Emory University
   
