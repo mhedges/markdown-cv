@@ -15,8 +15,8 @@ Fermilab Associate Scientist
 `2023`
 __Fermi National Accelerator Laboratory__
 - Associate Scientist
-- Accelerator Directorate / Beams Division / Target Systems Department
-- (AD/BD/TSD)
+- Accelerator Directorate / Beams Division / Target Systems Department / Science Group
+- (AD/BD/TSD/SCI)
 
   
 `2018-2023`
