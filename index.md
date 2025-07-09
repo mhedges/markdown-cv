@@ -12,6 +12,10 @@ Fermilab Associate Scientist
 </div>
 
 ## Education and Employment
+`2023`
+__Fermi National Accelerator Laboratory__
+- Associate Scientist
+- Accelerator Directorate / Beams Division / Target Systems Department (AD/BD/TSD)
 `2018-2023`
 __Purdue University__
 - Post Doc Research Associate
