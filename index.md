@@ -272,6 +272,11 @@ Computational and Data Science School for High Energy Physics (CoDaS-HEP) [ [cod
   
 
 ## Education
+`2018-2023`
+__Purdue University__
+- Post Doc Research Associate
+- Supervisors: John Finley, Matthew Jones, David Koltick
+- Research: Mu2e Extinction Monitor, Stopping Target Monitor and Momentum Calibration Analyses; Novel quantum dots based scintillator detector; and Belle II analyses on lepton universality tests in semileptonic B-decays.
 `2018`
 __University of Hawaii at Manoa__
 - PhD in Physics
