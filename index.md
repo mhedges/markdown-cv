@@ -67,7 +67,7 @@ __Belle II__
 ## Mentorship
 _(_Title TBD_)__
 - Kateryna Kateryna Havryshchuk
-- Undergraduate Thesis, Emherst College (_Expected Spring 2026_)
+- Undergraduate Thesis, Amherst College (_Expected Spring 2026_)
 
 __(_Title TBD_)__
 - Madeleine Bloomer
