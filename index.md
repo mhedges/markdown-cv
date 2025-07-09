@@ -15,7 +15,10 @@ Fermilab Associate Scientist
 `2023`
 __Fermi National Accelerator Laboratory__
 - Associate Scientist
-- Accelerator Directorate / Beams Division / Target Systems Department (AD/BD/TSD)
+- Accelerator Directorate / Beams Division / Target Systems Department
+- (AD/BD/TSD)
+
+  
 `2018-2023`
 __Purdue University__
 - Post Doc Research Associate
@@ -62,6 +65,10 @@ __Belle II__
  
 
 ## Mentorship
+_(_Title TBD_)__
+- Kateryna Kateryna Havryshchuk
+- Undergraduate Thesis, Emherst College (_Expected Spring 2026_)
+
 __(_Title TBD_)__
 - Madeleine Bloomer
 - SULI 2025
