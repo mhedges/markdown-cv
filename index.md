@@ -75,7 +75,7 @@ __(_Title TBD_)__
   
 __Analysis of Potential Target Materials for Production of High Intensity Secondary Beams__
 - Madeleine Bloomer
-- Undergraduate Honors Thesis, Emory University
+- Undergraduate Honors Thesis, Emory University (2025)
   
 __Analysis of Potential Target Materials for the Mu2e Production Target__
 - Madeleine Bloomer
@@ -90,12 +90,12 @@ __Mu2e experiment: Simulation of the Production Target__
 - CCI 2024
   
 __Full Angular Analysis of B -> D\*lnu decays using 365 fb^-1 at Belle-II__
-- Maximillion Hoverath, Masters' Thesis (Bonn, ongoing)
+- Maximilian Hoverath, Masters' Thesis (Bonn, ongoing)
 - Mentor
   
 __Vermessung der Vorwärts-Rückwärts Asymmetrie in semileptonischen B -> D\*lnu Zerfällen mit Daten des Belle II-Experiments__
 - Translation: *Measurement of the forward-backward asymmetry in semileptonic B -> D\*lnu decays with data from the Belle II experiment*
-- Maximillion Hoverath, Bachelorarbeit in Physik (Bonn)
+- Maximilian Hoverath, Bachelorarbeit in Physik, Physikalisches Institut of University of Bonn (2022)
 - Mentor
 
 ## Select Publications and Presentations
