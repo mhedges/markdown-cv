@@ -90,7 +90,7 @@ __Mu2e experiment: Simulation of the Production Target__
 - CCI 2024
   
 __Full Angular Analysis of B -> D\*lnu decays using 365 fb^-1 at Belle-II__
-- Maximilian Hoverath, Masters' Thesis (Bonn, ongoing)
+- Maximilian Hoverath, Masters' Thesis, Physikalisches Institut of University of Bonn (ongoing)
 - Mentor
   
 __Vermessung der Vorwärts-Rückwärts Asymmetrie in semileptonischen B -> D\*lnu Zerfällen mit Daten des Belle II-Experiments__
