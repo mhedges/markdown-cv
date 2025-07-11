@@ -63,7 +63,7 @@ __Belle II__
  
 
 ## Mentorship
-_(_Title TBD_)__
+__(_Title TBD_)__
 - Kateryna Kateryna Havryshchuk
 - Undergraduate Thesis, Amherst College (Expected Spring 2026)
 
