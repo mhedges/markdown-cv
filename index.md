@@ -19,7 +19,7 @@ __Fermi National Accelerator Laboratory__
 - (AD/BD/TSD/SCI)
 
   
-`2018-2023`
+`2018`
 __Purdue University__
 - Post Doc Research Associate
 - Supervisors: John Finley, Matthew Jones, David Koltick
