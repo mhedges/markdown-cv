@@ -12,16 +12,14 @@ Fermilab Associate Scientist
 </div>
 
 ## Education and Employment
-`2023`
 __Fermi National Accelerator Laboratory__
 - Associate Scientist
 - Accelerator Directorate / Beams Division / Target Systems Department / Science Group
 - (AD/BD/TSD/SCI)
 
   
-`2018`
 __Purdue University__
-- Post Doc Research Associate
+- Post Doc Research Associate (2018-2023)
 - Supervisors: John Finley, Matthew Jones, David Koltick
 
   
