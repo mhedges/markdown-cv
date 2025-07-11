@@ -67,7 +67,7 @@ __Belle II__
 ## Mentorship
 _(_Title TBD_)__
 - Kateryna Kateryna Havryshchuk
-- Undergraduate Thesis, Amherst College (_Expected Spring 2026_)
+- Undergraduate Thesis, Amherst College (Expected Spring 2026)
 
 __(_Title TBD_)__
 - Madeleine Bloomer
@@ -220,6 +220,10 @@ Yamaoka, J.A. Kadyk, M. Garcia-Sciveres
 
 ### Presentations
 `2025`
+__The LPC’s Colliders of Tomorrow__
+- Invited Seminar
+- Title: Next-Generation Accelerator and Beam Instrumentation with the modified Askaryan Calorimeter Experiment (mACE)
+  
 __Muon4Future 2025__
 - Invited Talk
 - Title: High-Power targetry for production of high intensity muon beams at current and next generation facilities
