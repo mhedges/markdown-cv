@@ -60,6 +60,7 @@ __Belle II__
 - _Angular analyses of B -> D\*lnu decays_
     - Lead analyst of world's first measurement of light-lepton universality in full suite of angular observables in exclusive B0->D\*lnu decays. (Published in Physical Review Letters October 2023)
     - Updated full angular analysis using more data ongoing (see Mentorship)
+- Analysis Review Committee member (completed analysis with publication)
  
 
 ## Mentorship
