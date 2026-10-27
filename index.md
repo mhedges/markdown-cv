@@ -15,7 +15,7 @@ Fermilab Associate Scientist
 __Fermi National Accelerator Laboratory__
 - Associate Scientist
 - Accelerator Directorate / Beams Division / Target Systems Department / Science Group
-- (AD/BD/TSD/SCI)
+- (AD/TSD/TPHYS)
 
   
 __Purdue University__
@@ -64,11 +64,15 @@ __Belle II__
  
 
 ## Mentorship
-__(_Title TBD_)__
-- Kateryna Kateryna Havryshchuk
-- Undergraduate Thesis, Amherst College (Expected Spring 2026)
+__(_Ryan Kim_)__
+- Lederman Fellow (postdoc)
+- Fast instrumentation for target health monitoring and beam profiling measurements at Mu2e and beyond
 
-__(_Title TBD_)__
+__(_FLUKA & Ansys: A Fully Integrated Approach to Production Target Testing for High-Energy Physics_)__
+- Kateryna Havryshchuk
+- Undergraduate Honors Thesis, Amherst College (Spring 2026)
+
+__(_Production Target Studies at the M4 Diagnostic Absorber_)__
 - Madeleine Bloomer
 - SULI 2025
   
