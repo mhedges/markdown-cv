@@ -107,7 +107,7 @@ Full INSPIRE-HEP list is available [<u>online</u>](https://inspirehep.net/author
 
 ### Papers
 `2026`
-__(_Submitted_) Fermilab Accelerator Complex Upgrades and Charged Lepton Flavor Violation
+__(_Submitted_) Fermilab Accelerator Complex Upgrades and Charged Lepton Flavor Violation__
 - __Michael T. Hedges__
 - A contribution to CLFV2026
 
