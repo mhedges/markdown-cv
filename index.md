@@ -14,7 +14,7 @@ Fermilab Associate Scientist
 ## Education and Employment
 __Fermi National Accelerator Laboratory__
 - Associate Scientist
-- Accelerator Directorate / Beams Division / Target Systems Department / Science Group
+- Accelerator Directorate / Target Systems Division / Target Physics Group
 - (AD/TSD/TPHYS)
 
   
