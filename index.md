@@ -156,9 +156,9 @@ __(_In Progress_) Conceptual design of a beam-dump and target facility for a fut
 - __Target Journal__: Journal of Instrumentation (JINST)
 - __Submission Goal__: Spring 2027
 
-`2025`
-__(_In Progress_) F2D2 task force report__
 
+<!-- this is a comment__(_In Progress_) F2D2 task force report__ -->
+`2025`
 __Challenges and optimization of Mu2e proton target design with radiative cooling__
 - Zunping Liu, Alajos Makovec, Andrew Edmonds, Frederique Pellemoine, Gerald Annala, James Miller, James Popp, Jonathan Williams, Katsuya Yonehara, Kevin Lynch, Madeleine Blooomer, and __Michael Hedges__
 - JACoW MEDSI2025 (2026) THOB03, JACoW (2025)
