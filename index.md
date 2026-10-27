@@ -107,39 +107,48 @@ Full INSPIRE-HEP list is available [<u>online</u>](https://inspirehep.net/author
 
 ### Papers
 `2026`
+__(_Submitted_) Fermilab Accelerator Complex Upgrades and Charged Lepton Flavor Violation
+- __Michael T. Hedges__
+- A contribution to CLFV2026
+
 __(_Submitted_) FLUKA-Based Optimization of Pion Production for a Muon Collider Demonstrator__
 - R. Alharthy, S. Dasu, Ch.-H. Nee, P. Rao1, C. Vuosalo1, J. Eldred, __M. Hedges__, S. Jindariani, D. Stratakis, K. Yonehara
 - A contribution to IPAC2026 
 
 __(_Submitted_) Vector Potential-based Beam Current Sensors: Applications for Mu2e, and Picosecond Bunch Substructure__
 - Peter W. Gorham, __Michael T. Hedges__, Ryan Kim, Peter M. Lewis, Kevin Lynch, Christian Miki, James Morgan, Naia Nyza, Dalten Pang, Tanner Polischuk, Dean Still
+- A contribution to the International Beam Instrumentation Conference (IBIC) 2026
 
 __(_In Progress_) InAs Quantum Dot Scintillation Detector for Ultrafast Tracking Applications__
 - __Anticipated Author list:__ T. Mahajan, G. Biswal, M. Yakimov, V. Tokranov, __M. Hedges__, P. Murat, L. Casias, S. Addamane, and S. Oktyabrsky
 - To be submitted as part of DOE project closeout at U. Albany for investigating heterogenous InAs quantum dot scintillator detectors
 - Target Journal: Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment
-- __Submission Goal__: Nov 2026
+- __Submission Goal:__ Nov 2026
 
 __(_In Progress_) Fast measurements of resonantly extracted beam at the Fermilab muon campus using free-standing RF-based instrumentation for pulse-to-pulse proton intensity monitoring__
 - __Anticipated Author list:__ Peter W. Gorham, __Michael T. Hedges__, Ryan Kim, Peter M. Lewis, Kevin Lynch, Christian Miki, James Morgan, Naia Nyza, Dalten Pang, Tanner Polischuk, Dean Still
 - __Target Journal:__ Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment
-- __Submission Goal__: Spring 2026
+- __Submission Goal:__ Spring 2027
 
 __(_In Progress_) The Mu2e External Proton Beamline__
 - __Anticipated Author list:__ Madeleine Bloomer, Jason Crnkovic, George Deinlein, __Michael Hedges__, Ryan Hensley, Ryan Kim, Kevin Lynch, Vladimir Nagaslaev, Aakaash Narayanan, Eric Prebys,  Diktys Stratakis,
-- Target Journal: Physical Review: Accelerators and Beams
+- __Target Journal__: Physical Review: Accelerators and Beams
+- __Submission Goal:__ Spring 2027
 
 __(_In Progress_) The Mu2e Extinction System__
 - __Anticipated Author list:__ Madeleine Bloomer, Jason Crnkovic, George Deinlein, __Michael Hedges__, Ryan Hensley, Ryan Kim, Kevin Lynch, Vladimir Nagaslaev, Aakaash Narayanan, Eric Prebys,  Diktys Stratakis
+- __Target Journal__: Physical Review: Accelerators and Beams
+- __Submission Goal:__ Spring 2027
 
 __(_In Progress_) Analysis of highly irradiated alloy 718 specimens after ion beam irradiation and H/He implantation__
 - __Anticipated Author list:__ Abe Burleigh, Kavin Ammigan, Ethan Fletcher, __Michael Hedges__, Kevin Lynch, Jonathan Williams
+- __Target Journal__: Journal of Nuclear Materials
 - __Submission Goal__: End of 2026
 
 __(_In Progress_) The Mu2e Production Target__
 - __Anticipated Author list:__ Zunping Liu, Alajos Makovec, Andrew Edmonds, Frederique Pellemoine, Gerald Annala, James Miller, James Popp, Jonathan Williams, Katsuya Yonehara, Kevin Lynch, Madeleine Blooomer, and __Michael Hedges__
 - __Target Journal__: Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment
-- __Submission Goal__: Sprint 2026
+- __Submission Goal__: Spring 2027
 
 `2025`
 __(_In Progress_) F2D2 task force report__
@@ -261,6 +270,24 @@ Yamaoka, J.A. Kadyk, M. Garcia-Sciveres
 - Contributions: Principal analyst and author on detector point resolution analysis, development of initial track reconstruction algorithm, initial detector design, construction, and operation.
 
 ### Presentations
+`2026`
+__High Power Targetry Workshop 2026__
+- Contributed Talk
+- Title: An Evolving Framework for the Mu2e Production Target
+
+__Engineering Advisory Council: Tech Talk Series__
+- Invited Talk
+- Title: Mu2e Beam Intensity Monitor
+
+__NBI/RaDIATE 2026__
+- Contributed Talk
+- Title: An Evolving Framework for the Mu2e Production Target
+
+__Charged Lepton Flavor Violation 2026__
+- Invited Talk
+- Title: Fermilab Accelerator Complex Upgrades and Charged Lepton Flavor Violation
+
+  
 `2025`
 __The LPC’s Colliders of Tomorrow__
 - Invited Seminar
