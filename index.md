@@ -64,15 +64,15 @@ __Belle II__
  
 
 ## Mentorship
-__(_Ryan Kim_)__
+__Ryan Kim__
 - Lederman Fellow (postdoc)
 - Fast instrumentation for target health monitoring and beam profiling measurements at Mu2e and beyond
 
-__(_FLUKA & Ansys: A Fully Integrated Approach to Production Target Testing for High-Energy Physics_)__
+__FLUKA & Ansys: A Fully Integrated Approach to Production Target Testing for High-Energy Physics__
 - Kateryna Havryshchuk
 - Undergraduate Honors Thesis, Amherst College (Spring 2026)
 
-__(_Production Target Studies at the M4 Diagnostic Absorber_)__
+__Production Target Studies at the M4 Diagnostic Absorber__
 - Madeleine Bloomer
 - SULI 2025
   
@@ -106,10 +106,28 @@ __Vermessung der Vorwärts-Rückwärts Asymmetrie in semileptonischen B -> D\*ln
 Full INSPIRE-HEP list is available [<u>online</u>](https://inspirehep.net/authors/1259719)
 
 ### Papers
+`2026`
+__(_In Progress_) InAs Quantum Dot Scintillation Detector for Ultrafast Tracking Applications__
+- Submitted as part of DOE project closeout at U. Albany for investigating heterogenous InAs quantum dot scintillator detectors
+
+__(_In Progress_) Fast measurements of resonantly extracted beam at the Fermilab muon campus using free-standing RF-based instrumentation for pulse-to-pulse proton intensity monitoring__
+
+__(_In Progress_) The Mu2e External Proton Beamline__
+
+__(_In Progress_) The Mu2e Extinction System__
+
+__(_In Progress_) Analysis of highly irradiated alloy 718 specimens after ion beam irradiation and H/He implantation__
+
+__(_In Progress_) The Mu2e Production Target__
+
 `2025`
 __(_In Progress_) F2D2 task force report__
 
 __(_In Progress_) Conceptual design of a beam-dump and target facility for a future F2D2 site at Fermilab__
+
+__Challenges and optimization of Mu2e proton target design with radiative cooling__
+- Zunping Liu, Alajos Makovec, Andrew Edmonds, Frederique Pellemoine, Gerald Annala, James Miller, James Popp, Jonathan Williams, Katsuya Yonehara, Kevin Lynch, Madeleine Blooomer, and __Michael Hedges__
+- JACoW MEDSI2025 (2026) THOB03, JACoW (2025)
 
 `2024`
 __Design and Performance of an InAs Quantum Dot Scintillator with Integrated Photodetector__
