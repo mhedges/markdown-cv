@@ -37,7 +37,7 @@ __Boston University__
 ## Research
 __Mu2e__
 - *Target Station*
-    - Leading the redesign effort for the Mu2e Production Target.
+    - Leading Mu2e Production Target design team.
     - Developing target health and beam diagnostics instrumentation with university partners.
     - Facilitating completion of Mu2e Target Station Project work and transition to Operations.
  - *Collaboration Service*
@@ -45,7 +45,7 @@ __Mu2e__
      - Analysis Review Committee member (ongoing analysis)
 
 __Future Facility for Dark matter Discovery (F2D2)__
-- Ongoing participation on task force exploring feasibility of a future beamdump-based dark matter facility at Fermilab utiliziing PIP-II.
+- Participation on task force exploring feasibility of a future beamdump-based dark matter facility at Fermilab utilizing Linac2.
        
 __Instrumentation__
 - *mACE @ Mu2e*
@@ -66,6 +66,7 @@ __Belle II__
 ## Mentorship
 __Ryan Kim__
 - Lederman Fellow (postdoc)
+- "Technical Guide" on CMS mentorship team
 - Fast instrumentation for target health monitoring and beam profiling measurements at Mu2e and beyond
 
 __FLUKA & Ansys: A Fully Integrated Approach to Production Target Testing for High-Energy Physics__
