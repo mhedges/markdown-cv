@@ -107,6 +107,13 @@ Full INSPIRE-HEP list is available [<u>online</u>](https://inspirehep.net/author
 
 ### Papers
 `2026`
+__(_Submitted_) FLUKA-Based Optimization of Pion Production for a Muon Collider Demonstrator__
+- R. Alharthy, S. Dasu, Ch.-H. Nee, P. Rao1, C. Vuosalo1, J. Eldred, __M. Hedges__, S. Jindariani, D. Stratakis, K. Yonehara
+- A contribution to IPAC2026 
+
+__(_Submitted_) Vector Potential-based Beam Current Sensors: Applications for Mu2e, and Picosecond Bunch Substructure__
+- Peter W. Gorham, __Michael T. Hedges__, Ryan Kim, Peter M. Lewis, Kevin Lynch, Christian Miki, James Morgan, Naia Nyza, Dalten Pang, Tanner Polischuk, Dean Still
+
 __(_In Progress_) InAs Quantum Dot Scintillation Detector for Ultrafast Tracking Applications__
 - Submitted as part of DOE project closeout at U. Albany for investigating heterogenous InAs quantum dot scintillator detectors
 
