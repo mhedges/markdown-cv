@@ -115,17 +115,31 @@ __(_Submitted_) Vector Potential-based Beam Current Sensors: Applications for Mu
 - Peter W. Gorham, __Michael T. Hedges__, Ryan Kim, Peter M. Lewis, Kevin Lynch, Christian Miki, James Morgan, Naia Nyza, Dalten Pang, Tanner Polischuk, Dean Still
 
 __(_In Progress_) InAs Quantum Dot Scintillation Detector for Ultrafast Tracking Applications__
-- Submitted as part of DOE project closeout at U. Albany for investigating heterogenous InAs quantum dot scintillator detectors
+- __Anticipated Author list:__ T. Mahajan, G. Biswal, M. Yakimov, V. Tokranov, __M. Hedges__, P. Murat, L. Casias, S. Addamane, and S. Oktyabrsky
+- To be submitted as part of DOE project closeout at U. Albany for investigating heterogenous InAs quantum dot scintillator detectors
+- Target Journal: Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment
+- __Submission Goal__: Nov 2026
 
 __(_In Progress_) Fast measurements of resonantly extracted beam at the Fermilab muon campus using free-standing RF-based instrumentation for pulse-to-pulse proton intensity monitoring__
+- __Anticipated Author list:__ Peter W. Gorham, __Michael T. Hedges__, Ryan Kim, Peter M. Lewis, Kevin Lynch, Christian Miki, James Morgan, Naia Nyza, Dalten Pang, Tanner Polischuk, Dean Still
+- __Target Journal:__ Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment
+- __Submission Goal__: Spring 2026
 
 __(_In Progress_) The Mu2e External Proton Beamline__
+- __Anticipated Author list:__ Madeleine Bloomer, Jason Crnkovic, George Deinlein, __Michael Hedges__, Ryan Hensley, Ryan Kim, Kevin Lynch, Vladimir Nagaslaev, Aakaash Narayanan, Eric Prebys,  Diktys Stratakis,
+- Target Journal: Physical Review: Accelerators and Beams
 
 __(_In Progress_) The Mu2e Extinction System__
+- __Anticipated Author list:__ Madeleine Bloomer, Jason Crnkovic, George Deinlein, __Michael Hedges__, Ryan Hensley, Ryan Kim, Kevin Lynch, Vladimir Nagaslaev, Aakaash Narayanan, Eric Prebys,  Diktys Stratakis
 
 __(_In Progress_) Analysis of highly irradiated alloy 718 specimens after ion beam irradiation and H/He implantation__
+- __Anticipated Author list:__ Abe Burleigh, Kavin Ammigan, Ethan Fletcher, __Michael Hedges__, Kevin Lynch, Jonathan Williams
+- __Submission Goal__: End of 2026
 
 __(_In Progress_) The Mu2e Production Target__
+- __Anticipated Author list:__ Zunping Liu, Alajos Makovec, Andrew Edmonds, Frederique Pellemoine, Gerald Annala, James Miller, James Popp, Jonathan Williams, Katsuya Yonehara, Kevin Lynch, Madeleine Blooomer, and __Michael Hedges__
+- __Target Journal__: Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment
+- __Submission Goal__: Sprint 2026
 
 `2025`
 __(_In Progress_) F2D2 task force report__
