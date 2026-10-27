@@ -150,10 +150,13 @@ __(_In Progress_) The Mu2e Production Target__
 - __Target Journal__: Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment
 - __Submission Goal__: Spring 2027
 
+__(_In Progress_) Conceptual design of a beam-dump and target facility for a future F2D2 site at Fermilab__
+- __Anticipated Author list:__ William Asztalos, __Michael T. Hedges__, Jonathan Williams, (likely more...)
+- __Target Journal__: Journal of Instrumentation (JINST)
+- __Submission Goal__: Spring 2027
+
 `2025`
 __(_In Progress_) F2D2 task force report__
-
-__(_In Progress_) Conceptual design of a beam-dump and target facility for a future F2D2 site at Fermilab__
 
 __Challenges and optimization of Mu2e proton target design with radiative cooling__
 - Zunping Liu, Alajos Makovec, Andrew Edmonds, Frederique Pellemoine, Gerald Annala, James Miller, James Popp, Jonathan Williams, Katsuya Yonehara, Kevin Lynch, Madeleine Blooomer, and __Michael Hedges__
