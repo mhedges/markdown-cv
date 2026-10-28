@@ -37,7 +37,7 @@ __Boston University__
 ## Research
 __Mu2e__
 - *Target Station*
-    - Leading Mu2e Production Target design team.
+    - Leading Mu2e Production Target development team.
     - Developing target health and beam diagnostics instrumentation with university partners.
     - Facilitating completion of Mu2e Target Station Project work and transition to Operations.
  - *Collaboration Service*
